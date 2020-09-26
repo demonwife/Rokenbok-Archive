@@ -1,0 +1,10 @@
+---
+- route: sets
+  name: Sets
+- route: parts
+  name: Parts
+- route: projects
+  name: Projects
+- route: contrbute
+  name: Contribute
+
