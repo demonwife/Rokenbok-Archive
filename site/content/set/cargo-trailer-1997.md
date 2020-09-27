@@ -2,7 +2,7 @@
 title: Cargo Trailer
 year: 1997
 description: >-
-  
+  Cargo Trailer and vehicle transporter all in one! Includes two side rails for transporting cargo and hidden ramps that pull out for vehicle transportation. Hooks up to all Rokenbok RC vehicles through auto-hitch.
 archiveLinks:
   - name: 02/08/2001
     link: https://web.archive.org/web/20010208220625/http://rokenbok.com/catalog/pd_rcv_trailer.html
