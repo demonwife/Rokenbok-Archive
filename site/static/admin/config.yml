@@ -69,6 +69,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Name, name: name, widget: string}
           - {label: Link, name: link, widget: string}
 
+      - label: "Thumbnail"
+        name: "thumb"
+        widget: "image"
+        required: false
+        widget: image
+
       - label: "Images"
         name: "images"
         widget: "list"
