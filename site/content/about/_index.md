@@ -3,9 +3,9 @@ title: "About"
 tiles:
   - heading: Curator
     text: TechplexEngineer
-  - heading: Collaborators
+  - heading: Thanks to
     items:
-      - CR12 (List of Rokenbok Sets)
+      - CR12 (list of Rokenbok sets)
 ---
 
 We’d love to get in touch with you and hear your ideas and
