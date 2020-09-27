@@ -3,20 +3,28 @@
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3">
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+		<h2 class="f2 primary">{{ .Title }}</h2>
 
 		{{ .Content }}
 
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
+		<div class="flex mb3">
+	        {{ range .Params.tiles }}
+				<div class="w-50">
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					{{ if (isset . "text") }}
+					    {{ .text }}
+					{{ end }}
+
+					{{ if (isset . "items") }}
+					<ul>
+						{{ range .items }}
+							<li>{{ . }}</li>
+						{{ end }}
+					</ul>
+					{{ end }}
 				</div>
 			{{ end }}
 		</div>
-
-		{{ partial "contact-form" . }}
 
 	</div>
 </div>

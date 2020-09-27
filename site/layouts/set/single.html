@@ -3,12 +3,62 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
-      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Read in {{ .ReadingTime }} minutes</p>
+      <p>{{ .Params.year }}</p>
+      <p></p>
     </div>
     <div class="cms mw6">
+
+      {{ range .Params.images }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="fl" />
+      {{ end }}
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+
+
+      Archive Links
+      <ul>
+        {{range .Params.archiveLinks}}
+        <li>
+          <a href="{{.link}}">{{.name}}</a>
+        </li>
+        {{end}}
+      </ul>
+
+      Price History
+      <ul>
+        {{range .Params.priceHistory}}
+        <li>{{.date}} - {{.price}}</li>
+        {{end}}
+      </ul>
+
+      SKU
+      <ul>
+        {{range .Params.skus}}
+        <li>{{.}}</li>
+        {{end}}
+      </ul>
+      Category: {{.Params.category}}
+
+      Video: {{.Params.video}}
+
+      Plans
+      <ul>
+        {{range .Params.plans}}
+        <li>
+          <a href="{{.link}}">{{.name}}</a>
+        </li>
+        {{end}}
+      </ul>
+
+      Images
+      <ul>
+        {{range .Params.images}}
+        <li>
+          <img src="{{.}}">
+        </li>
+        {{end}}
+      </ul>
+      
+
       {{ .Content }}
     </div>
   </div>

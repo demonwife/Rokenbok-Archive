@@ -2,7 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Title "subtitle" .Params.subtitle) }}
 
-
 <div class="bg-off-white pt4">
   <div class="ph3 mw7 center">
 
@@ -11,10 +10,10 @@
       {{ range (where .Site.Data.nav "type" "primary") }}
 
       <div class="ph1-ns w-50-ns flex">
-        <a href="/{{.route}}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-          <h2 class="f3 b lh-title mb1 primary">{{.name}}</h2>
-          <!-- <p class="mid-gray lh-title mb2">date</p> -->
-          <!-- <p class="mb0">desc</p> -->
+        <a href="/{{.route}}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100 tc">
+          <h2 class="f3 b lh-title mb1 primary">{{.name}} &#8250;</h2>
+          <p class="lh-title mb2" style="color: #A9A9A9">{{ len (where $.Site.RegularPages "Section" "==" .route) }} items</p>
+          <!-- <p class="mb0"></p> -->
           <p class="link b dib black mb0">More →</p>
         </a>
       </div>

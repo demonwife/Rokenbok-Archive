@@ -11,7 +11,7 @@
   name: Projects
   type: primary
 
-- route: resources
-  name: Resources
+- route: about
+  name: About
   type: notPrimary
 
