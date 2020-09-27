@@ -2,34 +2,40 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-<div class="bg-off-white pv4">
-  <div class="ph3 mw7 center">
 
+<div class="bg-off-white pt4">
+  <div class="ph3 mw7 center">
 
     <div class="flex-ns mhn2-ns mb3">
 
-      <div class="ph2-ns w-50-ns">
-        <img src=".image" alt="" class="center db mb3" style="width: 240px">
-        <p>text</p>
+      {{ range (where .Site.Data.nav "type" "primary") }}
+
+      <div class="ph1-ns w-50-ns flex">
+        <a href="/{{.route}}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+          <h2 class="f3 b lh-title mb1 primary">{{.name}}</h2>
+          <!-- <p class="mid-gray lh-title mb2">date</p> -->
+          <!-- <p class="mb0">desc</p> -->
+          <p class="link b dib black mb0">More →</p>
+        </a>
       </div>
 
-      <div class="ph2-ns w-50-ns">
-        <img src=".image" alt="" class="center db mb3" style="width: 240px">
-        <p>text</p>
-      </div>
-
-      <div class="ph2-ns w-50-ns">
-        <img src=".image" alt="" class="center db mb3" style="width: 240px">
-        <p>text</p>
-      </div>
+      {{ end }}
 
     </div>
 
-    <div class="tc">
-      <a href="/products" class="btn raise">See all products</a>
-    </div>
   </div>
 </div>
+
+<!-- {{ range .Data.Pages }}
+  <div class="ph1-ns w-50-ns flex">
+    <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+      <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+      <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+      <p class="mb0">{{ .Description }}</p>
+      <p class="link b dib black mb0">Read more →</p>
+    </a>
+  </div>
+{{ end }} -->
 
 
 {{ partial "blog" . }}

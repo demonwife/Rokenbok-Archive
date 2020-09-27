@@ -1,10 +1,17 @@
 ---
-- route: sets
+- route: set
   name: Sets
-- route: parts
+  type: primary
+
+- route: part
   name: Parts
-- route: projects
+  type: primary
+
+- route: project
   name: Projects
-- route: contrbute
-  name: Contribute
+  type: primary
+
+- route: resources
+  name: Resources
+  type: notPrimary
 
