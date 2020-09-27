@@ -1,4 +1,3 @@
-
 ---
 title: 30 Degree Blocks
 year: 2015

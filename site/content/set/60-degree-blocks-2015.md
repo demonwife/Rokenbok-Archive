@@ -1,4 +1,3 @@
-
 ---
 title: 60 Degree Blocks
 year: 2015
