@@ -9,7 +9,7 @@
     <div class="cms mw6">
 
       {{ if .Params.thumb }}
-        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl" />
+        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl" style="max-width: 200px" />
       {{ end }}
       <p>{{ .Description }}</p>
 
