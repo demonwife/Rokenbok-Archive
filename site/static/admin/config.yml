@@ -14,32 +14,60 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Release Year", name: "year", widget: "number"}
       - {label: "Description", name: "description", widget: "markdown"}
 
-      # - label: "Archive Links"
-      #   name: "archiveLinks"
-      #   widget: ""
+      - label: "Archive Links"
+        name: "archiveLinks"
+        widget: "list"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - {label: Link, name: link, widget: string}
 
-      # - label: "Price History"
-      #   name: "priceHistory"
-      #   widget: ""
+      - label: "Price History"
+        name: "priceHistory"
+        widget: "list"
+        fields:
+          - {label: Date, name: date, widget: date}
+          - {label: Price, name: price, widget: string}
 
       - label: "SKUs"
         name: "skus"
         widget: "list"
         field: {label: SKU, name: sku, widget: text}
 
-      # - label: "Category"
-      #   name: "category"
-      #   widget: ""
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: 
+          - Action Accessory
+          - Book
+          - Building Basics
+          - Building Set
+          - Control (RC)
+          - Control (Rok Star)
+          - Furniture
+          - Rok Blocks
+          - Rokenbok RC
+          - Start Set (RC)
+          - Start Set (Rok Star)
+          - Start Set (Unique)
+          - Vehicle (RC)
+          - Vehicle (Rok Star)
 
-      # - label: "Video Link"
-      #   name: "video"
-      #   widget: ""
+      - label: "Video Link"
+        name: "video"
+        widget: "string"
 
-      # - label: "Plans"
-      #   name: "plans"
-      #   widget: ""
+      - label: "Plans"
+        name: "plans"
+        widget: "list"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - {label: Link, name: link, widget: string}
+
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        field: {label: Image, name: img, widget: image}
 
 
-      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   
