@@ -8,10 +8,13 @@
     </div>
     <div class="cms mw6">
 
-      {{ range .Params.images }}
-        <img src="{{ . }}" alt="{{ $.Title }}" class="fl" />
+      {{ if .Params.thumb }}
+        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl" />
       {{ end }}
       <p>{{ .Description }}</p>
+
+      <!-- If the description is too short, make sure the next bits start after the image -->
+      <div class="cf"></div>
 
 
       Archive Links
@@ -49,7 +52,7 @@
         {{end}}
       </ul>
 
-      Images
+      Other Images
       <ul>
         {{range .Params.images}}
         <li>

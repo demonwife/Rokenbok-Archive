@@ -17,10 +17,9 @@ priceHistory:
 skus:
   - "33325"
 plans: null
-thumb: /img/sets/missing.jpg
+thumb: /img/sets/thumb_auto_center.gif
 category: Building Set
 video: "-"
 images:
-  - /img/sets/missing.jpg
 ---
 \-

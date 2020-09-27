@@ -7,15 +7,15 @@ archiveLinks:
   - name: 02/08/2001
     link: https://web.archive.org/web/20010208220625/http://rokenbok.com/catalog/pd_rcv_trailer.html
 priceHistory:
-  - date: "?"
+  - date: 02/08/2001
     price: 14.99
 skus:
-  - #04291
+  - "#04291"
 category: Action Accessory
 video: ""
 plans:
 
-thumb: /img/sets/missing.jpg
+thumb: /img/sets/cargo_trailer.jpg
 images:
-  -  /img/sets/missing.jpg
+  -  /img/sets/cargo_trailer_blue.jpg
 ---
