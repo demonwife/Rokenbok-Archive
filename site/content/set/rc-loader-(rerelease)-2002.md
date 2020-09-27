@@ -1,4 +1,3 @@
-
 ---
 title: RC Loader (rerelease)
 year: 2002

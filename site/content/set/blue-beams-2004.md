@@ -1,4 +1,3 @@
-
 ---
 title: Blue Beams
 year: 2004

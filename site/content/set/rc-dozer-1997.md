@@ -1,4 +1,3 @@
-
 ---
 title: RC Dozer
 year: 1997

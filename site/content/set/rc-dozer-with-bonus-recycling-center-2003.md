@@ -1,4 +1,3 @@
-
 ---
 title: RC Dozer with Bonus Recycling Center
 year: 2003

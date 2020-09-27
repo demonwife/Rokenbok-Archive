@@ -1,4 +1,3 @@
-
 ---
 title: RC Emergency Speedster
 year: 1998

@@ -1,4 +1,3 @@
-
 ---
 title: Construction World
 year: 1997

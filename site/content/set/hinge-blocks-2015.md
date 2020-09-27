@@ -1,4 +1,3 @@
-
 ---
 title: Hinge Blocks
 year: 2015

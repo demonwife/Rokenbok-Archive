@@ -1,4 +1,3 @@
-
 ---
 title: Power Supply - North America
 year: 

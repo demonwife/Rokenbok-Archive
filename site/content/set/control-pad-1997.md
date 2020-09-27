@@ -1,4 +1,3 @@
-
 ---
 title: Control Pad
 year: 1997

@@ -1,4 +1,3 @@
-
 ---
 title: RC Fire & Rescue
 year: 2004

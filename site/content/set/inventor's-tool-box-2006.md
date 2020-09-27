@@ -1,4 +1,3 @@
-
 ---
 title: Inventor's Tool Box
 year: 2006

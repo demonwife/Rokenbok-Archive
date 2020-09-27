@@ -1,4 +1,3 @@
-
 ---
 title: Walls
 year: 1998

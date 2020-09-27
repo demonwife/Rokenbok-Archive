@@ -1,4 +1,3 @@
-
 ---
 title: Construction Worker
 year: 1998

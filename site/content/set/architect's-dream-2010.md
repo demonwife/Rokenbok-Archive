@@ -1,4 +1,3 @@
-
 ---
 title: Architect's Dream
 year: 2010

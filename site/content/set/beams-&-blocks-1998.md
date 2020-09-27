@@ -1,4 +1,3 @@
-
 ---
 title: Beams & Blocks
 year: 1998

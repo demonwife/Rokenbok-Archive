@@ -1,4 +1,3 @@
-
 ---
 title: Rok Jr. Beginning Builder Play Set
 year: 2007

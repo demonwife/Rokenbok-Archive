@@ -1,4 +1,3 @@
-
 ---
 title: Remote Control Monorail with Power Dump Bed (Rok Star)
 year: 2010

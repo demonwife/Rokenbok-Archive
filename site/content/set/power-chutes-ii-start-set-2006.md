@@ -1,4 +1,3 @@
-
 ---
 title: Power Chutes II Start Set
 year: 2006

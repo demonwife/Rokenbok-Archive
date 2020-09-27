@@ -1,4 +1,3 @@
-
 ---
 title: Radio Control Center with Control Pad
 year: 2007

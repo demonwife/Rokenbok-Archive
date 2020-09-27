@@ -1,4 +1,3 @@
-
 ---
 title: Pulley Block
 year: 2015

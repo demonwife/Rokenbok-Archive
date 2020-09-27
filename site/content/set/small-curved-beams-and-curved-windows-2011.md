@@ -1,4 +1,3 @@
-
 ---
 title: Small Curved Beams and Curved Windows
 year: 2011

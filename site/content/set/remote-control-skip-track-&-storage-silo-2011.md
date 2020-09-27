@@ -1,4 +1,3 @@
-
 ---
 title: Remote Control Skip Track & Storage Silo
 year: 2011

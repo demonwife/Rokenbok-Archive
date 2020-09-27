@@ -1,4 +1,3 @@
-
 ---
 title: RC Tower Crane with Custom Warehouse
 year: 2004

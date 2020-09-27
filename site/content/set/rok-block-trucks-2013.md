@@ -1,4 +1,3 @@
-
 ---
 title: ROK Block Trucks
 year: 2013

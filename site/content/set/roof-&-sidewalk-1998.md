@@ -1,4 +1,3 @@
-
 ---
 title: Roof & Sidewalk
 year: 1998

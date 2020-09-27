@@ -1,4 +1,3 @@
-
 ---
 title: Dark Gray Beams
 year: 2004

@@ -1,4 +1,3 @@
-
 ---
 title: Construction World III
 year: 2014

@@ -1,4 +1,3 @@
-
 ---
 title: Red Blocks
 year: 2004

@@ -1,4 +1,3 @@
-
 ---
 title: Monorail Storage Depot
 year: 2003

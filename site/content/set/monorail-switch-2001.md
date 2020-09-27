@@ -1,4 +1,3 @@
-
 ---
 title: Monorail Switch
 year: 2001

@@ -1,4 +1,3 @@
-
 ---
 title: Construction World II
 year: 2005

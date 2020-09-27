@@ -1,4 +1,3 @@
-
 ---
 title: Monorail Metropolis Start Set
 year: 2007

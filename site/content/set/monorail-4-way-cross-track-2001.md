@@ -1,4 +1,3 @@
-
 ---
 title: Monorail 4-Way Cross Track
 year: 2001

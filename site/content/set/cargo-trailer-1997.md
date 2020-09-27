@@ -1,4 +1,3 @@
-
 ---
 title: Cargo Trailer
 year: 1997

@@ -1,4 +1,3 @@
-
 ---
 title: Custom Crane Warehouse
 year: 2003

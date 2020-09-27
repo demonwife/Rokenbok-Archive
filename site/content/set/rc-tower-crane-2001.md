@@ -1,4 +1,3 @@
-
 ---
 title: RC Tower Crane
 year: 2001

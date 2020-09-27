@@ -1,4 +1,3 @@
-
 ---
 title: Curved Beams
 year: 2004

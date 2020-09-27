@@ -1,4 +1,3 @@
-
 ---
 title: Defender Duel 2 Player Start Set
 year: 2006

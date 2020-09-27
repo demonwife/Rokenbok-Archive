@@ -1,4 +1,3 @@
-
 ---
 title: Maker ROK Robotics
 year: 2015

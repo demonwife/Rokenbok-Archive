@@ -1,4 +1,3 @@
-
 ---
 title: TransGripper Arm Replacement Set
 year: 

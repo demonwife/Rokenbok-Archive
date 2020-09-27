@@ -1,4 +1,3 @@
-
 ---
 title: Vehicle Lift
 year: 1999

@@ -1,4 +1,3 @@
-
 ---
 title: RC Forklift with Bonus Warehouse
 year: 2002

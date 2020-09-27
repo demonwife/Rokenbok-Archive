@@ -1,4 +1,3 @@
-
 ---
 title: Black Beams
 year: 2004

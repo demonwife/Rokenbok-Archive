@@ -1,4 +1,3 @@
-
 ---
 title: Gear Teeth
 year: 2015

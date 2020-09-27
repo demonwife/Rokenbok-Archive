@@ -1,4 +1,3 @@
-
 ---
 title: Remote Control Forklift (Rok Star)
 year: 2010

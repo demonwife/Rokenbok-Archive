@@ -1,4 +1,3 @@
-
 ---
 title: ROK Blocks Mega-saurus Jumbo Set
 year: 2013

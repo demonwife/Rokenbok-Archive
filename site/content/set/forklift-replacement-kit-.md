@@ -1,4 +1,3 @@
-
 ---
 title: Forklift Replacement Kit
 year: 

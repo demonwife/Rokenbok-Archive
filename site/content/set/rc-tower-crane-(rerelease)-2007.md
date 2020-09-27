@@ -1,4 +1,3 @@
-
 ---
 title: RC Tower Crane (rerelease)
 year: 2007

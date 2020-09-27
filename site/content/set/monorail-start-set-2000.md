@@ -1,4 +1,3 @@
-
 ---
 title: Monorail Start Set
 year: 2000

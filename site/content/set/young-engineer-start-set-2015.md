@@ -1,4 +1,3 @@
-
 ---
 title: Young Engineer Start Set
 year: 2015

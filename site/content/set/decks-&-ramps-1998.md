@@ -1,4 +1,3 @@
-
 ---
 title: Decks & Ramps
 year: 1998

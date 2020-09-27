@@ -1,4 +1,3 @@
-
 ---
 title: Rok Garage
 year: 2003

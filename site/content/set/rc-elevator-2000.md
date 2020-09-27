@@ -1,4 +1,3 @@
-
 ---
 title: RC Elevator
 year: 2000

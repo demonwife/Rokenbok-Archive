@@ -1,4 +1,3 @@
-
 ---
 title: RC Transgripper & Trailer (rerelease)
 year: 2007

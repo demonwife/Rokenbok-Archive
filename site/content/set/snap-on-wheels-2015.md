@@ -1,4 +1,3 @@
-
 ---
 title: Snap-on Wheels
 year: 2015

@@ -1,4 +1,3 @@
-
 ---
 title: Auto Center
 year: 1999

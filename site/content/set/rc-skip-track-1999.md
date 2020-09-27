@@ -1,4 +1,3 @@
-
 ---
 title: RC Skip Track
 year: 1999

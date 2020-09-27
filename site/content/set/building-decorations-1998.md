@@ -1,4 +1,3 @@
-
 ---
 title: Building Decorations
 year: 1998

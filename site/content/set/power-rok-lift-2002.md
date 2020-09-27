@@ -1,4 +1,3 @@
-
 ---
 title: Power ROK-Lift
 year: 2002

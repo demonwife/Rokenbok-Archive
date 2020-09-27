@@ -1,4 +1,3 @@
-
 ---
 title: Snap-on Trailer Hitch
 year: 2015

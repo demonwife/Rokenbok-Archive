@@ -1,4 +1,3 @@
-
 ---
 title: Piston Plant
 year: 1999

@@ -1,4 +1,3 @@
-
 ---
 title: Motorized Conveyor (battery 2) [brown]
 year: 2007

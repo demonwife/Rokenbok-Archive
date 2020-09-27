@@ -1,4 +1,3 @@
-
 ---
 title: ROK Blocks Robot
 year: 2013

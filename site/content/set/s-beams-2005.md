@@ -1,4 +1,3 @@
-
 ---
 title: S-Beams
 year: 2005

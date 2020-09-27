@@ -1,4 +1,3 @@
-
 ---
 title: The ROK Blocks Big Idea Book
 year: 2013

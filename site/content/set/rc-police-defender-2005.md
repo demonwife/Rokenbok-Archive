@@ -1,4 +1,3 @@
-
 ---
 title: RC Police Defender
 year: 2005

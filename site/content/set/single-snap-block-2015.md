@@ -1,4 +1,3 @@
-
 ---
 title: Single Snap Block
 year: 2015

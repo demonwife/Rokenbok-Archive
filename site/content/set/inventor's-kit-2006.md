@@ -1,4 +1,3 @@
-
 ---
 title: Inventor's Kit
 year: 2006

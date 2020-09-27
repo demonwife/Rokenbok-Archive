@@ -1,4 +1,3 @@
-
 ---
 title: Small Curved Beams 
 year: 2015

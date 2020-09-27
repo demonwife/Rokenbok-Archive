@@ -1,4 +1,3 @@
-
 ---
 title: Play Table
 year: 2000

@@ -1,4 +1,3 @@
-
 ---
 title: Monorail Storage Depot (rerelease)
 year: 2014

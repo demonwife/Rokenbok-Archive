@@ -1,4 +1,3 @@
-
 ---
 title: King of the Rok Competition Arena
 year: 2003

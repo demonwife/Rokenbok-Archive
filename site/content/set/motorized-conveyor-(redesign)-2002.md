@@ -1,4 +1,3 @@
-
 ---
 title: Motorized Conveyor (redesign)
 year: 2002

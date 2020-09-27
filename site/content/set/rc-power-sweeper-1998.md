@@ -1,4 +1,3 @@
-
 ---
 title: RC Power Sweeper
 year: 1998

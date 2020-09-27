@@ -1,4 +1,3 @@
-
 ---
 title: X2 Dual Drive Power Unit
 year: 2010

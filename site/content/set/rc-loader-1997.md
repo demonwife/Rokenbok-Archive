@@ -1,4 +1,3 @@
-
 ---
 title: RC Loader
 year: 1997

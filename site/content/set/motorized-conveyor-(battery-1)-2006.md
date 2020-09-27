@@ -1,4 +1,3 @@
-
 ---
 title: Motorized Conveyor (battery 1)
 year: 2006

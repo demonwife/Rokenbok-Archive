@@ -1,4 +1,3 @@
-
 ---
 title: RC Transgripper & Trailer
 year: 1997

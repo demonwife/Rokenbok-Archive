@@ -1,4 +1,3 @@
-
 ---
 title: Monorail Track
 year: 2000

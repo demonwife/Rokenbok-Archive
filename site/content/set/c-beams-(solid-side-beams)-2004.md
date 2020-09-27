@@ -1,4 +1,3 @@
-
 ---
 title: C-Beams (Solid side beams)
 year: 2004

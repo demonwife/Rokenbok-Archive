@@ -1,4 +1,3 @@
-
 ---
 title: Motorized Conveyor
 year: 1997

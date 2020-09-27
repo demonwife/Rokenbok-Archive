@@ -1,4 +1,3 @@
-
 ---
 title: Remote Control Loader (Rok Star)
 year: 2010

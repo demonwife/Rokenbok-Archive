@@ -1,4 +1,3 @@
-
 ---
 title: RC Monorail with Bonus Track & Crossing
 year: 2002

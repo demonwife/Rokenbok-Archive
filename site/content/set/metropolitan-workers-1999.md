@@ -1,4 +1,3 @@
-
 ---
 title: Metropolitan Workers
 year: 1999

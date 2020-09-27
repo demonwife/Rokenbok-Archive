@@ -1,4 +1,3 @@
-
 ---
 title: RC Monorail Freighter
 year: 2000

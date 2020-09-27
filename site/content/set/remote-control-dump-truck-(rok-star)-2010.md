@@ -1,4 +1,3 @@
-
 ---
 title: Remote Control Dump Truck (Rok Star)
 year: 2010

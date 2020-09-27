@@ -1,4 +1,3 @@
-
 ---
 title: Remote Control Dozer with Recycling Center (Rok Star)
 year: 2011
