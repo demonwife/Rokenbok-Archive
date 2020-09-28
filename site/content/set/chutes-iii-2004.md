@@ -7,15 +7,14 @@ archiveLinks:
   - name: 02/12/2005
     link: https://web.archive.org/web/20050212062830/http://www.rokenbok.com/catalog/pd_bb_34600.html
 priceHistory:
-  - date: "?"
-    price: 19.989999999999998
+  - date: 02/12/2005
+    price: 19.99
 skus:
-  - #34600
+  - "#34600"
 category: Building Basics
 video: ""
 plans:
 
 thumb: /img/sets/missing.jpg
 images:
-  -  /img/sets/missing.jpg
 ---

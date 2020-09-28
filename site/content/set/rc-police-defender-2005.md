@@ -2,20 +2,20 @@
 title: RC Police Defender
 year: 2005
 description: >-
-  
+  Defend Your Rokenbok World
+  Police Defenders are on guard to keep the peace in the Rokenbok World. They practice their skills playing capture the flag, and it’s a blast! Knock off your opponent’s flags by bumping into them, or better yet, roll your opponent over with your defender ram. It’s a real ROK’n Rumble! You can play anywhere, but it’s especially fun in the King of the ROK Arena. Your urban combat police vehicle is equipped with 4wheel drive, sturdy mechanized defender ram, and 3 snap locations to affix you flags for battle competition.
 archiveLinks:
   - name: 08/14/2006
     link: https://web.archive.org/web/20060814015245/http://www.rokenbok.com/catalog/pd_rcv_04215.html
 priceHistory:
-  - date: "?"
-    price: 39.990000000000002
+  - date: 08/14/2006
+    price: 39.99
 skus:
-  - #04215
+  - "#04215"
 category: Vehicle (RC)
 video: ""
 plans:
 
-thumb: /img/sets/missing.jpg
+thumb: /img/sets/rc_police_defender.jpg
 images:
-  -  /img/sets/missing.jpg
 ---
