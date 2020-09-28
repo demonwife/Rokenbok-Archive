@@ -7,15 +7,19 @@ description: >-
 archiveLinks:
   - name: 02/12/2005
     link: https://web.archive.org/web/20050212062830/http://www.rokenbok.com/catalog/pd_bb_34612.html
+  - name: 07/20/2012
+    link: https://web.archive.org/web/20120720032645/http://www.rokenbok.com/estore/construction/decks-ii
 priceHistory:
   - date: 02/12/2005
     price: 19.99
+  - date: 07/20/2012
+    price: 24.99
 skus:
   - "#34612"
 category: Building Basics
 video: ""
 plans:
 
-thumb: /img/sets/missing.jpg
+thumb: /img/sets/34612_decks_ii.png
 images:
 ---

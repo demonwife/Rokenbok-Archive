@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_monorail_crossing.gif
 images:
+    - /img/sets/06712_monorail_crossing.jpg
 ---

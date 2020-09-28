@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+	<div class="center mw7 pv3">
 
 		<h2 class="f2 primary">{{ .Title }}</h2>
 
@@ -22,6 +22,17 @@
 						{{ end }}
 					</ul>
 					{{ end }}
+
+					{{ if (isset . "links") }}
+					<ul>
+						{{ range .links }}
+							<li>
+								<a href="{{.url}}" target="_BLANK">{{.name}}</a>
+							</li>
+						{{ end }}
+					</ul>
+					{{ end }}
+
 				</div>
 			{{ end }}
 		</div>

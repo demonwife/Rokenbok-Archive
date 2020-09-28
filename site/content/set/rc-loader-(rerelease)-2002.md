@@ -1,5 +1,5 @@
 ---
-title: RC Loader (rerelease - orange)
+title: RC Loader (rerelease) [orange]
 year: 2002
 description: >-
   Scoops, Transports & Dumps Balls!
@@ -7,15 +7,19 @@ description: >-
 archiveLinks:
   - name: 08/13/2006
     link: https://web.archive.org/web/20060813152213/http://www.rokenbok.com/catalog/pd_rcv_04217.html
+  - name: Amazon 2020
+    link: https://www.amazon.com/Rokenbok-04217-R-C-Loader/dp/B000H456SA
 priceHistory:
   - date: 08/13/2006
     price: 49.99
+  - date: 2020
+    price: 129.99
 skus:
   - "#04217"
 category: Vehicle (RC)
 video: ""
 plans:
 
-thumb: /img/sets/missing.jpg
+thumb: /img/sets/rc_loader_orange_04217.jpg
 images:
 ---

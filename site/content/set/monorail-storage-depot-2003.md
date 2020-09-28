@@ -18,6 +18,6 @@ category: Building Set
 video: ""
 plans:
 
-thumb: /img/sets/missing.jpg
+thumb: /img/sets/monorail_storage_depot_46315.jpg
 images:
 ---

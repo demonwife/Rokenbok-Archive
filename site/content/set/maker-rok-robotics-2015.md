@@ -10,7 +10,7 @@ priceHistory:
   - date: "?"
     price: 
 skus:
-  - #08133
+  - "#08133"
 category: Vehicle (Rok Star)
 video: ""
 plans:
