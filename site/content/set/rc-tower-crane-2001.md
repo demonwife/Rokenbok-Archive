@@ -21,4 +21,13 @@ plans:
 thumb: /img/sets/thumb_rc_crane.gif
 images:
   - /img/sets/thumb_rc_crane_1.jpg
+  #RC Tower Crane Includes 4 attachments.
+  - /img/sets/rc_crane_2.jpg
+  #Carry & Dump Payloads with the Bucket.
+  - /img/sets/rc_crane_3.jpg
+  #Transport ROK accessories with the Platform.
+  - /img/sets/rc_crane_4.jpg
+  #Lift Beams & Blocks with the Hook.
+  - /img/sets/rc_crane_5.jpg
+  #Carry Beams & Blocks with the Grabber.
 ---
