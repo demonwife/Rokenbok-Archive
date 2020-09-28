@@ -10,7 +10,7 @@ priceHistory:
   - date: "?"
     price: 
 skus:
-  - #34313
+  - "#34313"
 category: Building Set
 video: ""
 plans:
