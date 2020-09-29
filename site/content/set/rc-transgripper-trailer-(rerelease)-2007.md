@@ -14,7 +14,7 @@ priceHistory:
   - date: "?"
     price: 64.989999999999995
 skus:
-  - #04245
+  - "#04245"
 category: Vehicle (RC)
 video: ""
 plans:
