@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_construction_world.gif
 images:
+  - /img/sets/34317_construction_world.jpg
 ---
