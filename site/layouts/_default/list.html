@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" "Set List") }}
+{{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
