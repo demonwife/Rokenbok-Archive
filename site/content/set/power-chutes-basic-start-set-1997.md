@@ -25,6 +25,7 @@ plans:
 
 thumb: /img/sets/power_chutes_i.jpg
 images:
+  - /img/sets/34110_power_chutes.jpg
   - /img/sets/power_chutes_i_1.jpg
   - /img/sets/power_chutes_i_2.jpg
 
