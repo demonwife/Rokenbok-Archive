@@ -1,6 +1,68 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <p>{{ .Params.year }}</p>
+      <p></p>
+    </div>
+    <div class="cms mw6">
 
+      {{ if .Params.thumb }}
+        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl mr2" style="max-width: 200px;margin-right: .5rem;" />
+      {{ end }}
+      <p>{{ .Description }}</p>
+
+      <!-- If the description is too short, make sure the next bits start after the image -->
+      <div class="cf"></div>
+
+
+      <h4 class="f4">Archive Links</h4>
+      <ul>
+        {{range .Params.archiveLinks}}
+        <li>
+          <a href="{{.link}}">{{.name}}</a>
+        </li>
+        {{end}}
+      </ul>
+
+      <h4 class="f4">Price History</h4>
+      <ul>
+        {{range .Params.priceHistory}}
+        <li>{{.date}} - {{.price}}</li>
+        {{end}}
+      </ul>
+
+      <h4 class="f4">SKU</h4>
+      <ul>
+        {{range .Params.skus}}
+        <li>{{.}}</li>
+        {{end}}
+      </ul>
+      <h4 class="f4">Category</h4> {{.Params.category}}
+
+      <h4 class="f4">Video</h4> {{.Params.video}}
+
+      <h4 class="f4">Plans</h4>
+      <ul>
+        {{range .Params.plans}}
+        <li>
+          <a href="{{.link}}">{{.name}}</a>
+        </li>
+        {{end}}
+      </ul>
+
+      <h4 class="f4">Other Images</h4>
+      <ul>
+        {{range .Params.images}}
+        <li>
+          <img src="{{.}}">
+        </li>
+        {{end}}
+      </ul>
+
+
+      {{ .Content }}
+    </div>
+  </div>
 {{ end }}
