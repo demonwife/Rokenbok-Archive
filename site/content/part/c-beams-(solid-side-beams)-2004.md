@@ -7,6 +7,8 @@ description: >-
 archiveLinks:
   - name: 02/23/2005
     link: https://web.archive.org/web/20050223151823/http://www.rokenbok.com/catalog/pd_bb_10921.html
+  - name: 04/03/2005 "The Contstruction Site"
+    link: https://web.archive.org/web/20050403212813/http://www.constructiontoys.com/zirokenbok.html
 priceHistory:
   - date: 02/23/2005
     price: 14.99
@@ -16,6 +18,6 @@ category: Building Basics
 video: ""
 plans:
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/10921_c_beams.jpg
 images:
 ---
