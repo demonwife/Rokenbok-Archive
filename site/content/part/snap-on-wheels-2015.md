@@ -15,10 +15,10 @@ category: Building Basics
 video: ""
 plans:
 
-thumb: /img/sets/20-00355_wheels_1.jpg
+thumb: /img/parts/20-00355_wheels_1.jpg
 images:
-  - /img/sets/20-00355_wheels_2.jpg
-  - /img/sets/20-00355_wheels_parts.jpg
+  - /img/parts/20-00355_wheels_2.jpg
+  - /img/parts/20-00355_wheels_parts.jpg
 ---
 Need More Wheels?
 

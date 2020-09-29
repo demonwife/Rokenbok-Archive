@@ -15,9 +15,9 @@ category: Building Basics
 video: ""
 plans:
 
-thumb: /img/sets/20-00349_single_snap_block.jpg
+thumb: /img/parts/20-00349_single_snap_block.jpg
 images:
-  -  /img/sets/20-00349_single_snap_block_parts.jpg
+  -  /img/parts/20-00349_single_snap_block_parts.jpg
 ---
 Need more snap blocks?
 
