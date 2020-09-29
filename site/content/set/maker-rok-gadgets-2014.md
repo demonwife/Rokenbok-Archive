@@ -14,6 +14,8 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Maker Rok Gadgets
+  link: /plans/04321_maker_rok_gadgets.pdf
 
 thumb: /img/sets/04321_maker_rok_gadgets_1.jpg
 images:

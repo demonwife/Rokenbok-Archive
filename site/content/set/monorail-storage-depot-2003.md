@@ -17,6 +17,8 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Monorail Storage Depot
+  link: /plans/46315_monorail_storage_depot.pdf
 
 thumb: /img/sets/monorail_storage_depot_46315.jpg
 images:

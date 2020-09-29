@@ -18,7 +18,8 @@ skus:
 category: Building Set
 video: ""
 plans:
-
+- name: Inventors Tool Box
+  link: /plans/04333_inventors_tool_box.pdf
 thumb: /img/sets/thumb_inventors_toolbox.jpg
 images:
   - /img/sets/thumb_inventors_toolbox_1.jpg

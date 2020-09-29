@@ -15,6 +15,8 @@ skus:
 category: Vehicle (RC)
 video: ""
 plans:
+- name: RC Dozer & Recycling Center
+  link: /plans/04273_rc_dozer_recycling_center.pdf
 
 thumb: /img/sets/thumb_rc_dozer_recycling_center.jpg
 images:

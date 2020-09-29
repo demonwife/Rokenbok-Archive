@@ -15,7 +15,12 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
-
+- name: Monorail Start Set A
+  link: /plans/36140_monorail_start_set_a.pdf
+- name: Monorail Start Set B
+  link: /plans/36140_monorail_start_set_b.pdf
+- name: Monorail Start Set C
+  link: /plans/36140_monorail_start_set_c.pdf
 thumb: /img/sets/thumb_monorail_ss.gif
 images:
 ---

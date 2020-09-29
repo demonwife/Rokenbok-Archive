@@ -14,7 +14,12 @@ skus:
 category: Building Set
 video: ""
 plans:
-
+- name: Service Center A
+  link: /plans/34313_service_center_a.pdf
+- name: Service Center B
+  link: /plans/34313_service_center_b.pdf
+- name: Service Center C
+  link: /plans/34313_service_center_c.pdf
 thumb: /img/sets/34313_service_center.gif
 images:
   -  /img/sets/34313_service_center_configurations.gif

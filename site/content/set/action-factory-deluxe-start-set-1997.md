@@ -15,13 +15,14 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
-  - name: Plan A
-    link: https://drive.google.com/open?id=1eVMoE4RXiXoCRi6Gv1DRUmkV8F3PrDLd
-  - name: Plan B
-    link: https://drive.google.com/open?id=18oZk90CIoyjbYKgtMEPfJ7iLPO_uA7ao
-  - name: Plan C
-    link: https://drive.google.com/open?id=1di9a_nGzZ7jG3_dbfXrPsnrWONihZAsf
-
+  - name: Action Factory Start Set
+    link: /plans/34120_action_factory_ss.pdf
+  - name: Action Factory Ss A
+    link: /plans/34120_action_factory_ss_a.pdf
+  - name: Action Factory Ss B
+    link: /plans/34120_action_factory_ss_b.pdf
+  - name: Action Factory Ss C
+    link: /plans/34120_action_factory_ss_c.pdf
 thumb: /img/sets/thumb_action_factory.gif
 images:
   -  /img/sets/thumb_action_factory.gif

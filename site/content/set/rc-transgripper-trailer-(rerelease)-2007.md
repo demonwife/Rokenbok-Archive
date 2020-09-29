@@ -18,6 +18,8 @@ skus:
 category: Vehicle (RC)
 video: ""
 plans:
+- name: RC Transgripper & Trailer
+  link: /plans/04245_rc_transgripper_trailer.pdf
 
 thumb: /img/sets/thumb_rc_transgripper_trailer.jpg
 images:

@@ -14,6 +14,8 @@ skus:
 category: Start Set (Rok Star)
 video: ""
 plans:
+- name: Young Engineer Ss
+  link: /plans/04129_young_engineer_ss.pdf
 
 thumb: /img/sets/04129_young_engineer_ss_1.jpg
 images:

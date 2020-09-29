@@ -14,7 +14,12 @@ skus:
 category: Building Set
 video: ""
 plans:
-
+- name: Monorail Track A
+  link: /plans/06310_monorail_track_a.pdf
+- name: Monorail Track B
+  link: /plans/06310_monorail_track_b.pdf
+- name: Monorail Track C
+  link: /plans/06310_monorail_track_c.pdf
 thumb: /img/sets/thumb_monorail_track.gif
 images:
 ---

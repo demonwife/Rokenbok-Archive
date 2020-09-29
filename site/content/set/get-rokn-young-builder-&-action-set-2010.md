@@ -14,6 +14,8 @@ skus:
 category: Start Set (Rok Star)
 video: ""
 plans:
+- name: Rs Young Builder Action Set
+  link: /plans/07300_rs_young_builder_action_set.pdf
 
 thumb: /img/sets/young_builder_action_07300.jpg
 images:

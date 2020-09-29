@@ -14,6 +14,12 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Construction World A
+  link: /plans/34317_construction_world_a.pdf
+- name: Construction World B
+  link: /plans/34317_construction_world_b.pdf
+- name: Construction World C
+  link: /plans/34317_construction_world_b.pdf
 
 thumb: /img/sets/thumb_construction_world.gif
 images:

@@ -16,7 +16,8 @@ skus:
 category: Vehicle (Rok Star)
 video: ""
 plans:
-
+- name: Rok Star Monorail
+  link: /plans/06226_rs_monorail.pdf
 thumb: /img/sets/06226_rs_monorail.jpg
 images:
 ---

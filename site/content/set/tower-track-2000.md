@@ -1,5 +1,5 @@
 ---
-title: Tower & Track
+title: Monorail Tower & Track
 year: 2000
 description: >-
   You get unique Rokenbok accessories and building pieces that are included in the Monorail Start Set, such as the Rail Tower, cat walks, curved and S-Beams, and sorting chute. This 252-piece building set is specifically designed to bring the new Rail System into existing Rokenbok Start Set owners' play worlds. Requires Start Set.
@@ -14,6 +14,12 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Monorail Tower Track A
+  link: /plans/36320_monorail_tower_track_a.pdf
+- name: Monorail Tower Track B
+  link: /plans/36320_monorail_tower_track_b.pdf
+- name: Monorail Tower Track C
+  link: /plans/36320_monorail_tower_track_c.pdf
 
 thumb: /img/sets/thumb_tower_track.gif
 images:

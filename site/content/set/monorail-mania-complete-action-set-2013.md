@@ -21,7 +21,8 @@ skus:
 category: Start Set (Rok Star)
 video: ""
 plans:
-
+- name: Monorail Mainia
+  link: /plans/06191_monorail_mainia.pdf
 thumb: /img/sets/06191_monorail_mania.png
 images:
   -  /img/sets/06191_monorail_mania_parts.jpg

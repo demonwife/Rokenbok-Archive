@@ -3,8 +3,8 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
-      <p>{{ .Params.year }}</p>
-      <p></p>
+      <p>{{ .Params.year }} -- {{.Params.category}}</p>
+      <p>{{ delimit .Params.skus ", " }}</p>
     </div>
     <div class="cms mw6">
 
@@ -33,15 +33,9 @@
         {{end}}
       </ul>
 
-      <h4 class="f4">SKU</h4>
-      <ul>
-        {{range .Params.skus}}
-        <li>{{.}}</li>
-        {{end}}
-      </ul>
-      <h4 class="f4">Category</h4> {{.Params.category}}
-
+      {{ if and (isset .Params "video") (gt (len .Params.video) 1) }}
       <h4 class="f4">Video</h4> {{.Params.video}}
+      {{ end }}
 
       <h4 class="f4">Plans</h4>
       <ul>
@@ -52,11 +46,13 @@
         {{end}}
       </ul>
 
-      <h4 class="f4">Other Images</h4>
+      <h4 class="f4">All Images ({{ len (union (slice .Params.thumb) .Params.images) }})</h4>
       <ul>
-        {{range .Params.images}}
+        {{range union (slice .Params.thumb) .Params.images }}
         <li>
-          <img src="{{.}}">
+          <a href="{{.}}" target="__BLANK" title="Click to see largest version">
+            <img src="{{.}}">
+          </a>
         </li>
         {{end}}
       </ul>

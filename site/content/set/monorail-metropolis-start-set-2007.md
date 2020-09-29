@@ -16,6 +16,8 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
+- name: Monorail Metropolis Ss
+  link: /plans/04123_monorail_metropolis_ss.pdf
 
 thumb: /img/sets/monorail_metropolis_ss.jpg
 images:

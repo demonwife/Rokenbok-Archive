@@ -16,6 +16,8 @@ skus:
 category: Vehicle (Rok Star)
 video: ""
 plans:
+- name: Maker Rok Robotics
+  link: /plans/08133_maker_rok_robotics.pdf
 
 thumb: /img/sets/08133_maker_rok_robotics.jpg
 images:

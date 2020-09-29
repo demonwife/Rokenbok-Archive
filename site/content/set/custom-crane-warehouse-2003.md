@@ -15,6 +15,8 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Crane Warehouse
+  link: /plans/44323_crane_warehouse.pdf
 
 thumb: /img/sets/thumb_tower_crane_warehouse.jpg
 images:

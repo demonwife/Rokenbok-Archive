@@ -16,10 +16,16 @@ priceHistory:
     price: 79.99
 skus:
   - "33325"
-plans: null
+plans:
+- name: Auto Center A
+  link: /plans/33325_auto_center_a.pdf
+- name: Auto Center B
+  link: /plans/33325_auto_center_b.pdf
+- name: Auto Center C
+  link: /plans/33325_auto_center_c.pdf
+
 thumb: /img/sets/thumb_auto_center.gif
 category: Building Set
 video: "-"
 images:
 ---
-\-

@@ -14,6 +14,8 @@ skus:
 category: Start Set (Rok Star)
 video: ""
 plans:
+- name: Rok Works
+  link: /plans/08111_rok_works.pdf
 
 thumb: /img/sets/08111_rok_works.png
 images:

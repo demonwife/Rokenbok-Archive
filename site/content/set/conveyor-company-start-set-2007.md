@@ -14,6 +14,8 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
+- name: Conveyor Company Ss
+  link: /plans/04212_conveyor_company_ss.pdf
 
 thumb: /img/sets/conveyor_company_ss_1.jpg
 images:

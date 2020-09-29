@@ -15,6 +15,8 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: King Of The Rok Arena
+  link: /plans/34610_king_of_the_rok_arena.pdf
 
 thumb: /img/sets/thumb_king_of_rok.gif
 images:

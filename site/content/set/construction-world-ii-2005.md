@@ -18,6 +18,10 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Construction World Ii Ball Factory
+  link: /plans/04329_construction_world_ii_ball_factory.pdf
+- name: Construction World Ii Road Rail Bridge
+  link: /plans/04329_construction_world_ii_road_rail_bridge.pdf
 
 thumb: /img/sets/04329_construction_world_ii.jpg
 images:

@@ -2,7 +2,7 @@
 title: Defender Duel 2 Player Start Set
 year: 2006
 description: >-
-  A new Start Set for head-to-head, non-stop action where two will enter – but only one drives out! Look at what is included: Two different RC Police Defender vehicles dedicated to keeping the peace in the Rokenbok World, plus two Control Pads and the new battery-operated Radio Control Center that precisely command each RC Defender’s powerful track drive and motorized ram. Use more than 167 building pieces to create the imposing competition arena. 
+  A new Start Set for head-to-head, non-stop action where two will enter – but only one drives out! Look at what is included: Two different RC Police Defender vehicles dedicated to keeping the peace in the Rokenbok World, plus two Control Pads and the new battery-operated Radio Control Center that precisely command each RC Defender’s powerful track drive and motorized ram. Use more than 167 building pieces to create the imposing competition arena.
 archiveLinks:
   - name: 08/13/2006
     link: https://web.archive.org/web/20060813175515/http://www.rokenbok.com/catalog/04119_pd_ss_ddefender.html
@@ -14,6 +14,8 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
+- name: Defender Duel Start Set
+  link: /plans/04119_defender_duel_ss.pdf
 
 thumb: /img/sets/defender_duel_ss.jpg
 images:

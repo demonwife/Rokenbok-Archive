@@ -10,10 +10,13 @@ priceHistory:
   - date: 06/25/2012
     price: 89.99
 skus:
-  - "#08320"
+  - "#08230"
+  - "#08320?"
 category: Vehicle (Rok Star)
 video: ""
 plans:
+- name: Rs Dozer Recycling Center
+  link: /plans/08230_rs_dozer_recycling_center.pdf
 
 thumb: /img/sets/08320_rs_dozer_recycling_center.jpg
 images:

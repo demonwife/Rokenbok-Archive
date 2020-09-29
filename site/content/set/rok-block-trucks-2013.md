@@ -14,6 +14,8 @@ skus:
 category: Rok Blocks
 video: ""
 plans:
+  - name: ROK Block Trucks
+    link: /plans/04868_rok_blocks trucks.pdf
 
 thumb: /img/sets/04868_rok_block_trucks.png
 images:

@@ -15,7 +15,10 @@ skus:
 category: Vehicle (RC)
 video: ""
 plans:
-
+- name: RC Elevator A
+  link: /plans/04740_rc_elevator_a.pdf
+- name: RC Elevator B
+  link: /plans/04740_rc_elevator_b.pdf
 thumb: /img/sets/thumb_rc_elevator.jpg
 images:
 ---

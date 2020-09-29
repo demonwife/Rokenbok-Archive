@@ -14,6 +14,8 @@ skus:
 category: Vehicle (Rok Star)
 video: ""
 plans:
+- name: Rs Skiptrack
+  link: /plans/08240_rs_skiptrack.pdf
 
 thumb: /img/sets/08240_skip_track_silo.jpg
 images:

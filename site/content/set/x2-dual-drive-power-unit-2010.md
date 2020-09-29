@@ -18,6 +18,10 @@ skus:
 category: Vehicle (Rok Star)
 video: ""
 plans:
+- name: Rok Star X2 Dual Drive
+  link: /plans/08710_rs_x2_dual_drive.pdf
+- name: Rok Star X2 Dual Drive Drawbridge
+  link: /plans/08710_rs_x2_dual_drive_drawbridge.pdf
 
 thumb: /img/sets/08710_rs_x2_power_unit.jpg
 images:

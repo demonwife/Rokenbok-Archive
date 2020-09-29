@@ -14,6 +14,8 @@ skus:
 category: Rok Blocks
 video: ""
 plans:
+- name: Rok Blocks Robot
+  link: /plans/04858_rok_blocks_robot.pdf
 
 thumb: /img/sets/04858_rok_blocks_robot_1.jpg
 images:

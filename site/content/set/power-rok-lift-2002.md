@@ -18,6 +18,8 @@ skus:
 category: Action Accessory
 video: ""
 plans:
+- name: Power Rok Lift
+  link: /plans/04314_power_rok_lift.pdf
 
 thumb: /img/sets/thumb_power_lift.gif
 images:

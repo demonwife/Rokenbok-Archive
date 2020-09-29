@@ -14,6 +14,10 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Construction World III Grand Central
+  link: /plans/04335_construction_world_iii_grand_central.pdf
+- name: Construction World III Suspension Bridge
+  link: /plans/04335_construction_world_iii_suspension_bridge.pdf
 
 thumb: /img/sets/04335_construction_world_iii.jpg
 images:

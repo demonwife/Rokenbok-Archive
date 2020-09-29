@@ -16,12 +16,18 @@ priceHistory:
   - date: 2020
     price: $45.00
 skus:
-  - "#44110"
   - "#34110"
+  - "#44110"
 
 category: Action Accessory
 video: ""
 plans:
+- name: Power Chutes SS A
+  link: /plans/34110_power_chutes_ss_a.pdf
+- name: Power Chutes SS B
+  link: /plans/34110_power_chutes_ss_b.pdf
+- name: Power Chutes SS C
+  link: /plans/34110_power_chutes_ss_c.pdf
 
 thumb: /img/sets/power_chutes_i.jpg
 images:

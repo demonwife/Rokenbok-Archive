@@ -14,6 +14,8 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
+- name: Power Chutes II
+  link: /plans/04117_power_chutes_ii_ss.pdf
 
 thumb: /img/sets/thumb_power_chutes_ss.gif
 images:

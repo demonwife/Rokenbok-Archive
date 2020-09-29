@@ -15,6 +15,8 @@ skus:
 category: Start Set (Unique)
 video: ""
 plans:
+- name: Rok Jr. Beginning Builder
+  link: /plans/07100_rok_jr_beginning_builder.pdf
 
 thumb: /img/sets/rok_jr_07100_1.jpg
 images:

@@ -16,6 +16,8 @@ skus:
 category: Control (Rok Star)
 video: ""
 plans:
+- name: Rok Star Controller
+  link: /plans/08710_rok_star_controller.pdf
 
 thumb: /img/sets/08700_rok_star_controller.jpg
 images:

@@ -14,6 +14,13 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Bridges Roadways A
+  link: /plans/34315_bridges_roadways_a.pdf
+- name: Bridges Roadways B
+  link: /plans/34315_bridges_roadways_b.pdf
+- name: Bridges Roadways C
+  link: /plans/34315_bridges_roadways_c.pdf
+
 
 thumb: /img/sets/thumb_bridges_and_roadways.gif
 images:

@@ -18,6 +18,8 @@ skus:
 category: Building Set
 video: https://web.archive.org/web/20060813152245/http://www.rokenbok.com/vids/RoadwayRok307KbSec.wmv
 plans:
+- name: Rok'n Roadways
+  link: /plans/04319_rokn_roadways.pdf
 
 thumb: /img/sets/rokn_roadways_1.jpg
 images:

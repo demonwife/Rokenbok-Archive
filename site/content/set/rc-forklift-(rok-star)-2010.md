@@ -14,6 +14,8 @@ skus:
 category: Vehicle (Rok Star)
 video: ""
 plans:
+- name: Rs Forklift
+  link: /plans/08220_rs_forklift.pdf
 
 thumb: /img/sets/08220_rc_forklift_rok_star.jpg
 images:

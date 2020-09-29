@@ -18,6 +18,8 @@ skus:
 category: Building Set
 video: ""
 plans:
+- name: Rok Garage
+  link: /plans/04318_rok_garage.pdf
 
 thumb: /img/sets/thumb_rok_garage.gif
 images:

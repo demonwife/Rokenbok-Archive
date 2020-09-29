@@ -14,7 +14,8 @@ skus:
 category: Rok Blocks
 video: ""
 plans:
-
+- name: Rok Blocks
+  link: /plans/04845_rok_blocks.pdf
 thumb: /img/sets/04845_rok_blocks.jpg
 images:
   - /img/sets/04845_rok_blocks_parts.png

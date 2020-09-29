@@ -16,7 +16,8 @@ skus:
 category: Building Set
 video: ""
 plans:
-
+- name: Tower Of Rok Mania
+  link: /plans/04331_tower_of_rok_mania.pdf
 thumb: /img/sets/04331_tower_of_rok_mania.png
 images:
   - /img/sets/04331_tower_of_rok_mania_parts.png

@@ -16,6 +16,8 @@ skus:
 category: Start Set (RC)
 video: ""
 plans:
+- name: Rok Works Start Set
+  link: /plans/34111_rok_works_ss.pdf
 
 thumb: /img/sets/thumb_rokworks_ss.gif
 images:

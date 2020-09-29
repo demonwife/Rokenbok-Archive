@@ -14,7 +14,8 @@ skus:
 category: Rok Blocks
 video: ""
 plans:
-
+- name: Deluxe Rok Blocks
+  link: /plans/04847_deluxe_rok_blocks.pdf
 thumb: /img/sets/rok_blocks_04847.jpg
 images:
 ---
