@@ -1,6 +1,6 @@
 ---
 cmseditable: true
-draft: true
+draft: false
 title: Monorail not moving
 date: 2020-09-30T03:31:48.295Z
 description: I can hear the motor running, but the Monorail just won't move!
