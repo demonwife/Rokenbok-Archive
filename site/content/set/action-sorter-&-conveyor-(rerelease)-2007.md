@@ -21,4 +21,5 @@ plans:
   link: /plans/04729_action_sorter_ss.pdf
 thumb: /img/sets/action_factory_conveyer_v2.jpg
 images:
+cmseditable: true
 ---

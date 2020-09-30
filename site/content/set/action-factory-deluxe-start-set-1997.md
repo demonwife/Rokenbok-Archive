@@ -26,4 +26,5 @@ plans:
 thumb: /img/sets/thumb_action_factory.gif
 images:
   -  /img/sets/thumb_action_factory.gif
+cmseditable: true
 ---
