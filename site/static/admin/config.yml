@@ -74,7 +74,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "thumb"
         widget: "image"
         required: false
-        widget: image
 
       - label: "Images"
         name: "images"
