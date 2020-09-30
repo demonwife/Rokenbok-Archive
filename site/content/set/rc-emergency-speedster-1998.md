@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_rc_speedster.gif
 images:
+cmseditable: true
 ---

@@ -31,4 +31,5 @@ images:
   #Lift Beams & Blocks with the Hook.
   - /img/sets/rc_crane_5.jpg
   #Carry Beams & Blocks with the Grabber.
+cmseditable: true
 ---

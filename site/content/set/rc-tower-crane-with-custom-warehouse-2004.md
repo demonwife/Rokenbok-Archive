@@ -22,4 +22,5 @@ plans:
 thumb: /img/sets/missing.jpg
 images:
   -  /img/sets/missing.jpg
+cmseditable: true
 ---

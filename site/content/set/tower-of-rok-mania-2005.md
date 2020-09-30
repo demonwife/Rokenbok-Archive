@@ -22,6 +22,7 @@ thumb: /img/sets/04331_tower_of_rok_mania.png
 images:
   - /img/sets/04331_tower_of_rok_mania_parts.png
   - /img/sets/04331_tower_of_rok_mania_1.jpg
+cmseditable: true
 ---
 ## Quick Facts:
   - This is the set for anyone that loves rolling, tumbling, twisting chute action!

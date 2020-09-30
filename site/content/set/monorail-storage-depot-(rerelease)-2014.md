@@ -26,6 +26,7 @@ images:
   - /img/sets/06321_monorail_storage_depot_5.jpg
   - /img/sets/06321_monorail_storage_depot_6.jpg
   - /img/sets/06321_monorail_storage_depot_parts.jpg
+cmseditable: true
 ---
 Expand Your Monorail System!
 

@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/08295_rd_dump_truck_rok_star.jpg
 images:
+cmseditable: true
 ---
 The Remote Control Dump Truck is especially easy to operate because it loads and dumps from the front.  Effortlessly guide the Dump Truck into a loading dock to pick up cargo, or pull right up to a Conveyor to dump cargo.  Even the most advanced Rokenbokers will want a Dump Truck as part of their Rokenbok world, because of its huge capacity for moving cargo.  This vehicle has a manual trailer hitch, horn, siren, and back-up warning.  Separate motors drive the wheels on each side of the Dump Truck, so it can spin on its own axis. A third motor powers the dump bed independently and you can raise and lower the bed while the Dump Truck is on the move.
 

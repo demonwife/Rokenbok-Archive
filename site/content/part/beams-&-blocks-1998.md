@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_beams_blocks.gif
 images:
+cmseditable: true
 ---

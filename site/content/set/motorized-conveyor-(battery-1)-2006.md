@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_motortized_conveyor.gif
 images:
+cmseditable: true
 ---

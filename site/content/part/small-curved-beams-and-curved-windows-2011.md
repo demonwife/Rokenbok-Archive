@@ -18,6 +18,7 @@ plans:
 thumb: /img/sets/04841_curved_windows_and_beams.jpg
 images:
   -  /img/sets/04841_curved_windows_and_beams_parts.jpg
+cmseditable: true
 ---
 Quick Facts:
  - Windows Feature locking tabs which keep them secured in place.

@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/10917_blocks_blue.jpg
 images:
+cmseditable: true
 ---

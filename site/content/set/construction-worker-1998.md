@@ -19,5 +19,5 @@ plans:
 
 thumb: /img/sets/thumb_construction_worker.jpg
 images:
-  -  /img/sets/missing.jpg
+cmseditable: true
 ---

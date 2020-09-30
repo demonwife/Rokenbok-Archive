@@ -23,4 +23,5 @@ plans:
 thumb: /img/sets/risers_10919.jpg
 images:
   - /img/sets/10919_risers.jpg
+cmseditable: true
 ---

@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_monorail_4way.gif
 images:
+cmseditable: true
 ---

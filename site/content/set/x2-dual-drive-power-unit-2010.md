@@ -30,6 +30,7 @@ images:
   - /img/sets/08710_rs_x2-power_unit_2.png
   - /img/sets/08710_rs_x2-power_unit_3.jpg
   - /img/sets/08710_rs_x2-power_unit_4.jpg
+cmseditable: true
 ---
 The X2 is an all new ROK Star machine dedicated to powering Rokenboker invented machines.  Power-up and control elevators, draw bridges, cranes, thrill rides, tramways, and more - all with your ROK Star Controller (not included).  The X2’s two independent motors power three drive types; winch drive, cog drive, and axle drive.
 

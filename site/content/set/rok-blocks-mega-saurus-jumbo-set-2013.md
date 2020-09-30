@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/04862_rok_blocks_mega_saurus_jumbo_set.png
 images:
+cmseditable: true
 ---
 ## Quick Facts:
   - Includes over 103 building pieces

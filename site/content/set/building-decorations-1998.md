@@ -21,5 +21,5 @@ plans:
 
 thumb: /img/sets/thumb_building_decorations.jpg
 images:
-
+cmseditable: true
 ---

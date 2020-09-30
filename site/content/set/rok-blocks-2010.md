@@ -19,6 +19,7 @@ plans:
 thumb: /img/sets/04845_rok_blocks.jpg
 images:
   - /img/sets/04845_rok_blocks_parts.png
+cmseditable: true
 ---
 Quick Facts:
   - Revolutionary blocks for younger builders build up and out in 3 dimensions.

@@ -24,6 +24,7 @@ images:
   -  /img/sets/monorail_metropolis_ss_2.jpg
   -  /img/sets/monorail_metropolis_ss_3.jpg
   -  /img/sets/monorail_metropolis_ss_4.jpg
+cmseditable: true
 ---
 Here It Comes! The Train of the Future!
 

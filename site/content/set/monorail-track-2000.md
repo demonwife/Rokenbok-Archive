@@ -22,4 +22,5 @@ plans:
   link: /plans/06310_monorail_track_c.pdf
 thumb: /img/sets/thumb_monorail_track.gif
 images:
+cmseditable: true
 ---

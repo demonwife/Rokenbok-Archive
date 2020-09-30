@@ -23,4 +23,5 @@ plans:
 thumb: /img/sets/34313_service_center.gif
 images:
   -  /img/sets/34313_service_center_configurations.gif
+cmseditable: true
 ---

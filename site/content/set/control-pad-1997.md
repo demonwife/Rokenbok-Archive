@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_controller.gif
 images:
+cmseditable: true
 ---

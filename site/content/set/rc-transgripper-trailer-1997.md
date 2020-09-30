@@ -17,5 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_transgripper.gif
 images:
-
+cmseditable: true
 ---

@@ -18,4 +18,5 @@ plans:
   link: /plans/03720_piston_plant_a.pdf
 thumb: /img/sets/thumb_piston_plant.gif
 images:
+cmseditable: true
 ---

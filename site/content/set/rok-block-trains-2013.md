@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/04852_rok_block_trains.png
 images:
+cmseditable: true
 ---
 Quick Facts:
   - Includes over 39 building pieces

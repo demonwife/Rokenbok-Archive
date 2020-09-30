@@ -26,6 +26,7 @@ images:
   - /img/sets/thumb_inventors_toolbox_2.jpg
   - /img/sets/thumb_inventors_toolbox_3.jpg
   - /img/sets/thumb_inventors_toolbox_4.jpg
+cmseditable: true
 ---
 The Inventor’s Tool Box is an enormous new construction set that contains everything a master Rokenbok builder needs to create the ultimate aerial tramway, a vehicle-powered bascule bridge and a personnel elevator, all at the same time! The Inventor’s Tool Box is a 618-piece assortment of everything a Rokenbok inventor needs to construct the most challenging and imposing build yet! Included are the brand new parts from the Inventor’s Kit: 30 and 60 degree angle blocks, pulleys, hinges, swivel blocks, tow hooks, wheels and axles, and single snap blocks plus a large assortment of the most popular Rokenbok component parts. Just add your existing RC Monorail and two other Rokenbok RC vehicles to operate the most outrageous creation in the world of Rokenbok!
 

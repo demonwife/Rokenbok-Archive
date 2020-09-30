@@ -27,6 +27,7 @@ thumb: /img/sets/06191_monorail_mania.png
 images:
   -  /img/sets/06191_monorail_mania_parts.jpg
   -  /img/sets/08700_rok_star_controller_parts.png
+cmseditable: true
 ---
 Monorail Mania Complete Action Set Launch your Rokenbok world with the exciting, futuristic Monorail Mania Complete Action Set!
 

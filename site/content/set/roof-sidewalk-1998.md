@@ -21,4 +21,5 @@ plans:
 thumb: /img/sets/thumb_roof_sidewalk.jpg
 images:
   - /img/sets/thumb_roof_sidewalk_1.jpg
+cmseditable: true
 ---

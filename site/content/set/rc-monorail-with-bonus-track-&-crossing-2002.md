@@ -18,4 +18,5 @@ plans:
 thumb: /img/sets/thumb_monorail_bonus.gif
 images:
   - /img/sets/lg_monorail_bonus.jpg
+cmseditable: true
 ---

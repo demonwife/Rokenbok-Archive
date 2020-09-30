@@ -20,4 +20,5 @@ plans:
 
 thumb: /img/sets/thumb_king_of_rok.gif
 images:
+cmseditable: true
 ---

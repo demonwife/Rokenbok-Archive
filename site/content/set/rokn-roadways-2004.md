@@ -26,6 +26,7 @@ images:
   - /img/sets/rokn_roadways_2.jpg
   - /img/sets/rokn_roadways_3.jpg
   - /img/sets/rokn_roadways_4.jpg
+cmseditable: true
 ---
 Build Faster and Easier!
 

@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/34612_decks_ii.png
 images:
+cmseditable: true
 ---

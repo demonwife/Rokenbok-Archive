@@ -24,6 +24,7 @@ plans:
 thumb: /img/sets/35010_rok_blocks_adventures.png
 images:
   -  /img/sets/35010_rok_blocks_adventures_parts.png
+cmseditable: true
 ---
 ## Quick Facts:
   - Students will develop confidence, curiosity, attentiveness and persistence.

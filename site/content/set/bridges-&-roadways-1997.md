@@ -24,4 +24,5 @@ plans:
 
 thumb: /img/sets/thumb_bridges_and_roadways.gif
 images:
+cmseditable: true
 ---

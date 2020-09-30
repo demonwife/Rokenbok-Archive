@@ -18,4 +18,5 @@ plans:
 
 thumb: /img/sets/thumb_black_beams.gif
 images:
+cmseditable: true
 ---

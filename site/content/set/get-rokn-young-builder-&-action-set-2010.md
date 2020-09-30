@@ -20,6 +20,7 @@ plans:
 thumb: /img/sets/young_builder_action_07300.jpg
 images:
   - /img/sets/07300_young_builder_action_parts.png
+cmseditable: true
 ---
 Get ROK’n is a young builder’s introduction to Rokenbok remote control interaction.  This set combines the full function remote control Dump Truck with our revolutionary ROK Blocks, and a Motorized Conveyor with chutes and loading docks for sorting and delivery.  All the action is controlled by the ROK Star Controller.
 

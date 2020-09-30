@@ -22,4 +22,5 @@ plans:
 thumb: /img/sets/thumb_braces_support.gif
 images:
   - /img/sets/04860_braces_supports.png
+cmseditable: true
 ---

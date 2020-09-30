@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_rc_loader.gif
 images:
+cmseditable: true
 ---

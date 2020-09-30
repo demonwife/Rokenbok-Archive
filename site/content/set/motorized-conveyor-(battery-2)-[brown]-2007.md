@@ -23,6 +23,7 @@ plans:
 thumb: /img/sets/motorized_conveyor_v3.gif
 images:
   - /img/sets/04731_motorized_converyor_parts.png
+cmseditable: true
 ---
 
 ## Quick Facts:

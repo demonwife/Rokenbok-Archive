@@ -24,6 +24,7 @@ images:
   - /img/sets/04858_rok_blocks_robot_1.jpg
   - /img/sets/04858_rok_blocks_robot_1.jpg
   - /img/sets/04858_rok_blocks_robot_parts.jpg
+cmseditable: true
 ---
 ROKBot Robot Ready For Action!
 

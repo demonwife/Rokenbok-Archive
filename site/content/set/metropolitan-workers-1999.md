@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/03402_metropolitan_workers.jpg
 images:
+cmseditable: true
 ---

@@ -20,6 +20,7 @@ plans:
 thumb: /img/sets/08240_skip_track_silo.jpg
 images:
   - /img/sets/08240_skip_track_silo_parts.jpg
+cmseditable: true
 ---
 Quick Facts:
   - High reach bucket to get your payload up high!

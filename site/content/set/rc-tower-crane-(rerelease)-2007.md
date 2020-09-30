@@ -22,6 +22,7 @@ plans:
   link: /plans/04711_rc_tower_crane.pdf
 thumb: /img/sets/thumb_rc_tower_crane_04711.jpg
 images:
+cmseditable: true
 ---
 Move Up, Over & Around a 360° Radius!
 

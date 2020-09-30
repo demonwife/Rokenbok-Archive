@@ -20,4 +20,5 @@ plans:
 thumb: /img/sets/ramps_decks_1.jpg
 images:
   - /img/sets/ramps_decks_2.jpg
+cmseditable: true
 ---

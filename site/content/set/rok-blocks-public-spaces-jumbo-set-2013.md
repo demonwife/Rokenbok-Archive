@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/35023_rok_blocks_public_spaces.png
 images:
+cmseditable: true
 ---
 ##Quick Facts:
   - No Small Parts - Appropriate for all ages

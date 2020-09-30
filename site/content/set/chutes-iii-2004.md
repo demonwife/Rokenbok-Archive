@@ -21,4 +21,5 @@ plans:
 
 thumb: /img/sets/34600_chutes_iii.png
 images:
+cmseditable: true
 ---

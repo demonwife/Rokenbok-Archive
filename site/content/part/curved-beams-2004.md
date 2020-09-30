@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/10923_curved_beams_black.png
 images:
+cmseditable: true
 ---

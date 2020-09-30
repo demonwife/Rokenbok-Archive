@@ -19,6 +19,7 @@ thumb: /img/parts/20-00355_wheels_1.jpg
 images:
   - /img/parts/20-00355_wheels_2.jpg
   - /img/parts/20-00355_wheels_parts.jpg
+cmseditable: true
 ---
 Need More Wheels?
 

@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_playtable.gif
 images:
+cmseditable: true
 ---

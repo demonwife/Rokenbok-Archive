@@ -18,4 +18,5 @@ plans:
 thumb: /img/sets/cargo_trailer.jpg
 images:
   -  /img/sets/cargo_trailer_blue.jpg
+cmseditable: true
 ---

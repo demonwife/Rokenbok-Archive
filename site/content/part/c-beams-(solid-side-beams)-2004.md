@@ -20,4 +20,5 @@ plans:
 
 thumb: /img/parts/10921_c_beams.jpg
 images:
+cmseditable: true
 ---

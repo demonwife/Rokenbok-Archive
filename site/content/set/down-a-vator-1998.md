@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_down_vator.gif
 images:
+cmseditable: true
 ---

@@ -18,4 +18,5 @@ plans:
 
 thumb: /img/sets/thumb_skip_track.gif
 images:
+cmseditable: true
 ---

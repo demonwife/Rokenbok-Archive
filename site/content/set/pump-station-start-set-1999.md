@@ -18,4 +18,5 @@ plans:
 
 thumb: /img/sets/thumb_pump_station.gif
 images:
+cmseditable: true
 ---

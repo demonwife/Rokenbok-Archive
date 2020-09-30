@@ -17,5 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_action_sorter_conveyor.gif
 images:
-
+cmseditable: true
 ---

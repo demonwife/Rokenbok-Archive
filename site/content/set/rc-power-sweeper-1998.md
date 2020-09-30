@@ -20,4 +20,5 @@ plans:
 
 thumb: /img/sets/thumb_rc_sweeper.gif
 images:
+cmseditable: true
 ---

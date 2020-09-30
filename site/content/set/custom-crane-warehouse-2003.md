@@ -21,4 +21,5 @@ plans:
 thumb: /img/sets/thumb_tower_crane_warehouse.jpg
 images:
   -  /img/sets/missing.jpg
+cmseditable: true
 ---

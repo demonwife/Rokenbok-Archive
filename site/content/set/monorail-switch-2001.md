@@ -22,4 +22,5 @@ plans:
 thumb: /img/sets/thumb_monorail_switch.gif
 images:
     - /img/sets/06715_monorail_switch.jpg
+cmseditable: true
 ---

@@ -21,4 +21,5 @@ plans:
 thumb: /img/sets/control_pad.gif
 images:
   -  /img/sets/control_pad_1.gif
+cmseditable: true
 ---

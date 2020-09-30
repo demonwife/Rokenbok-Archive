@@ -18,6 +18,7 @@ plans:
 thumb: /img/sets/08270_sweeper_rok_star.jpg
 images:
   - /img/sets/08270_sweeper_rok_star_parts.png
+cmseditable: true
 ---
 The Power Sweeper is Rokenbok’s most popular vehicle.  We added a free ROK Star Controller to make a special Value Pack. . . a great way to start your Rokenbok experience.  Whether this is your first Rokenbok purchase, or your adding a vehicle to a growing Rokenbok world, this Value Pack is a great choice and a great deal too!
 

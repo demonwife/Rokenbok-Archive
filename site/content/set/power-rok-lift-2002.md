@@ -24,6 +24,7 @@ plans:
 thumb: /img/sets/thumb_power_lift.gif
 images:
   - /img/sets/04314_power_rok_lift_parts.png
+cmseditable: true
 ---
 ## Quick Facts:
   - The ROK-Lift is a vertical conveyor that can lift a crate of cargo to any height.

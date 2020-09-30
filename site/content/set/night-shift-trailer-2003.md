@@ -21,6 +21,7 @@ plans:
 thumb: /img/sets/30717_night_shift_trailer.jpg
 images:
   - /img/sets/night_shift_trailer.jpg
+cmseditable: true
 ---
 Add a little night life to your construction site!
 

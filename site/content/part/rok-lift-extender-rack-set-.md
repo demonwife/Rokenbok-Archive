@@ -21,4 +21,5 @@ plans:
 
 thumb: /img/sets/21-00146_extender_racks.jpg
 images:
+cmseditable: true
 ---

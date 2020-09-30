@@ -23,6 +23,7 @@ images:
   -  /img/sets/thumb_power_chutes_ss_2.jpg
   -  /img/sets/thumb_power_chutes_ss_3.jpg
   -  /img/sets/thumb_power_chutes_ss_4.jpg
+cmseditable: true
 ---
 The easiest way to get your start in Rokenbok!
 

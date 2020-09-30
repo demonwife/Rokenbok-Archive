@@ -25,6 +25,7 @@ images:
   - /img/sets/04866_maker_rok_blocks_5.jpg
   - /img/sets/04866_maker_rok_blocks_6.jpg
   - /img/sets/04866_maker_rok_blocks_parts.jpg
+cmseditable: true
 ---
 Inspire Your Little Engineer!
 New Maker Series Product

@@ -20,7 +20,7 @@ images:
   - /img/parts/20-00346_tool_2.jpg
   - /img/parts/20-00346_tool_3.jpg
   - /img/parts/20-00346_tool_4.jpg
-
+cmseditable: true
 ---
 Rokenbok Tool
 

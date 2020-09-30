@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/parts/20096_sweeper_roller_replacement.jpg
 images:
+cmseditable: true
 ---

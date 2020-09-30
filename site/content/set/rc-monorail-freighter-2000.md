@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_rc_monorail.gif
 images:
+cmseditable: true
 ---

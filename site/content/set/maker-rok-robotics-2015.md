@@ -22,6 +22,7 @@ plans:
 thumb: /img/sets/08133_maker_rok_robotics.jpg
 images:
   -  /img/sets/08133_maker_rok_robotics_2.png
+cmseditable: true
 ---
 
 Meet the Rokenbok Maker ROK-Bot. It is a versatile, mobile building platform that makes building robots and mechanical systems easy, fun, and educational. The Maker ROK-Bot is fully compatible with every element in the Rokenbok engineering system. That means there are thousands of different robots waiting for kids to design and build. The Maker ROK Robotics Set includes step-by-step plans to create five different construction vehicles and is controlled by the included ROK Star Controller.

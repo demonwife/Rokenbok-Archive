@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/10913_beams_gray.jpg
 images:
+cmseditable: true
 ---

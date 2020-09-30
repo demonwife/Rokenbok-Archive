@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/monorail_storage_depot_46315.jpg
 images:
+cmseditable: true
 ---

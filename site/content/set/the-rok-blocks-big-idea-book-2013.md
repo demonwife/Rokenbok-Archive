@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/35025_rok_blocks_big_idea_book.jpg
 images:
+cmseditable: true
 ---
 Quick Facts:
   - Step-by-step illustrated building plans for over 20 unique models

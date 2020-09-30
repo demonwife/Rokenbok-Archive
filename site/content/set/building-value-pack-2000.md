@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_building_value_pack.gif
 images:
+cmseditable: true
 ---

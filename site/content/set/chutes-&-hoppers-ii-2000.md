@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_chutes_hoppers_ii.gif
 images:
+cmseditable: true
 ---

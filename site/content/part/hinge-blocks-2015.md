@@ -19,6 +19,7 @@ thumb: /img/parts/20-00353_hinge_block_1.jpg
 images:
   - /img/parts/20-00353_hinge_block_2.jpg
   - /img/parts/20-00353_hinge_block_parts.jpg
+cmseditable: true
 ---
 Need more hinge blocks?
 

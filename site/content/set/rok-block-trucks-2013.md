@@ -19,6 +19,7 @@ plans:
 
 thumb: /img/sets/04868_rok_block_trucks.png
 images:
+cmseditable: true
 ---
 Quick Facts:
   - Includes over 75 building pieces

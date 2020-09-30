@@ -24,4 +24,5 @@ thumb: /img/sets/thumb_balls.gif
 images:
   - /img/sets/04890_roks_balls.jpg
   - /img/sets/04890_roks_balls_parts.png
+cmseditable: true
 ---

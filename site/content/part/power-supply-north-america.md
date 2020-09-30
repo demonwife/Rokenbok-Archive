@@ -19,4 +19,5 @@ plans:
 
 thumb: /img/parts/10361_power_supply_na.jpg
 images:
+cmseditable: true
 ---

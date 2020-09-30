@@ -19,4 +19,5 @@ thumb: /img/parts/20-00350_60_degree_block_1.jpg
 images:
   - /img/parts/20-00350_60_degree_block_2.jpg
   - /img/parts/20-00350_60_degree_block_parts.jpg
+cmseditable: true
 ---

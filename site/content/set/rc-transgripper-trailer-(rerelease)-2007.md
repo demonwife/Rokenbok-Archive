@@ -24,4 +24,5 @@ plans:
 thumb: /img/sets/thumb_rc_transgripper_trailer.jpg
 images:
   -  /img/sets/thumb_rc_transgripper_trailer_1.gif
+cmseditable: true
 ---

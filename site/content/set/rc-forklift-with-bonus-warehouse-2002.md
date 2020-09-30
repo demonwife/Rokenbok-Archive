@@ -19,4 +19,5 @@ plans:
 
 thumb: /img/sets/thumb_rc_forklift_warehouse.jpg
 images:
+cmseditable: true
 ---

@@ -19,4 +19,5 @@ plans:
 
 thumb: /img/sets/thumb_rail_station.gif
 images:
+cmseditable: true
 ---

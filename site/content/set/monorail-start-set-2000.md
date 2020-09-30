@@ -23,4 +23,5 @@ plans:
   link: /plans/36140_monorail_start_set_c.pdf
 thumb: /img/sets/thumb_monorail_ss.gif
 images:
+cmseditable: true
 ---

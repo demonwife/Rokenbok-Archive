@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/04849_rok_blocks_flying_machines.png
 images:
+cmseditable: true
 ---
 Quick Facts:
   - Includes over 45 building pieces

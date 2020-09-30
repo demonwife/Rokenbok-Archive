@@ -21,6 +21,7 @@ images:
   - /img/sets/20-00327_gear_teeth_3.jpg
   - /img/sets/20-00327_gear_teeth_4.jpg
   - /img/sets/20-00327_gear_teeth_parts.jpg
+cmseditable: true
 ---
 Need more gear teeth?
 

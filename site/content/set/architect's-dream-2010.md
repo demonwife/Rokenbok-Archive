@@ -31,6 +31,7 @@ images:
   - /img/sets/architects_dream_04338_box.jpg
   - /img/sets/architects_dream_04338_contents.jpg
   - /img/sets/architects_dream_04338_parts.png
+cmseditable: true
 ---
 Who knew you could build a Gothic cathedral or a Frank Lloyd Wright masterpiece with Rokenbok? That's just what expert Rokenboker Jon Ghidoni did to win our 2009 Architectural Building Challenge.  You can see Jon's builds from that contest in the Our Favorite Builds gallery. We asked Jon if he would create a building set that would make it easy for everyone to create architecturally interesting buildings, and that's how the Architect's Dream building set was born.
 

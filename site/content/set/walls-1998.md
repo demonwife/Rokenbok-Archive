@@ -22,4 +22,5 @@ plans:
 thumb: /img/sets/thumb_walls.gif
 images:
   - /img/sets/04850_walls.png
+cmseditable: true
 ---

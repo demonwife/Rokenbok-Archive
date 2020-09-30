@@ -24,6 +24,7 @@ images:
   - /img/sets/04129_young_engineer_ss_4.jpg
   - /img/sets/04129_young_engineer_ss_5.jpg
   - /img/sets/04129_young_engineer_ss_parts.jpg
+cmseditable: true
 ---
 A Dynamic Design and Engineering Set for Your Young Engineer!
 

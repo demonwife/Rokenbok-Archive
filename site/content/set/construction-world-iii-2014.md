@@ -27,6 +27,7 @@ images:
   -  /img/sets/04335_construction_world_iii_4.jpg
   -  /img/sets/04335_construction_world_iii_5.jpg
   -  /img/sets/04335_construction_world_iii_parts.jpg
+cmseditable: true
 ---
 Our Ultimate Action-Packed Construction Set!
 

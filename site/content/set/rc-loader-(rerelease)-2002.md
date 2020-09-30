@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/rc_loader_orange_04217.jpg
 images:
+cmseditable: true
 ---

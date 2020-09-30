@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/10915_blocks_red.png
 images:
+cmseditable: true
 ---

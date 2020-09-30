@@ -17,6 +17,7 @@ plans:
 
 thumb: /img/sets/04864_dragons_and_dinos.png
 images:
+cmseditable: true
 ---
 Quick Facts:
   - Includes over 40 building pieces

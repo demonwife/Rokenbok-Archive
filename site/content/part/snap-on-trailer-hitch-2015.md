@@ -18,6 +18,7 @@ plans:
 thumb: /img/parts/20-00348_trailer_hitch.jpg
 images:
   -  /img/parts/20-00348_trailer_hitch_parts.jpg
+cmseditable: true
 ---
 Need Another Trailer Hitch?
 

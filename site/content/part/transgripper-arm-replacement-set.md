@@ -19,4 +19,5 @@ plans:
 
 thumb: /img/parts/20-00122_transgripper_replacement_arms.png
 images:
+cmseditable: true
 ---

@@ -21,6 +21,7 @@ plans:
 
 thumb: /img/sets/thumb_rokworks_ss.gif
 images:
+cmseditable: true
 ---
 Grab your hard-hat and go! There's a lot to be done in this action-packed construction site. Everything you need to get started is included with the Start Set. Within minutes, your Start Set is up and you're in charge! Take control of the life-like RC Loader that scoops, hauls and dumps Rokenbok balls into the factory you've just built. Load up the Motorized conveyor and watch it come to life! The Conveyor's "electronic eye" knows when you've dumped your payload and automatically turns on to lift balls to the top where they can be sorted by color and stored in bins awaiting your next pick-up.
 

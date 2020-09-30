@@ -20,7 +20,7 @@ plans:
 thumb: /img/sets/08220_rc_forklift_rok_star.jpg
 images:
   - /img/sets/08220_rc_forklift_rok_star_parts.png
-
+cmseditable: true
 ---
 It may be a toy forklift, but it’s a real workhorse designed to move large amounts of cargo with speed and precision. Maneuver in tight spaces using your ROK Star Controller (not included). Operate the forks while driving. Pick up pallets. Place crates. Lift bin boxes. Stack beams. Then, reach the highest pallet rack in your warehouse while the pivoting lift mechanism keeps your load balanced. The fully functional warehouse, with crates for sorted ROK balls, is an ideal storage center for your expanding, interactive Rokenbok world. And the Forklift makes the place hum. Check out the automatic trailer hitch, customizable snap-on forks, horn, and back-up warning too.
 

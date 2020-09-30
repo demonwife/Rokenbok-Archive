@@ -21,4 +21,5 @@ images:
   - /img/sets/chutes_and_hoppers_i_1.jpg
   - /img/sets/chutes_and_hoppers_i_2.jpg
   - /img/sets/chutes_and_hoppers_i_3.jpg
+cmseditable: true
 ---

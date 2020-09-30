@@ -21,6 +21,7 @@ plans:
 thumb: /img/sets/08320_rs_dozer_recycling_center.jpg
 images:
   -  /img/sets/08320_rs_dozer_recycling_center_parts.jpg
+cmseditable: true
 ---
 Quick Facts:
   - Powerful treads climb over obstacles and push large loads.

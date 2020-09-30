@@ -23,4 +23,5 @@ plans:
 
 thumb: /img/sets/thumb_tower_track.gif
 images:
+cmseditable: true
 ---

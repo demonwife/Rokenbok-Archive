@@ -25,7 +25,7 @@ images:
   - /img/sets/04321_maker_rok_gadgets_5.png
   - /img/sets/04321_maker_rok_gadgets_6.png
   - /img/sets/04321_maker_rok_gadgets_7.jpg
-
+cmseditable: true
 ---
 Creates 3 ROK-tastic Builds
 

@@ -21,6 +21,7 @@ thumb: /img/sets/conveyor_company_ss_1.jpg
 images:
   - /img/sets/conveyor_company_ss_2.jpg
   - /img/sets/conveyor_company_ss_4.jpg
+cmseditable: true
 ---
 
 Where Animation and Imagination Collide!

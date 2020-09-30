@@ -17,4 +17,5 @@ plans:
 
 thumb: /img/sets/thumb_dozer.gif
 images:
+cmseditable: true
 ---

@@ -25,6 +25,7 @@ images:
   - /img/sets/rok_jr_07100_2.jpg
   - /img/sets/rok_jr_07100_4.jpg
   - /img/sets/rok_jr_07100_5.jpg
+cmseditable: true
 ---
 Where Animation and Imagination Collide!
 

@@ -22,4 +22,5 @@ plans:
 
 thumb: /img/sets/10900_beams_blue.png
 images:
+cmseditable: true
 ---

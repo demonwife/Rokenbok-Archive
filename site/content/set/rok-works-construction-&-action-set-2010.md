@@ -20,6 +20,7 @@ plans:
 thumb: /img/sets/08111_rok_works.png
 images:
  - /img/sets/08111_rok_works_parts.png
+cmseditable: true
 ---
 Quick Facts:
 - Complete building & action set, most popular way to start a Rokenbok World.

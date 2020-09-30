@@ -20,6 +20,7 @@ plans:
   link: /plans/06226_rs_monorail.pdf
 thumb: /img/sets/06226_rs_monorail.jpg
 images:
+cmseditable: true
 ---
 Quick Facts: 
   - Easiest vehicle to drive, but advanced levels of function and challenge too.

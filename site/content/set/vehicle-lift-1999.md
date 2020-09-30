@@ -18,4 +18,5 @@ plans:
 thumb: /img/sets/vehicle_lift.jpg
 images:
   -  /img/sets/vehicle_lift_1.jpg
+cmseditable: true
 ---

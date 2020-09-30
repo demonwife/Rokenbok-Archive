@@ -18,6 +18,7 @@ plans:
   link: /plans/04847_deluxe_rok_blocks.pdf
 thumb: /img/sets/rok_blocks_04847.jpg
 images:
+cmseditable: true
 ---
 Build bigger and better models with the Deluxe ROK Blocks building set.  This set includes arch blocks for creating curves and angles, and more regular Rokenbok building pieces, like wheels and hinges.  Deluxe ROK Blocks make realistic models come to life as your preschooler's building skills grow.  Plans for building the Jumbo Jet, Jet Helicopter, and Big Rig Truck are all included.
 
