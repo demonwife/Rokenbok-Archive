@@ -5,6 +5,7 @@ title: Fixing a Down-A-Vator
 date: 2020-09-08T14:04:10.000Z
 description: Unsticking and, general fixing of a not-working Rokenbok Down-a-vator.
 thumb: /cms/img_20200908_215943.jpg
+authors: Techplex (Blake)
 ---
 I recently purchased a lot of Rokenbok which came with a Down-a-vator, the problem was the piston was very sticky.
 
@@ -25,5 +26,3 @@ Once the seal had been flipped around and re-installed in the piston casing the 
 Hopefully that helps other fix their vintage Rokenbok Down-A-Vators.
 
 [Additional photos](https://photos.app.goo.gl/Ni2XCizcGKMvZ7hQ6)
-
-\-- Techplex (Blake)
