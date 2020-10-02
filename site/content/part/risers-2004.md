@@ -15,7 +15,7 @@ priceHistory:
   - date: 07/20/2012
     price: 14.99
 skus:
-  - "#10919"
+  - "10919"
 category: Building Basics
 video: ""
 plans:

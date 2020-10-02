@@ -10,8 +10,8 @@ priceHistory:
   - date: 2001
     price: 179.99
 skus:
-  - "#34120"
-  - "#44120"
+  - "34120"
+  - "44120"
 category: Start Set (RC)
 video: ""
 plans:

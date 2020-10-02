@@ -11,7 +11,7 @@ priceHistory:
   - date: 08/05/2004
     price: 39.99
 skus:
-  - "#34610"
+  - "34610"
 category: Building Set
 video: ""
 plans:

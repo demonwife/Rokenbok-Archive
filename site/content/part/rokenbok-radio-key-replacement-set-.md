@@ -10,7 +10,7 @@ priceHistory:
   - date: 01/25/2011
     price: 9.99
 skus:
-  - "#20087"
+  - "20087"
 category: 
 video: ""
 plans:

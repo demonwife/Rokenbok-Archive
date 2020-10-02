@@ -14,7 +14,7 @@
 		<div class="mw6 center flex-ns justify-between">
 
 			<div>
-				<!-- <h3 class="f4 b lh-title mb1 primary">Kaldi</h3> -->
+				<h3 class="f4 b lh-title mb1 primary">Site</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
 					{{ range .Site.Data.nav }}
@@ -25,12 +25,24 @@
 			</div>
 
 			<div>
-				<!-- <h3 class="f4 b lh-title mb2 primary">Social media</h3> -->
+				<h3 class="f4 b lh-title mb1 primary">Search By</h3>
+				<ul class="mb3">
+					<!-- {{ printf "%#v" .Site.Taxonomies }} -->
+					{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+						<li>
+							<a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}" class="link">{{ humanize $taxonomyname }}</a>
+						</li>
+					{{ end }}
+				</ul>
+			</div>
+
+			<div>
+				<h3 class="f4 b lh-title mb2 primary">Connect</h3>
 				<ul>
 					<li class="dib ph2 raise">
-					  <a href="https://discord.gg/5Wx9MT7" class="link bg-white black db relative br1 pa2">
-					  	Join us on <img src="/img/icons-discord.svg">
-					  </a>
+						<a href="https://discord.gg/5Wx9MT7" class="link bg-white black db relative br1 pa2">
+							Join us on <img src="/img/icons-discord.svg">
+						</a>
 					</li>
 					<li><br>Proudly powered by <a href="https://gohugo.io/" target="__BLANK">Hugo</a></li>
 				</ul>

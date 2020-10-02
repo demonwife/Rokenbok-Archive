@@ -10,7 +10,7 @@ priceHistory:
   - date: 04/01/2003
     price: 29.99
 skus:
-  - "#04710"
+  - "04710"
 category: Control (RC)
 video: ""
 plans:

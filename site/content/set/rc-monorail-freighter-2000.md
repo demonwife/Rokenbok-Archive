@@ -10,7 +10,7 @@ priceHistory:
   - date: 12/07/2000
     price: 69.99
 skus:
-  - "#06222"
+  - "06222"
 category: Vehicle (RC)
 video: ""
 plans:

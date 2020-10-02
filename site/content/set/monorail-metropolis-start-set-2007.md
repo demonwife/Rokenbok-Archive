@@ -12,7 +12,7 @@ priceHistory:
   - date: 11/12/2007
     price: 139.99
 skus:
-  - "#04123"
+  - "04123"
 category: Start Set (RC)
 video: ""
 plans:

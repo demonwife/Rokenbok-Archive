@@ -10,7 +10,7 @@ priceHistory:
   - date: 12/16/2003
     price: 39.99
 skus:
-  - "#03720"
+  - "03720"
 category: Action Accessory
 video: ""
 plans:

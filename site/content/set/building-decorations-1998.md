@@ -14,7 +14,7 @@ priceHistory:
     price: 10.75
     source: https://www.ebay.com/c/1800215083
 skus:
-  - "#04880"
+  - "04880"
 category: Building Basics
 video: ""
 plans:

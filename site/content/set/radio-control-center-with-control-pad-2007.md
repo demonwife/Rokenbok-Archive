@@ -13,7 +13,7 @@ priceHistory:
   - date: 03/11/2008
     price: 59.99
 skus:
-  - "#00701"
+  - "00701"
 category: Control (RC)
 video: ""
 plans:

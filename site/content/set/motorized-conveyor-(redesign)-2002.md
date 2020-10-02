@@ -10,7 +10,7 @@ priceHistory:
   - date: 08/13/2006
     price: 29.99
 skus:
-  - "#04727"
+  - "04727"
 category: Action Accessory
 video: ""
 plans:

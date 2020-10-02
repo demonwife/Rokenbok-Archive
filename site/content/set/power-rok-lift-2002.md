@@ -14,7 +14,7 @@ priceHistory:
   - date: 07/20/2012
     price: 49.99
 skus:
-  - "#04314"
+  - "04314"
 category: Action Accessory
 video: ""
 plans:

@@ -10,7 +10,7 @@ priceHistory:
   - date: 08/31/2013
     price: 24.99
 skus:
-  - "#04849"
+  - "04849"
 category: Rok Blocks
 video: ""
 plans:

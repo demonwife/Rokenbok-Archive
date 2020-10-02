@@ -12,7 +12,7 @@ priceHistory:
   - date: 09/2020
     price: 189.99
 skus:
-  - "#08133"
+  - "08133"
 category: Vehicle (Rok Star)
 video: ""
 plans:

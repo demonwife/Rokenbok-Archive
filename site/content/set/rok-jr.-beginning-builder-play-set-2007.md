@@ -11,7 +11,7 @@ priceHistory:
   - date: 02/02/2008
     price: 99.99
 skus:
-  - "#07100"
+  - "07100"
 category: Start Set (Unique)
 video: ""
 plans:

@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+  <article class="mw7 center">
+    <div class="measure-wide-l f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
+      <p>Sets with SKU: {{ .Title }}</p>
+    </div>
+  </article>
+  <div class="mw7 center">    
+    <section class="flex-ns flex-wrap justify-around">
+      {{ range  .Pages }}
+        <div class="w-50-ns ph1-ns flex">
+          <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+            <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+            <p class="mid-gray lh-title mb2 fr">{{ delimit .Params.skus ", " }}</p>
+            <p class="mid-gray lh-title mb2">{{ .Params.year }}</p>
+
+            {{if .Params.thumb }}
+              <img src="{{ .Params.thumb }}" class="fl mr2 br2" style="max-width: 200px">
+            {{ end }}
+            <p class="mb0">{{ .Description }}</p>
+            <p class="link b dib black mb0">Read more →</p>
+          </a>
+        </div>
+      {{ end }}
+    </section>
+  </div>
+{{ end }}

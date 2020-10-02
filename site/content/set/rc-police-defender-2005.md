@@ -10,7 +10,7 @@ priceHistory:
   - date: 08/14/2006
     price: 39.99
 skus:
-  - "#04215"
+  - "04215"
 category: Vehicle (RC)
 video: ""
 plans:

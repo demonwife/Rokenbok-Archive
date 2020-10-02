@@ -10,7 +10,7 @@ priceHistory:
   - date: 12/30/2010
     price: 69.99
 skus:
-  - "#08220"
+  - "08220"
 category: Vehicle (Rok Star)
 video: ""
 plans:

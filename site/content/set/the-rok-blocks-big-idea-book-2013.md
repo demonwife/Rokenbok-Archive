@@ -10,7 +10,7 @@ priceHistory:
   - date: 09/20/2013
     price: 5.99
 skus:
-  - "#35025"
+  - "35025"
 category: Book
 video: ""
 plans:

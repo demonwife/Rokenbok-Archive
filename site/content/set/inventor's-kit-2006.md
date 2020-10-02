@@ -14,7 +14,7 @@ priceHistory:
   - date: 08/13/2006
     price: 29.99
 skus:
-  - "#04809"
+  - "04809"
 category: Building Basics
 video: ""
 plans:

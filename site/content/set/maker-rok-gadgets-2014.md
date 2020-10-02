@@ -10,7 +10,7 @@ priceHistory:
   - date: 06/29/2015
     price: 29.99
 skus:
-  - "#04321"
+  - "04321"
 category: Building Set
 video: ""
 plans:

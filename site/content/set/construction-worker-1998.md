@@ -12,7 +12,7 @@ priceHistory:
   - date: 12/07/2000
     price: 2.99
 skus:
-  - "#04401"
+  - "04401"
 category: Building Basics
 video: ""
 plans:

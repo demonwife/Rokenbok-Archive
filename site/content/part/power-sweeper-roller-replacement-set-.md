@@ -10,7 +10,7 @@ priceHistory:
   - date: 02/11/2011
     price: 6.99
 skus:
-  - "#20096"
+  - "20096"
 category: Replacement Parts
 video: ""
 plans:

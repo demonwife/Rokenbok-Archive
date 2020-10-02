@@ -10,7 +10,7 @@ priceHistory:
   - date: 08/11/2003
     price: 289.99
 skus:
-  - "#10700"
+  - "10700"
 category: Furniture
 video: ""
 plans:
