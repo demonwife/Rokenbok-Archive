@@ -15,7 +15,8 @@ priceHistory:
     price: 99.99
 skus:
   - "08710"
-category: Vehicle (Rok Star)
+categories: 
+  - Vehicle (Rok Star)
 video: ""
 plans:
 - name: Rok Star X2 Dual Drive

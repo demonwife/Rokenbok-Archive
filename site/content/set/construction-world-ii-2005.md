@@ -15,7 +15,8 @@ priceHistory:
     price: 139.99
 skus:
   - "04329"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Construction World Ii Ball Factory

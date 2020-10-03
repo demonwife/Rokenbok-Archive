@@ -12,7 +12,8 @@ priceHistory:
 skus:
   - "36140"
   - "46140"
-category: Start Set (RC)
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Monorail Start Set A

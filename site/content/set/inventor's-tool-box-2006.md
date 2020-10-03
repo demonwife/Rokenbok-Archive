@@ -15,7 +15,8 @@ priceHistory:
     price: 149.99
 skus:
   - "04333"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Inventors Tool Box

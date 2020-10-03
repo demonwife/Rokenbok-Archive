@@ -12,7 +12,8 @@ priceHistory:
     price: 59.99
 skus:
   - "04273"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 - name: RC Dozer & Recycling Center

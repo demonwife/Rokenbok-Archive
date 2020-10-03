@@ -14,7 +14,8 @@ priceHistory:
     price: 59.99
 skus:
   - "00701"
-category: Control (RC)
+categories: 
+  - Control (RC)
 video: ""
 plans:
 

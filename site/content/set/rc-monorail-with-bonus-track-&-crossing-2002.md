@@ -11,7 +11,8 @@ priceHistory:
     price: 64.99
 skus:
   - "06224"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 

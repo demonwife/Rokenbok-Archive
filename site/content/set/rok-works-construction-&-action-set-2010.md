@@ -11,7 +11,8 @@ priceHistory:
     price: 129.99
 skus:
   - "08111"
-category: Start Set (Rok Star)
+categories: 
+  - Start Set (Rok Star)
 video: ""
 plans:
 - name: Rok Works

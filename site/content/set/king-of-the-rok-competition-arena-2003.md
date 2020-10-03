@@ -12,7 +12,8 @@ priceHistory:
     price: 39.99
 skus:
   - "34610"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: King Of The Rok Arena

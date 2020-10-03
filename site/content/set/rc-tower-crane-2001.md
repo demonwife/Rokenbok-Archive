@@ -14,7 +14,8 @@ priceHistory:
     price: 99.99
 skus:
   - "04709"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 - name: RC Tower Crane

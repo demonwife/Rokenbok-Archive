@@ -11,7 +11,8 @@ priceHistory:
     price: 59.99
 skus:
   - "04213"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 - name: RC Forklift & Warehouse

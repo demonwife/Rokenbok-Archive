@@ -11,7 +11,8 @@ priceHistory:
     price: 99.99
 skus:
   - "08240"
-category: Vehicle (Rok Star)
+categories: 
+  - Vehicle (Rok Star)
 video: ""
 plans:
 - name: Rs Skiptrack

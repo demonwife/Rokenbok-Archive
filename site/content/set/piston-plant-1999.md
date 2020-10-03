@@ -11,7 +11,8 @@ priceHistory:
     price: 39.99
 skus:
   - "03720"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 - name: Piston Plant A

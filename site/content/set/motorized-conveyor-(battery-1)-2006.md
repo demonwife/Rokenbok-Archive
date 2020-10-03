@@ -11,7 +11,8 @@ priceHistory:
     price: 34.99
 skus:
   - "04727"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: https://web.archive.org/web/20080223113700/http://www.rokenbok.com/vids/MotConveyr180.wmv
 plans:
 

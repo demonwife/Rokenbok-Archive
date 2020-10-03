@@ -12,7 +12,8 @@ priceHistory:
     price: 129.99
 skus:
   - "04338"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
   - name: Architect's Dream Plan Sheet

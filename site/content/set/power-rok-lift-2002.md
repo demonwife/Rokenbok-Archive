@@ -15,7 +15,8 @@ priceHistory:
     price: 49.99
 skus:
   - "04314"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 - name: Power Rok Lift

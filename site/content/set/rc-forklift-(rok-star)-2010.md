@@ -11,7 +11,8 @@ priceHistory:
     price: 69.99
 skus:
   - "08220"
-category: Vehicle (Rok Star)
+categories: 
+  - Vehicle (Rok Star)
 video: ""
 plans:
 - name: Rs Forklift

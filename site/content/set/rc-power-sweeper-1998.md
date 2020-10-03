@@ -14,7 +14,8 @@ priceHistory:
     source: https://web.archive.org/web/20071125173047/http://www.rokenbok.com/catalog/pd_rcv_sweeper.html#
 skus:
   - "03231"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 

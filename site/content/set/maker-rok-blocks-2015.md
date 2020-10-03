@@ -11,7 +11,8 @@ priceHistory:
     price: 49.99
 skus:
   - "04866"
-category: Rok Blocks
+categories: 
+  - Rok Blocks
 video: ""
 plans:
 - name: Maker Rok Blocks

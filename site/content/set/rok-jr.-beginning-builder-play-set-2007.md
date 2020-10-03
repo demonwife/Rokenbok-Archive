@@ -12,7 +12,8 @@ priceHistory:
     price: 99.99
 skus:
   - "07100"
-category: Start Set (Unique)
+categories: 
+  - Start Set (Unique)
 video: ""
 plans:
 - name: Rok Jr. Beginning Builder

@@ -11,7 +11,8 @@ priceHistory:
     price: 159.99
 skus:
   - "04119"
-category: Start Set (RC)
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Defender Duel Start Set

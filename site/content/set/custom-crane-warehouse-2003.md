@@ -12,7 +12,8 @@ priceHistory:
     price: 149.99
 skus:
   - "44323"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Crane Warehouse

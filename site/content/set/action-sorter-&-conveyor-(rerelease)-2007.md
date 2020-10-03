@@ -14,7 +14,8 @@ priceHistory:
     price: 79.99
 skus:
   - "04729"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 - name: Action Sorter Ss

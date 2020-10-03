@@ -11,7 +11,8 @@ priceHistory:
     price: 99.99
 skus:
   - "34317"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Construction World A

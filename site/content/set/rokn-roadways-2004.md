@@ -15,7 +15,8 @@ priceHistory:
     price: 34.99
 skus:
   - "04319"
-category: Building Set
+categories: 
+  - Building Set
 video: https://web.archive.org/web/20060813152245/http://www.rokenbok.com/vids/RoadwayRok307KbSec.wmv
 plans:
 - name: Rok'n Roadways

@@ -15,7 +15,8 @@ priceHistory:
     price: 15.99
 skus:
   - "04860"
-category: Building Basics
+categories: 
+  - Building Basics
 video: ""
 plans:
 

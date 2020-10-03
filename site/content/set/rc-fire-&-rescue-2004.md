@@ -11,7 +11,8 @@ priceHistory:
     price: 59.99
 skus:
   - "03223"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: https://web.archive.org/web/20060929132558/http://rokenbok.com/vids/FireRok307KbSec.wmv
 plans:
 - name: RC Fire & Rescue

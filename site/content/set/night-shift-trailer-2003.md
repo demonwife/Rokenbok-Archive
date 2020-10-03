@@ -14,7 +14,8 @@ priceHistory:
     source: https://www.ebay.com/c/1624666247
 skus:
   - "30717"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 

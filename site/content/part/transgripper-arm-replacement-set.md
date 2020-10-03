@@ -13,7 +13,8 @@ priceHistory:
     price: 7.99
 skus:
   - "20-00122"
-category: Replacement Parts
+categories: 
+  - Replacement Parts
 video: ""
 plans:
 

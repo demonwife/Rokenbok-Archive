@@ -13,7 +13,8 @@ priceHistory:
     price: 34.99
 skus:
   - "08700"
-category: Control (Rok Star)
+categories: 
+  - Control (Rok Star)
 video: ""
 plans:
 - name: Rok Star Controller

@@ -11,7 +11,8 @@ priceHistory:
     price: 54.99
 skus:
   - "04211"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 

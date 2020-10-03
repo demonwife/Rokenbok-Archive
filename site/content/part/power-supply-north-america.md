@@ -13,7 +13,8 @@ priceHistory:
     price: 12.99
 skus:
   - "10361"
-category: 
+categories: 
+  - 
 video: ""
 plans:
 

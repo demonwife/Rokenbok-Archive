@@ -13,7 +13,8 @@ priceHistory:
     price: 74.99
 skus:
   - "06226"
-category: Vehicle (Rok Star)
+categories: 
+  - Vehicle (Rok Star)
 video: ""
 plans:
 - name: Rok Star Monorail

@@ -11,7 +11,8 @@ priceHistory:
     price: 6.99
 skus:
   - "20096"
-category: Replacement Parts
+categories: 
+  - Replacement Parts
 video: ""
 plans:
 

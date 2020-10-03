@@ -11,7 +11,8 @@ priceHistory:
     price: 5.99
 skus:
   - "35025"
-category: Book
+categories: 
+  - Book
 video: ""
 plans:
 

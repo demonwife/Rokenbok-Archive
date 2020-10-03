@@ -11,7 +11,8 @@ priceHistory:
     price: $259.99
 skus:
   - "04129"
-category: Start Set (Rok Star)
+categories: 
+  - Start Set (Rok Star)
 video: ""
 plans:
 - name: Young Engineer Ss

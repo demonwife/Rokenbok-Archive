@@ -18,7 +18,8 @@ skus:
   - "04338"
   - "06226"
   - "08700"
-category: Start Set (Rok Star)
+categories: 
+  - Start Set (Rok Star)
 video: ""
 plans:
 - name: Monorail Mainia

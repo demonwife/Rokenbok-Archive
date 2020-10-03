@@ -13,7 +13,8 @@ priceHistory:
     price: 99.99
 skus:
   - "04331"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Tower Of Rok Mania

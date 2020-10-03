@@ -27,7 +27,6 @@ plans:
 thumb: /img/sets/thumb_auto_center.gif
 categories: 
   - Building Set
-tags: ["tests"]
 video: "-"
 images:
 cmseditable: true

@@ -15,7 +15,8 @@ priceHistory:
     source: https://www.ebay.com/c/1800215083
 skus:
   - "04880"
-category: Building Basics
+categories: 
+  - Building Basics
 video: ""
 plans:
 

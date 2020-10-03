@@ -12,7 +12,8 @@ priceHistory:
 skus:
   - "34120"
   - "44120"
-category: Start Set (RC)
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
   - name: Action Factory Start Set

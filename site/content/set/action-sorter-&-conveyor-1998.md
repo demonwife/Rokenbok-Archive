@@ -11,7 +11,8 @@ priceHistory:
     price: 69.99
 skus:
   - "04725"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 

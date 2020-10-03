@@ -19,7 +19,8 @@ skus:
   - "34110"
   - "44110"
 
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 - name: Power Chutes SS A

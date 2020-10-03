@@ -13,7 +13,8 @@ priceHistory:
     price: 6.99
 skus:
   - 20-00190-001
-category: Replacement Parts
+categories: 
+  - Replacement Parts
 video: ""
 plans:
 

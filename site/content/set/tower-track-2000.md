@@ -11,7 +11,8 @@ priceHistory:
     price: 99.99
 skus:
   - "36320"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Monorail Tower Track A

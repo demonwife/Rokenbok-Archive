@@ -11,7 +11,8 @@ priceHistory:
     price: 34.99
 skus:
   - "06310"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Monorail Track A

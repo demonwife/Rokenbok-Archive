@@ -15,7 +15,8 @@ priceHistory:
     price: 17.99
 skus:
   - 21-00146
-category: 
+categories: 
+  - 
 video: ""
 plans:
 

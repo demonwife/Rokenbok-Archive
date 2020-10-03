@@ -11,7 +11,8 @@ priceHistory:
     price: 289.99
 skus:
   - "10700"
-category: Furniture
+categories: 
+  - Furniture
 video: ""
 plans:
 

@@ -11,7 +11,8 @@ priceHistory:
     price: 159.99
 skus:
   - "04335"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Construction World III Grand Central

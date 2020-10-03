@@ -11,7 +11,8 @@ priceHistory:
     price: 59.99
 skus:
   - "03221"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 

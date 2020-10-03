@@ -11,7 +11,8 @@ priceHistory:
     price: 19.99
 skus:
   - "04845"
-category: Rok Blocks
+categories: 
+  - Rok Blocks
 video: ""
 plans:
 - name: Rok Blocks

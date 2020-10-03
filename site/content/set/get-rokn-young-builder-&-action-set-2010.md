@@ -11,7 +11,8 @@ priceHistory:
     price: 99.99
 skus:
   - "07300"
-category: Start Set (Rok Star)
+categories: 
+  - Start Set (Rok Star)
 video: ""
 plans:
 - name: Rs Young Builder Action Set

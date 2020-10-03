@@ -11,7 +11,8 @@ priceHistory:
     price: 15.99
 skus:
   - "06717"
-category: Action Accessory
+categories: 
+  - Action Accessory
 video: ""
 plans:
 

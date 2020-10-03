@@ -11,7 +11,8 @@ priceHistory:
     price: "?"
 skus:
   - "20-00351"
-category: Building Basics
+categories: 
+  - Building Basics
 video: ""
 plans:
 

@@ -14,7 +14,8 @@ priceHistory:
     source: https://www.ebay.com/itm/Rokenbok-Toy-Roof-and-Sidewalk-Build-Collection-Set-04870-/333521875167
 skus:
   - "04870"
-category: Building Basics
+categories: 
+  - Building Basics
 video: ""
 plans:
 

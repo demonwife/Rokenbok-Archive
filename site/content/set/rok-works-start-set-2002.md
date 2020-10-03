@@ -13,7 +13,8 @@ skus:
   - "34111"
   - "34112"
   - "04115"
-category: Start Set (RC)
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Rok Works Start Set

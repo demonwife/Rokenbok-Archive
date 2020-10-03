@@ -11,7 +11,8 @@ priceHistory:
     price: 29.99
 skus:
   - "04321"
-category: Building Set
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Maker Rok Gadgets

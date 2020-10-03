@@ -11,7 +11,8 @@ priceHistory:
     price: 79.99
 skus:
   - "04740"
-category: Vehicle (RC)
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 - name: RC Elevator A

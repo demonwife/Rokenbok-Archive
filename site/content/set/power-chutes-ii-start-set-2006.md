@@ -11,7 +11,8 @@ priceHistory:
     price: 69.99
 skus:
   - "04117"
-category: Start Set (RC)
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Power Chutes II

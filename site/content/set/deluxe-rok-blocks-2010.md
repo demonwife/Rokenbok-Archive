@@ -11,7 +11,8 @@ priceHistory:
     price: 49.99
 skus:
   - "04847"
-category: Rok Blocks
+categories: 
+  - Rok Blocks
 video: ""
 plans:
 - name: Deluxe Rok Blocks

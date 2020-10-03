@@ -12,7 +12,8 @@ priceHistory:
 skus:
   - "33105"
   - "43105"
-category: Start Set (RC)
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 
