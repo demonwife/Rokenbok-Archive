@@ -16,7 +16,7 @@ priceHistory:
 skus:
   - 21-00146
 categories: 
-  - 
+  - Replacement Parts
 video: ""
 plans:
 

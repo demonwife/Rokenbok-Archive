@@ -1,6 +1,6 @@
 ---
 title: TransGripper Arm Replacement Set
-year: "?"
+year:
 description: >-
   Replacement  snap-on arms for your TransGripper.  Set includes 2 left and 2 right snap-on arms. Color: Yellow.
 archiveLinks:

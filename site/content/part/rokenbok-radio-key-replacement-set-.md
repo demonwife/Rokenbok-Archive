@@ -12,7 +12,7 @@ priceHistory:
 skus:
   - "20087"
 categories: 
-  - 
+  - Replacement Parts
 video: ""
 plans:
 
