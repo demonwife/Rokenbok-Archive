@@ -10,6 +10,6 @@ disableKinds = ["RSS"]
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
+  # tag = "tags"
   sku = "skus"
 
