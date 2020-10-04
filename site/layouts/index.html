@@ -2,6 +2,29 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Title "subtitle" .Params.subtitle) }}
 
+{{$scratch := newScratch}}
+
+{{ range (where $.Site.RegularPages "Section" "set") }}
+
+  {{$set := .Params.title}}
+  
+  {{ range .Params.parts }}
+
+    {{$name := .name}}
+
+    {{$part := $scratch.Get $name}}
+    {{if not $part}}
+      <!-- create -->
+      {{$part := slice}}
+    {{end}}
+    <!-- append --> 
+    {{ $scratch.Set $name ($part | append (dict "set" $set "qty" .qty "color" .color "desc" .desc)) }}
+
+  {{ end }}
+
+{{ end }}
+
+
 <div class="bg-off-white pt4">
   <div class="ph3 mw7 center">
 
@@ -19,6 +42,16 @@
       </div>
 
       {{ end }}
+
+      <div class="ph1-ns w-50-ns flex">
+        <a href="/part" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100 tc">
+          <h2 class="f3 b lh-title mb1 primary">Parts &#8250;</h2>
+          <p class="lh-title mb2" style="color: #A9A9A9">{{ len $scratch.Values }} items</p>
+          <!-- <p class="mb0"></p> -->
+          <p class="link b dib black mb0">More →</p>
+        </a>
+      </div>
+
 
     </div>
 
