@@ -1,7 +1,7 @@
 ---
 
 title: Part List
-subtitle: List of replacement parts, some can be 3D-Printed
+subtitle: List of Rokenbok replacement parts, some can be 3D-Printed
 cmseditable: false
 
 ---

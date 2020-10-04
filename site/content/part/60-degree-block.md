@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325257
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/60-degree-block.jpg
 ---

@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325215
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/3-way-brace.jpg
 ---

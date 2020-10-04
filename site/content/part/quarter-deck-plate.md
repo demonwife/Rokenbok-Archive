@@ -7,5 +7,5 @@ cadfiles:
     creator: Techplex
     link: https://www.prusaprinters.org/prints/40455-rokenbok-14-deck-plate
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/quarter-deck-plate-techplex.png
 ---

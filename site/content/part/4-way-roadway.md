@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325181
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/4-way-roadway.jpg
 ---

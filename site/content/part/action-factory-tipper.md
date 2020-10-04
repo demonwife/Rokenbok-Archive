@@ -7,5 +7,5 @@ cadfiles:
     creator: Techplex
     link: https://www.prusaprinters.org/prints/42029-rokenbok-tipper-for-action-factory
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/action-factory-tipper-techplex.png
 ---
