@@ -220,7 +220,7 @@ parts:
     name: 4 Way Rowdway
     color: black
   - qty: 8
-    name: Half deck Plate, Studs
+    name: Half Deck Plate, Studs
     color: light gray
   - qty: 10
     name: Deck Plate, Studs

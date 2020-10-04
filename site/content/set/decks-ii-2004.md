@@ -24,4 +24,24 @@ plans:
 thumb: /img/sets/34612_decks_ii.png
 images:
 cmseditable: true
+
+parts:
+  - qty: 3
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 3
+    name: Half Deck Plate, Studs
+    color: blue
+  - qty: 3
+    name: Deck Plate, Studs
+    color: light gray
+  - qty: 3
+    name: Deck Plate, Studs
+    color: blue
+  - qty: 2
+    name: Curved Deck Plate, Studs
+    color: light gray
+  - qty: 2
+    name: Curved Deck Plate, Studs
+    color: blue
 ---
