@@ -221,7 +221,7 @@ parts:
     name: Swinging Door (??)
     color: green
   - qty: 1
-    name: 4 Way Rowdway
+    name: 4 Way Roadway
     color: black
   - qty: 8
     name: Half Deck Plate, Studs

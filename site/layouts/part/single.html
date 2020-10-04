@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="cms mw6">
+
+      {{ if .Params.thumb }}
+        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl mr2" style="max-width: 200px;margin-right: .5rem;" />
+      {{ end }}
+      <p>{{ .Description }}</p>
+
+      <!-- If the description is too short, make sure the next bits start after the image -->
+      <div class="cf"></div>
+
+
+      <h4 class="f4">3D Models</h4>
+      <ul>
+        {{range .Params.cadfiles}}
+        <li>
+          <a href="{{.link}}">{{.name}}</a> by {{.creator}}
+        </li>
+        {{end}}
+      </ul>
+
+      <h4 class="f4">All Images ({{ len (union (slice .Params.thumb) .Params.images) }})</h4>
+      <ul>
+        {{range union (slice .Params.thumb) .Params.images }}
+        <li>
+          <a href="{{.}}" target="__BLANK" title="Click to see largest version">
+            <img src="{{.}}">
+          </a>
+        </li>
+        {{end}}
+      </ul>
+
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}
