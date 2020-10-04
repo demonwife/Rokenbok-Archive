@@ -16,7 +16,7 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20096_sweeper_roller_replacement.jpg
+thumb: /img/sets/20096_sweeper_roller_replacement.jpg
 images:
 cmseditable: true
 ---

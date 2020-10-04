@@ -16,9 +16,9 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20-00349_single_snap_block.jpg
+thumb: /img/sets/20-00349_single_snap_block.jpg
 images:
-  -  /img/parts/20-00349_single_snap_block_parts.jpg
+  -  /img/sets/20-00349_single_snap_block_parts.jpg
 cmseditable: true
 ---
 Need more snap blocks?

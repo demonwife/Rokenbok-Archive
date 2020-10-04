@@ -16,10 +16,10 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20-00357_small_curved_beams_1.jpg
+thumb: /img/sets/20-00357_small_curved_beams_1.jpg
 images:
-  -  /img/parts/20-00357_small_curved_beams_2.jpg
-  -  /img/parts/20-00357_small_curved_beams_parts.jpg
+  -  /img/sets/20-00357_small_curved_beams_2.jpg
+  -  /img/sets/20-00357_small_curved_beams_parts.jpg
 cmseditable: true
 ---
 This set is recommend for builders who want to add more dimension to their systems. Combine this set with gear teeth, a couple of blocks and build a gear.

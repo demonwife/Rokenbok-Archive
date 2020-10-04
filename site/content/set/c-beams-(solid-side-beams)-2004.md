@@ -19,7 +19,7 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/10921_c_beams.jpg
+thumb: /img/sets/10921_c_beams.jpg
 images:
 cmseditable: true
 ---

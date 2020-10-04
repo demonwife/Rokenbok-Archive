@@ -16,7 +16,7 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20087_radio_keys.jpg
+thumb: /img/sets/20087_radio_keys.jpg
 images:
 cmseditable: true
 ---

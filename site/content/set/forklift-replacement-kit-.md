@@ -18,7 +18,7 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20-00190-001_forklift_face_replacement.jpg
+thumb: /img/sets/20-00190-001_forklift_face_replacement.jpg
 images:
 cmseditable: true
 ---

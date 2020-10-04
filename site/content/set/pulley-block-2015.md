@@ -16,7 +16,7 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20-00354_pulley_block_1.jpg
+thumb: /img/sets/20-00354_pulley_block_1.jpg
 images:
   - /img/sets/20-00354_pulley_block_2.jpg
   - /img/sets/20-00354_pulley_block_parts.jpg

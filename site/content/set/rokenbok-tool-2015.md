@@ -16,11 +16,11 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20-00346_tool_1.jpg
+thumb: /img/sets/20-00346_tool_1.jpg
 images:
-  - /img/parts/20-00346_tool_2.jpg
-  - /img/parts/20-00346_tool_3.jpg
-  - /img/parts/20-00346_tool_4.jpg
+  - /img/sets/20-00346_tool_2.jpg
+  - /img/sets/20-00346_tool_3.jpg
+  - /img/sets/20-00346_tool_4.jpg
 cmseditable: true
 ---
 Rokenbok Tool

@@ -16,10 +16,10 @@ categories:
 video: ""
 plans:
 
-thumb: /img/parts/20-00352_axle_block_1.jpg
+thumb: /img/sets/20-00352_axle_block_1.jpg
 images:
-  - /img/parts/20-00352_axle_block_2.jpg
-  - /img/parts/20-00352_axle_block_parts.jpg
+  - /img/sets/20-00352_axle_block_2.jpg
+  - /img/sets/20-00352_axle_block_parts.jpg
 cmseditable: true
 ---
 Need more blocks?
