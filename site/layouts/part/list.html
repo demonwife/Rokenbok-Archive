@@ -2,35 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
-<!-- <script type="text/javascript">
-	let data = {};
-
-
-	{{ range (where $.Site.RegularPages "Section" "set") }}
-		data[{{.Params.title}}] = {{ jsonify .Params.parts}};
-	{{end}}
-
-	console.log(data)
-
-
-</script>
-
-<pre>
-	
-</pre> -->
-
-<!-- {
-	PartName: [
-		{
-			set:
-			qty:
-			name:
-			color:
-			desc:
-		}
-	]
-} -->
-
 
 {{$scratch := newScratch}}
 
@@ -61,79 +32,24 @@
 {{/*jsonify $scratch.Values*/}}
 
 
-<div class="mw7 center">    
-    <section class="flex-ns flex-wrap justify-around">
-      {{ range $partName, $data := $scratch.Values }}
-        <div class="w-50-ns ph1-ns flex">
-          <a href="" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-            <h2 class="f3 b lh-title mb1 primary">{{$partName}}</h2>
-            <!-- <p class="mid-gray lh-title mb2 fr">sku</p> -->
-            <!-- <p class="mid-gray lh-title mb2">year</p> -->
 
-            
-              <img src="" class="fl mr2 br2" style="max-width: 200px">
-            
-            <p class="mb0">
-            	<table class="f6 w-100 mw8 center" cellspacing="0">
-            		<thead>
-            			<tr>
-	            			<th class="fw6 tl pa3 bg-white">Set</th>
-	            			<th class="fw6 tl pa3 bg-white">Qty</th>
-	            			<th class="fw6 tl pa3 bg-white">Color</th>
-	            			<th class="fw6 tl pa3 bg-white">Desc</th>
-	            		</tr>
-            		</thead>
-            		<tbody class="lh-copy">
-    			    	{{ range $data }}
-    			    	<tr class="stripe-dark">
-    			    		<td class="pa3">{{.set}}</td>
-    			    		<td class="pa3">{{.qty}}</td>
-    			    		<td class="pa3">{{.color}}</td>
-    			    		<td class="pa3">{{.desc}}</td>
-    			    	</tr>
-    					{{ end }}
-            		</tbody>
-            	</table>
-            	
-
-            </p>
-            <!-- <p class="link b dib black mb0">Read more →</p> -->
-          </a>
-            	
-        </div>
-      {{ end }}
-    </section>
+<div class="mw6 center ph3 pv4">
+  <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+  <div class="flex justify-between grey-3">
+    <p></p>
+    <p></p>
   </div>
+  <div class="cms mw6">
 
-
-
-
-
-<!-- <div class="mw7 center cms">
-	<ul class="">
-	{{ range (where $.Site.RegularPages "Section" "set") }}
-		<li>
-			Set: {{.Params.title}}
-			<br>
-			Parts:
-			<ul>
-			{{ range .Params.parts}}
-				<li>({{.qty}}) {{.name}} - {{.color}} -- {{.desc}}</li>
-			{{ end }}
-			</ul>
-		</li>
-	{{end}}
-	</ul>
-</div> -->
-<!-- <div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 150).Pages.ByParam "year" }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li" }}
-          </div>
+    
+    <ul>
+      {{ range $partName, $data := $scratch.Values }}
+        <li><a href=" .Page.Permalink ">{{ $partName }}</a> ({{ len $data }})</li>
       {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
-</div> -->
+    </ul>
+
+  </div>
+</div>
+	
 
 {{end}}
