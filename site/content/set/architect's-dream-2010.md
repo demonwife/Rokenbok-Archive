@@ -58,7 +58,7 @@ parts:
     color: gray
   - qty: 1
     name: Sign
-    color: Orange
+    color: yellow
     desc: Office
   - qty: 1
     name: Sign
@@ -80,8 +80,8 @@ parts:
   - qty: 4
     name: Hinge Block
     color: red
-  - qty: 6
 
+  - qty: 6
     name: 2-Way Brace
     color: blue
   - qty: 6
@@ -126,9 +126,11 @@ parts:
   - qty: 8
     name: Wall 1x2
     color: light gray
+    desc: squares
   - qty: 4
     name: Wall 2x2
     color: light gray
+    desc: squares
   - qty: 1
     name: Signal Light
     color: light gray
@@ -158,9 +160,11 @@ parts:
   - qty: 5
     name: Wall 2x7
     color: light gray
+    desc: squares
   - qty: 22
     name: Wall 1x7
     color: light gray
+    desc: squares
   - qty: 20
     name: Corbel
     color: red
@@ -199,7 +203,7 @@ parts:
     color: white
   - qty: 2
     name: Large Desk
-    color: 2
+    color: white
   - qty: 2
     name: Ramp (??)
     color: gray

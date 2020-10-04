@@ -11,6 +11,8 @@ description: Drive your vehicle through the garage doors and into the work area
 archiveLinks:
   - name: 03/04/2001
     link: https://web.archive.org/web/20010304032210/http://rokenbok.com/catalog/pd_bs_auto.html
+  - name: picclick.com
+    link: https://picclick.com/Rokenbok-System-Action-Factory-Start-Set-34120-and-132874795731.html#&gid=1&pid=4
 priceHistory:
   - date: 2001-03-04T05:00:00.000Z
     price: 79.99
@@ -29,5 +31,139 @@ categories:
   - Building Set
 video: ""
 images:
+  - /img/sets/33325_auto_center_parts.jpg
 cmseditable: true
+parts:
+  - qty: 1
+    name: Workbench (??)
+    color: light gray
+  - qty: 1
+    name: Printer/Fax
+    color: light gray
+  - qty: 1
+    name: Chair
+    color: blue
+  - qty: 2
+    name: Large Desk
+    color: white
+  - qty: 2
+    name: Small Desk
+    color: white
+  - qty: 1
+    name: Sign
+    color: yellow
+    desc: Office
+  - qty: 1
+    name: Sign
+    color: yellow
+    desc: Auto Center
+  - qty: 1
+    name: Sign
+    color: yellow
+    desc: Garage
+  - qty: 1
+    name: Laptop
+    color: light gray
+  - qty: 4
+    name: Wheel Tread (??)
+    color: black
+  - qty: 2
+    name: Corbel
+    color: purple
+  - qty: 8
+    name: Lamp
+    color: yellow
+  - qty: 6
+    name: Handrail
+    color: yellow
+    otherNames:
+      - Railing
+  - qty: 1
+    name: Person (??)
+    color: blue
+  - qty: 1
+    name: Person (??)
+    color: white
+  - qty: 1
+    name: Handtruck
+    color: yellow
+  - qty: 3
+    name: Barrel
+    color: green
+  - qty: 1
+    name: Waste Oil Barrel (??)
+    color: green
+  - qty: 1
+    name: Fresh Oil Barrel (??)
+    color: green
+  - qty: 1
+    name: Fire Extinguisher
+    color: red
+  - qty: 4 
+    name: Swinging Door (??)
+    color: yellow
+  - qty: 28
+    name: Full Beam
+    color: gray
+  - qty: 12
+    name: Half Beam
+    color: gray
+  - qty: 36
+    name: Block
+    color: blue
+  - qty: 2
+    name: Window
+    color: blue
+  - qty: 2
+    name: Roof (??)
+    color: blue
+  - qty: 1
+    name: Door (??)
+    color: blue
+
+  - qty: 1
+    name: Wall 2x7
+    color: light gray
+    desc: wavy
+  - qty: 2
+    name: Wall 2x2
+    color: light gray
+    desc: wavy
+  - qty: 1
+    name: Wall 1x7
+    color: light gray
+    desc: wavy
+  - qty: 2
+    name: Wall 1x2
+    color: light gray
+    desc: wavy
+  - qty: 2
+    name: Ramp (??)
+    color: gray
+  - qty: 1
+    name: Platform (??)
+    color: light gray
+  - qty: 6
+    name: 2-Way Brace
+    color: blue
+  - qty: 2
+    name: 3-Way Brace
+    color: blue
+  - qty: 4
+    name: Girder
+    color: blue
+    otherNames:
+      - Brace
+  - qty: 2
+    name: Deck Plate, Studs
+    color: light gray
+  - qty: 8
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 5
+    name: Step
+    color: Gray
+  - qty: 1
+    name: Vehicle Lift (??)
+    color: gray, red, yellow
 ---

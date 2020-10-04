@@ -21,6 +21,151 @@ plans:
 
 thumb: /img/sets/thumb_tower_crane_warehouse.jpg
 images:
-  -  /img/sets/missing.jpg
+  -  /img/sets/44323_crane_warehouse_parts.png
 cmseditable: true
+parts:
+  - qty: 4
+    name: Riser
+    color: light gray
+  - qty: 1
+    name: Ramp (??)
+    color: light gray
+  - qty: 4
+    name: 2-Way Brace
+    color: dark blue
+  - qty: 4
+    name: Lamp
+    color: yellow
+  - qty: 52
+    name: Block
+    color: blue
+  - qty: 5
+    name: Handrail
+    otherNames:
+      - Railing
+    color: yellow
+  - qty: 3
+    name: Signs (??)
+    color: printed
+  - qty: 1
+    name: Sign Holder, Back (??)
+    color: gray
+  - qty: 1
+    name: Sign Holder, Front (??)
+    color: gray
+  - qty: 3
+    name: Roof (??)
+    color: yellow
+  - qty: 6
+    name: Wall 1x2
+    color: light gray
+    desc: squares
+  - qty: 3
+    name: Wall 2x2
+    color: light gray
+    desc: squares
+  - qty: 3
+    name: Wall 2x7
+    color: light gray
+    desc: squares
+  - qty: 21
+    name: Wall 1x7
+    color: light gray
+    desc: squares
+
+  - qty: 2
+    name: Bin Holder (??)
+    color: red
+  - qty: 2
+    name: Bin (??)
+    color: red
+  - qty: 2
+    name: Bin Holder (??)
+    color: blue
+  - qty: 2
+    name: Bin (??)
+    color: blue
+  - qty: 2
+    name: Bin Holder (??)
+    color: green
+  - qty: 2
+    name: Bin (??)
+    color: green
+
+  - qty: 3
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 3
+    name: Deck Plate, Studs
+    color: light gray
+  - qty: 1
+    name: Catwalk
+    color: blue
+  - qty: 26
+    name: Window
+    color: dark blue
+
+  - qty: 2
+    name: Truck Alignment (??)
+    color: white
+  - qty: 1
+    name: I Beam
+    color: green
+  - qty: 2
+    name: Girder
+    otherNames:
+      - Brace
+    color: green
+  - qty: 2
+    name: Girder
+    otherNames:
+      - Brace
+    color: red
+  - qty: 48
+    name: Full Beam
+    color: light gray
+  - qty: 1
+    name: Barrier (??)
+    color: orange
+  - qty: 6
+    name: Roadway Straight Segment
+    color: black
+    desc: top mount
+  - qty: 4
+    name: Roadway Incline
+    color: black
+    desc: top mount
+  - qty: 8
+    name: Barrel
+    color: orange
+  - qty: 2
+    name: Traffic Cone (??)
+    color: orange
+  - qty: 26
+    name: Half Beam
+    color: gray
+  - qty: 1
+    name: Flag
+    desc: Rokenbok
+    color: red
+  - qty: 1
+    name: Curved Deck Plate, Studs
+    color: light gray
+  - qty: 1
+    name: Tall Sign (??)
+    color: light gray
+    desc: Keep Right
+  - qty: 1
+    name: Tall Sign (??)
+    color: light gray
+    desc: Road Work Ahead
+  - qty: 1
+    name: Tall Sign (??)
+    color: light gray
+    desc: Stop
+
+
+
+
+    
 ---

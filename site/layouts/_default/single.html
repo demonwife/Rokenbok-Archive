@@ -57,6 +57,40 @@
         {{end}}
       </ul>
 
+      
+      {{ $partCount := 0 }}
+
+      {{ range .Params.parts }}
+        {{ $partCount = (add $partCount (int .qty)) }}
+      {{ end }}
+
+
+      Count: {{ $partCount }}
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Qty</th>
+            <th>Color</th>
+            <th>Desc</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+          {{ range .Params.parts }}
+          <tr>
+            <td>{{.name}}</td>
+            <td>{{.qty}}</td>
+            <td>{{.color}}</td>
+            <td>{{.desc}}</td>
+          </tr>
+          {{ end }}
+          
+        </tbody>
+      </table>
+      
+      
+
 
       {{ .Content }}
     </div>

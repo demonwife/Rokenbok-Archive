@@ -23,5 +23,57 @@ plans:
   link: /plans/06310_monorail_track_c.pdf
 thumb: /img/sets/thumb_monorail_track.gif
 images:
+  - /img/sets/06310_monorail_track_parts.png
 cmseditable: true
+partCount: 136
+parts:
+  - qty: 1
+    name: Person (??)
+    color: yellow
+  - qty: 1
+    name: Person Lift (??)
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: Signal Light
+    color: light gray
+  - qty: 2
+    name: Lamp
+    color: yellow
+  - qty: 38
+    name: Block
+    color: blue
+  - qty: 35
+    name: Riser
+    color: light gray
+  - qty: 23
+    name: Half Beam
+    color: black
+  - qty: 2
+    name: I Beam
+    color: green
+  - qty: 4
+    name: Handrail
+    otherNames:
+      - Railing
+    color: yellow
+  - qty: 10
+    name: Curved Beam
+    color: black
+  - qty: 4
+    name: Girder
+    otherNames:
+      - Brace
+    color: blue
+  - qty: 4
+    name: S Beam
+    color: black
+  - qty: 2
+    name: Catwalk
+    color: blue
+  - qty: 7
+    name: Full Beam
+    color: black
 ---
