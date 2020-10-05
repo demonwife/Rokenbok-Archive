@@ -6,6 +6,16 @@
       <p>{{ .Params.year }} -- {{delimit .Params.categories ", "}}</p>
       <p>{{ delimit .Params.skus ", " }}</p>
     </div>
+    <div class="flex justify-between grey-3 mb3">
+      <div>
+        <a href="{{.Site.Data.constants.repoUrl}}/edit/master/site/content/{{.File | urlize}}" target="__BLANK">Edit on Github</a>
+      </div>
+      <div>
+        <a href="{{.Site.Data.constants.repoUrl}}/issues/new?title={{(replace (print "suggestion for " .File) " " "+")}}" target="__BLANK">Report Issue / Suggest Change</a>
+      </div>
+    </div>
+
+
     <div class="cms mw6">
 
       {{ if .Params.thumb }}

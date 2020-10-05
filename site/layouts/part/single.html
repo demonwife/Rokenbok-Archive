@@ -1,7 +1,17 @@
 {{ define "main" }}
 
+
+
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <div>
+        <a href="{{.Site.Data.constants.repoUrl}}/edit/master/site/content/{{.File | urlize}}" target="__BLANK">Edit on Github</a>
+      </div>
+      <div>
+        <a href="{{.Site.Data.constants.repoUrl}}/issues/new?title={{(replace (print "suggestion for " .File) " " "+")}}" target="__BLANK">Report Issue / Suggest Change</a>
+      </div>
+    </div>
     <div class="cms mw6">
 
       {{ if .Params.thumb }}
