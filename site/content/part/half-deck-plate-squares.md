@@ -1,11 +1,11 @@
 ---
-title: Half deck Plate, Squres
+title: Half deck Plate, Squares
 
 description: ""
 cadfiles:
-  - name: Half deck Plate, Squres
+  - name: Half deck Plate, Squares
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325221
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/half-deck-plate-squares.jpg
 ---
