@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325154
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/billboard-frame-front.jpg
 ---

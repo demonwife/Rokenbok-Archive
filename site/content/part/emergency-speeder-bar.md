@@ -7,5 +7,5 @@ cadfiles:
     creator: Techplex
     link: https://www.prusaprinters.org/prints/42062-rokenbok-emergency-speeder-replacement-bar
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/emergency-speeder-bar.jpg
 ---

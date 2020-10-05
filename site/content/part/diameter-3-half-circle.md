@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:323319
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/diameter-3-half-circle.jpg
 ---
