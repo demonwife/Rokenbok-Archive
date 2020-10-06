@@ -3,8 +3,18 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
-      <p>{{ .Params.year }} -- {{delimit .Params.categories ", "}}</p>
-      <p>{{ delimit .Params.skus ", " }}</p>
+      <p>
+        <a href="/year/{{ .Params.year }}" title="See other sets released in this year">{{ .Params.year }}</a>
+        --
+        {{range .Params.categories}}
+          <a href="/categories/{{.|urlize}}" title="See other sets in this category">{{.}}</a>
+        {{end}}
+      </p>
+      <p>
+        {{range .Params.skus}}
+          <a href="/skus/{{.}}" title="See other sets with this SKU">{{.}}</a>
+        {{end}}
+      </p>
     </div>
     <div class="flex justify-between grey-3 mb3">
       <div>

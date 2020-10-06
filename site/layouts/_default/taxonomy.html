@@ -2,10 +2,10 @@
 
   <article class="mw7 center">
     <div class="measure-wide-l f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
-      <p>Sets with SKU: {{ .Title }}</p>
+      <p>{{ .Data.Singular | humanize }}: {{ .Title }}</p>
     </div>
   </article>
-  <div class="mw7 center">    
+  <div class="mw7 center">
     <section class="flex-ns flex-wrap justify-around">
       {{ range  .Pages }}
         <div class="w-50-ns ph1-ns flex">
