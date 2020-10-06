@@ -7,9 +7,13 @@ description: >-
 archiveLinks:
   - name: 03/01/2000
     link: https://web.archive.org/web/20000301182452fw_/http://www.rokenbok.com/catmain3.htm
+  - name: ebay
+    link: https://www.ebay.com/itm/Rokenbok-System-04311-Chutes-amp-Hoppers-New-Unused-In-Opened-Box-/133516444352?nma=true&si=d3fVg9Yl6VimqVilZRIHOB0sClk%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557
 priceHistory:
   - date: 03/01/2000
     price: 24.99
+  - date: 09/13/2020
+    price: 32.99
 skus:
   - "04311"
 categories:
