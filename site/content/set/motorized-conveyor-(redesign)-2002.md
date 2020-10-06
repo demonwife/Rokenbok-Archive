@@ -13,6 +13,8 @@ skus:
   - "#04727"
 category: Action Accessory
 video: ""
+videoEmbeds:
+  - "siT1tX4Q8bc"
 plans:
 
 thumb: /img/sets/thumb_motortized_conveyorv2.gif

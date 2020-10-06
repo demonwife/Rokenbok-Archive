@@ -13,6 +13,8 @@ skus:
   - "#06310"
 category: Building Set
 video: ""
+videoEmbeds:
+  - "USlq5XMUkOs"
 plans:
 - name: Monorail Track A
   link: /plans/06310_monorail_track_a.pdf

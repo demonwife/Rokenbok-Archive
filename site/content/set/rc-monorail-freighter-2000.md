@@ -6,6 +6,8 @@ description: >-
 archiveLinks:
   - name: 12/07/2000
     link: https://web.archive.org/web/20001207211900/http://www.rokenbok.com/catalog/pd_rcv_monorail.html
+  - name: Monorail Society
+    link: http://www.monorails.org/tMspages/CPRokenbok.html
 priceHistory:
   - date: 12/07/2000
     price: 69.99

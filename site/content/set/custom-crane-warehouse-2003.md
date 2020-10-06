@@ -14,6 +14,8 @@ skus:
   - "#44323"
 category: Building Set
 video: ""
+videoEmbeds:
+  - "-VHi8WNRKFY"
 plans:
 - name: Crane Warehouse
   link: /plans/44323_crane_warehouse.pdf

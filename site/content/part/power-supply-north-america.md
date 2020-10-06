@@ -1,6 +1,6 @@
 ---
 title: Power Supply - North America
-year: 
+year: 2005
 description: >-
   Ordinary AC Adaptors send out radio signals which can interfere with the preformance of your Rokenbok system. Rokenbok AC Adaptors are "shielded" to eliminate this potential problem. Use only Rokenbok adaptors with your Rokenbok system. Voltage 120.
 archiveLinks:
@@ -13,7 +13,7 @@ priceHistory:
     price: 12.99
 skus:
   - "#10361"
-category: 
+category: Replacement Parts
 video: ""
 plans:
 

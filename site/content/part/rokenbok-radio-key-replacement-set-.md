@@ -1,6 +1,6 @@
 ---
 title: Rokenbok Radio Key Replacement Set
-year: 
+year: 2005
 description: >-
   Set contains eight radio keys, numbers one thru eight. For use with Rokenbok RC vehicles.
 archiveLinks:
@@ -11,7 +11,7 @@ priceHistory:
     price: 9.99
 skus:
   - "#20087"
-category: 
+category: Replacement Parts
 video: ""
 plans:
 

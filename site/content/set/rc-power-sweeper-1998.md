@@ -16,6 +16,8 @@ skus:
   - "#03231"
 category: Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "98YZYYCNKLw"
 plans:
 
 thumb: /img/sets/thumb_rc_sweeper.gif

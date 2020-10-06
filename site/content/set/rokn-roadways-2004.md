@@ -17,6 +17,8 @@ skus:
   - "#04319"
 category: Building Set
 video: https://web.archive.org/web/20060813152245/http://www.rokenbok.com/vids/RoadwayRok307KbSec.wmv
+videoEmbeds:
+  - "mtyM-YG-Hj0"
 plans:
 - name: Rok'n Roadways
   link: /plans/04319_rokn_roadways.pdf

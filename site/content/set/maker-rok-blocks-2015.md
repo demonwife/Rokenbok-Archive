@@ -2,7 +2,7 @@
 title: Maker ROK Blocks
 year: 2015
 description: >-
-  Announcing our brand new Maker ROK Blocks set that is perfect for kids that enjoy building and tinkering. Maker ROK Blocks is also part of our new line of Maker Series products designed to inspire a love of making and encourage budding engineers.  - See more at: http://www.rokenbok.com/shop/rok-blocks/maker-rok-blocks#sthash.gi4WjQHV.dpuf
+  Announcing our brand new Maker ROK Blocks set that is perfect for kids that enjoy building and tinkering. Maker ROK Blocks is also part of our new line of Maker Series products designed to inspire a love of making and encourage budding engineers.
 archiveLinks:
   - name: 05/08/2015
     link: https://web.archive.org/web/20150508101524/http://www.rokenbok.com/shop/rok-blocks/maker-rok-blocks

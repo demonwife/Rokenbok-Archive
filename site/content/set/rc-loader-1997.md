@@ -13,6 +13,8 @@ skus:
   - "#04211"
 category: Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "D_BCfieemqg"
 plans:
 
 thumb: /img/sets/thumb_rc_loader.gif

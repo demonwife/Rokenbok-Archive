@@ -13,6 +13,8 @@ skus:
   - "#08111"
 category: Start Set (Rok Star)
 video: ""
+videoEmbeds:
+  - "60BvLjVnqBo"
 plans:
 - name: Rok Works
   link: /plans/08111_rok_works.pdf

@@ -13,6 +13,8 @@ skus:
   - "#04725"
 category: Action Accessory
 video: ""
+videoEmbeds:
+  - "4jBceEjZ_xU"
 plans:
 
 thumb: /img/sets/thumb_action_sorter_conveyor.gif

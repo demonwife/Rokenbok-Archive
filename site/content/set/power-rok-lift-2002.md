@@ -17,6 +17,8 @@ skus:
   - "#04314"
 category: Action Accessory
 video: ""
+videoEmbeds:
+  - "SzudwbJ4ZR4"
 plans:
 - name: Power Rok Lift
   link: /plans/04314_power_rok_lift.pdf

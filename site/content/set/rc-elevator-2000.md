@@ -13,6 +13,8 @@ skus:
   - "#04740"
 category: Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "aS6kgOFV6DI"
 plans:
 - name: RC Elevator A
   link: /plans/04740_rc_elevator_a.pdf

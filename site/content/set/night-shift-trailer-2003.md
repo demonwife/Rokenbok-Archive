@@ -16,6 +16,8 @@ skus:
   - "#30717"
 category: Action Accessory
 video: ""
+videoEmbeds:
+  - "ZbRPiCwEpEI"
 plans:
 
 thumb: /img/sets/30717_night_shift_trailer.jpg
