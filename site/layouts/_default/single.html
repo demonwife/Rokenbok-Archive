@@ -47,7 +47,11 @@
       <h4 class="f4">Video</h4> {{.Params.video}}
       {{ end }}
 
-      <h4 class="f4">Videos ({{ len .Params.videoEmbeds }})</h4>
+      <h4 class="f4">Videos
+        {{if isset .Params "videoEmbeds"}}
+          ({{ len .Params.videoEmbeds }})
+        {{end}}
+      </h4>
       {{range .Params.videoEmbeds}}
         <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       {{end}}
