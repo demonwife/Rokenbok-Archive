@@ -7,5 +7,5 @@ cadfiles:
     creator: Techplex
     link: https://www.prusaprinters.org/prints/40014-rokenbok-truck-light
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/truck-light.jpg
 ---

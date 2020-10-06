@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325193
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/trailer-hitch.jpg
 ---

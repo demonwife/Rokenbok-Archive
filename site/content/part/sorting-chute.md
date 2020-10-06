@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:329383
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/sorting-chute.jpg
 ---

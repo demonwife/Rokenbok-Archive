@@ -7,5 +7,5 @@ cadfiles:
     creator: Techplex
     link: https://www.prusaprinters.org/prints/42065-rokenbok-tower-crane-battery-cover
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/tower-crane-battery-cover.jpg
 ---

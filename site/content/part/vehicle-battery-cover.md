@@ -7,5 +7,5 @@ cadfiles:
     creator: thebigblubb
     link: https://www.thingiverse.com/thing:2775550
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/vehicle-battery-cover.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-title: Trasgripper Arm
+title: Transgripper Arm
 
 description: ""
 cadfiles:
@@ -7,5 +7,5 @@ cadfiles:
     creator: sb43201
     link: https://www.thingiverse.com/thing:1177002
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/transgripper-arm.png
 ---

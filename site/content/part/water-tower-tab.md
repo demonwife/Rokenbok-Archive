@@ -7,5 +7,5 @@ cadfiles:
     creator: spyderwillster
     link: https://www.thingiverse.com/thing:4592515
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/water-tower-tab.png
 ---

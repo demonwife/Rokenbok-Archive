@@ -7,5 +7,5 @@ cadfiles:
     creator: Tinsuj
     link: https://www.thingiverse.com/thing:4600547
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/optimized-water-tower-tab.jpg
 ---

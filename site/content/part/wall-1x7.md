@@ -7,5 +7,5 @@ cadfiles:
     creator: Rokenbok kid*spark
     link: https://www.thingiverse.com/thing:325168
 
-thumb: /img/sets/missing.jpg
+thumb: /img/parts/wall-1x7.jpg
 ---
