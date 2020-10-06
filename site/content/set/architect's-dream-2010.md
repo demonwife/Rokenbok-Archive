@@ -111,8 +111,6 @@ parts:
 
   - qty: 12
     name: Girder
-    otherNames:
-      - Brace
     color: blue
   - qty: 26
     name: Window

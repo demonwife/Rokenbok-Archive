@@ -12,7 +12,7 @@
       </p>
       <p>
         {{range .Params.skus}}
-          <a href="/skus/{{.}}" title="See other sets with this SKU">{{.}}</a>
+          <a href="/skus/{{.|urlize}}" title="See other sets with this SKU">{{.}}</a>
         {{end}}
       </p>
     </div>
@@ -86,7 +86,6 @@
         {{end}}
       </ul>
 
-      
       {{ $partCount := 0 }}
 
       {{ range .Params.parts }}
@@ -94,7 +93,8 @@
       {{ end }}
 
 
-      Count: {{ $partCount }}
+      Parts Count: {{ $partCount }}
+      <h4 class="f4">Part List</h4>
       <table>
         <thead>
           <tr>
@@ -105,7 +105,7 @@
           </tr>
         </thead>
         <tbody>
-          
+
           {{ range .Params.parts }}
           <tr>
             <td>{{.name}}</td>
@@ -114,12 +114,11 @@
             <td>{{.desc}}</td>
           </tr>
           {{ end }}
-          
+
         </tbody>
       </table>
-      
-      
-
+      <br>
+      <h4 class="f3">Description</h4>
 
       {{ .Content }}
     </div>

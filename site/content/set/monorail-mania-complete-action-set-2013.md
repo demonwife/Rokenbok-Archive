@@ -18,7 +18,7 @@ skus:
   - "04338"
   - "06226"
   - "08700"
-categories: 
+categories:
   - Start Set (Rok Star)
 video: ""
 plans:
