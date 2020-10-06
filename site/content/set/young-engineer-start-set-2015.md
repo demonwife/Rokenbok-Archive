@@ -2,7 +2,7 @@
 title: Young Engineer Start Set
 year: 2015
 description: >-
-  Inspire your young engineer with this flexible, powerful collection of Rokenbok building elements and remote control robotics. This large collection will provide an endless stream of inventions - powered, remote controlled machines that will amaze. - See more at: http://www.rokenbok.com/shop/start-sets/maker-series-young-engineer-start-set-0#sthash.SUMD1pe3.dpuf
+  Inspire your young engineer with this flexible, powerful collection of Rokenbok building elements and remote control robotics. This large collection will provide an endless stream of inventions - powered, remote controlled machines that will amaze.
 archiveLinks:
   - name: 06/02/2015
     link: https://web.archive.org/web/20150602005714/http://www.rokenbok.com/shop/start-sets/maker-series-young-engineer-start-set-0

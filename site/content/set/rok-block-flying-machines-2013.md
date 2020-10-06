@@ -18,6 +18,7 @@ plans:
 
 thumb: /img/sets/04849_rok_blocks_flying_machines.png
 images:
+  - /img/sets/04849_rok_block_flying_machines.jpg
 cmseditable: true
 ---
 Quick Facts:

@@ -14,6 +14,8 @@ skus:
 categories: 
   - Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "D_BCfieemqg"
 plans:
 
 thumb: /img/sets/thumb_rc_loader.gif

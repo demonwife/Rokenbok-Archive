@@ -14,6 +14,8 @@ skus:
 categories: 
   - Action Accessory
 video: ""
+videoEmbeds:
+  - "TXax7ptACrY"
 plans:
 
 thumb: /img/sets/thumb_down_vator.gif

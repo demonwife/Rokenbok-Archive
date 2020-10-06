@@ -14,6 +14,8 @@ skus:
 categories: 
   - Action Accessory
 video: ""
+videoEmbeds:
+  - "Tw-q8dvu5qI"
 plans:
 - name: Piston Plant A
   link: /plans/03720_piston_plant_a.pdf

@@ -14,6 +14,8 @@ skus:
 categories: 
   - Vehicle (RC)
 video: https://web.archive.org/web/20060929132558/http://rokenbok.com/vids/FireRok307KbSec.wmv
+videoEmbeds:
+  - "1qdXfVgtLp0"
 plans:
 - name: RC Fire & Rescue
   link: /plans/03223_rc_fire_rescue.pdf

@@ -14,6 +14,8 @@ skus:
 categories: 
   - Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "NIGzYetrLGQ"
 plans:
 - name: RC Forklift & Warehouse
   link: /plans/04213_rc_forklift_warehouse.pdf

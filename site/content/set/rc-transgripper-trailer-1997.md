@@ -14,6 +14,8 @@ skus:
 categories: 
   - Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "_UJ8LD8hyVk"
 plans:
 
 thumb: /img/sets/thumb_transgripper.gif

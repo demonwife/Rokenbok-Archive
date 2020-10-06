@@ -15,6 +15,8 @@ skus:
 categories: 
   - Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "yEg_40zz-VQ"
 plans:
 
 thumb: /img/sets/thumb_skip_track.gif

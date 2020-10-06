@@ -27,7 +27,9 @@ plans:
   link: /plans/33325_auto_center_c.pdf
 
 thumb: /img/sets/thumb_auto_center.gif
-categories: 
+videoEmbeds:
+  - "DrQZXoHlqQI"
+categories:
   - Building Set
 video: ""
 images:

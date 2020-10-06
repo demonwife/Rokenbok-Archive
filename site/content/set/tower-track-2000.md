@@ -14,6 +14,8 @@ skus:
 categories: 
   - Building Set
 video: ""
+videoEmbeds:
+  - "wRbpEh5SN_Y"
 plans:
 - name: Monorail Tower Track A
   link: /plans/36320_monorail_tower_track_a.pdf

@@ -14,6 +14,8 @@ skus:
 categories: 
   - Vehicle (RC)
 video: ""
+videoEmbeds:
+  - "VO2AZ97_OqU"
 plans:
 
 thumb: /img/sets/thumb_rc_speedster.gif

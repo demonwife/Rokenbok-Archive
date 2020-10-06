@@ -14,6 +14,9 @@ skus:
 categories: 
   - Action Accessory
 video: ""
+videoEmbeds:
+  - "siT1tX4Q8bc"
+
 plans:
 
 thumb: /img/sets/thumb_motortized_conveyor.gif
