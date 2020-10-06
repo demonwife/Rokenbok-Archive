@@ -12,7 +12,7 @@ priceHistory:
     price: 24.99
 skus:
   - "04311"
-categories: 
+categories:
   - Building Basics
 video: ""
 plans:
@@ -23,4 +23,30 @@ images:
   - /img/sets/chutes_and_hoppers_i_2.jpg
   - /img/sets/chutes_and_hoppers_i_3.jpg
 cmseditable: true
+
+parts:
+  - qty: 2
+    name: Dump Bin (??)
+    color: white
+  - qty: 20
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 20
+    name: 16mm Red ROK
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: Chute Start (??)
+    color: yellow
+  - qty: 8
+    name: Straight Chute
+    color: yellow
+  - qty: 5
+    name: Corner Chute (Right)
+    color: yellow
+  - qty: 5
+    name: Corner Chute (Left)
+    color: yellow
 ---
