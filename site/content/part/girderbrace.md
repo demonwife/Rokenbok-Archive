@@ -1,6 +1,10 @@
 ---
 title: Girder/Brace
 
+otherNames:
+  - Girder
+  - Brace
+
 description: ""
 cadfiles:
   - name: Girder/Brace

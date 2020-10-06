@@ -50,15 +50,15 @@ parts:
     name: Small Desk
     color: white
   - qty: 1
-    name: Sign
+    name: Fascia Sign
     color: yellow
     desc: Office
   - qty: 1
-    name: Sign
+    name: Fascia Sign
     color: yellow
     desc: Auto Center
   - qty: 1
-    name: Sign
+    name: Fascia Sign
     color: yellow
     desc: Garage
   - qty: 1
@@ -74,15 +74,15 @@ parts:
     name: Lamp
     color: yellow
   - qty: 6
-    name: Handrail
+    name: Handrail/Railing
     color: yellow
     otherNames:
       - Railing
   - qty: 1
-    name: Person (??)
+    name: Worker/Figure
     color: blue
   - qty: 1
-    name: Person (??)
+    name: Worker/Figure
     color: white
   - qty: 1
     name: Handtruck
@@ -91,10 +91,10 @@ parts:
     name: Barrel
     color: green
   - qty: 1
-    name: Waste Oil Barrel (??)
+    name: Oil Change Pan
     color: green
   - qty: 1
-    name: Fresh Oil Barrel (??)
+    name: Oil Pump
     color: green
   - qty: 1
     name: Fire Extinguisher
@@ -109,16 +109,16 @@ parts:
     name: Half Beam
     color: gray
   - qty: 36
-    name: Block
+    name: Single Block/Cube
     color: blue
   - qty: 2
     name: Window
     color: blue
   - qty: 2
-    name: Roof (??)
+    name: Angled Window
     color: blue
   - qty: 1
-    name: Door (??)
+    name: Door
     color: blue
 
   - qty: 1
@@ -144,10 +144,10 @@ parts:
     name: Platform (??)
     color: light gray
   - qty: 6
-    name: 2-Way Brace
+    name: 2 Way Brace
     color: blue
   - qty: 2
-    name: 3-Way Brace
+    name: 3 Way Brace
     color: blue
   - qty: 4
     name: Girder

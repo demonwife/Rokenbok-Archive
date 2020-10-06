@@ -1,5 +1,5 @@
 ---
-title: Half deck Plate, Studs
+title: Half Deck Plate, Studs
 
 description: ""
 cadfiles:

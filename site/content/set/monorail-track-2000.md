@@ -28,7 +28,7 @@ cmseditable: true
 partCount: 136
 parts:
   - qty: 1
-    name: Person (??)
+    name: Worker/Figure
     color: yellow
   - qty: 1
     name: Person Lift (??)
@@ -43,7 +43,7 @@ parts:
     name: Lamp
     color: yellow
   - qty: 38
-    name: Block
+    name: Single Block/Cube
     color: blue
   - qty: 35
     name: Riser
@@ -52,15 +52,15 @@ parts:
     name: Half Beam
     color: black
   - qty: 2
-    name: I Beam
+    name: I-Beam
     color: green
   - qty: 4
-    name: Handrail
+    name: Handrail/Railing
     otherNames:
       - Railing
     color: yellow
   - qty: 10
-    name: Curved Beam
+    name: Large Curved Beam
     color: black
   - qty: 4
     name: Girder
@@ -68,7 +68,7 @@ parts:
       - Brace
     color: blue
   - qty: 4
-    name: S Beam
+    name: S-Beam
     color: black
   - qty: 2
     name: Catwalk

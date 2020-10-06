@@ -36,13 +36,13 @@ cmseditable: true
 
 parts:
   - qty: 56
-    name: Block
+    name: Single Block/Cube
     color: blue
   - qty: 20
     name: Single Snap Block
     color: gray
   - qty: 4
-    name: Curved Beam
+    name: Large Curved Beam
     color: gray
   - qty: 58
     name: Full Beam
@@ -57,18 +57,18 @@ parts:
     name: Half Beam
     color: gray
   - qty: 1
-    name: Sign
+    name: Fascia Sign
     color: yellow
     desc: Office
   - qty: 1
-    name: Sign
+    name: Fascia Sign
     color: yellow
     desc: Warehouse
   - qty: 1
-    name: Person (??)
+    name: Worker/Figure
     color: blue
   - qty: 1
-    name: Person (??)
+    name: Worker/Figure
     color: orange
 
   - qty: 8
@@ -82,22 +82,22 @@ parts:
     color: red
 
   - qty: 6
-    name: 2-Way Brace
+    name: 2 Way Brace
     color: blue
   - qty: 6
-    name: 3-Way Brace
+    name: 3 Way Brace
     color: blue
   - qty: 1
-    name: Sign Holder, Back (??)
+    name: Billboard Frame Back
     color: gray
   - qty: 1
-    name: Sign Holder, Front (??)
+    name: Billboard Frame Front
     color: gray
   - qty: 6
-    name: Arch Beam
+    name: Arch
     color: green
   - qty: 8
-    name: I Beam
+    name: I-Beam
     color: green
   - qty: 1
     name: Fire Extinguisher
@@ -118,10 +118,10 @@ parts:
     name: Window
     color: blue
   - qty: 26
-    name: Roof (??)
+    name: Angled Window
     color: blue
   - qty: 6
-    name: Arched Roof (??)
+    name: Arched Window
     color: blue
   - qty: 8
     name: Wall 1x2
@@ -175,7 +175,7 @@ parts:
     name: Lamp
     color: yellow
   - qty: 6
-    name: Handrail
+    name: Handrail/Railing
     otherNames:
       - Railing
     color: yellow
@@ -215,7 +215,7 @@ parts:
     name: Roof (??)
     color: yellow
   - qty: 2
-    name: Door (??)
+    name: Door
     color: blue
   - qty: 8 
     name: Swinging Door (??)

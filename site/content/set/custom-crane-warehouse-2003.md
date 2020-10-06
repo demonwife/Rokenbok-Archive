@@ -31,30 +31,30 @@ parts:
     name: Ramp (??)
     color: light gray
   - qty: 4
-    name: 2-Way Brace
+    name: 2 Way Brace
     color: dark blue
   - qty: 4
     name: Lamp
     color: yellow
   - qty: 52
-    name: Block
+    name: Single Block/Cube
     color: blue
   - qty: 5
-    name: Handrail
+    name: Handrail/Railing
     otherNames:
       - Railing
     color: yellow
   - qty: 3
-    name: Signs (??)
+    name: Billboard
     color: printed
   - qty: 1
-    name: Sign Holder, Back (??)
+    name: Billboard Frame Back
     color: gray
   - qty: 1
-    name: Sign Holder, Front (??)
+    name: Billboard Frame Front
     color: gray
   - qty: 3
-    name: Roof (??)
+    name: Angled Window
     color: yellow
   - qty: 6
     name: Wall 1x2
@@ -74,19 +74,19 @@ parts:
     desc: squares
 
   - qty: 2
-    name: Bin Holder (??)
+    name: Box/Bin Rack
     color: red
   - qty: 2
     name: Bin (??)
     color: red
   - qty: 2
-    name: Bin Holder (??)
+    name: Box/Bin Rack
     color: blue
   - qty: 2
     name: Bin (??)
     color: blue
   - qty: 2
-    name: Bin Holder (??)
+    name: Box/Bin Rack
     color: green
   - qty: 2
     name: Bin (??)
@@ -106,10 +106,10 @@ parts:
     color: dark blue
 
   - qty: 2
-    name: Truck Alignment (??)
+    name: Roadway Guide
     color: white
   - qty: 1
-    name: I Beam
+    name: I-Beam
     color: green
   - qty: 2
     name: Girder
@@ -139,7 +139,7 @@ parts:
     name: Barrel
     color: orange
   - qty: 2
-    name: Traffic Cone (??)
+    name: Cone
     color: orange
   - qty: 26
     name: Half Beam
@@ -152,15 +152,15 @@ parts:
     name: Curved Deck Plate, Studs
     color: light gray
   - qty: 1
-    name: Tall Sign (??)
+    name: Pump Plant Sign
     color: light gray
     desc: Keep Right
   - qty: 1
-    name: Tall Sign (??)
+    name: Pump Plant Sign
     color: light gray
     desc: Road Work Ahead
   - qty: 1
-    name: Tall Sign (??)
+    name: Pump Plant Sign
     color: light gray
     desc: Stop
 

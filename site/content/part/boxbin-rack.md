@@ -1,6 +1,12 @@
 ---
 title: Box/Bin Rack
 
+otherNames:
+  - Box Rack
+  - Bin Rack
+  - Box Holder
+  - Bin Holder
+
 description: ""
 cadfiles:
   - name: Box/Bin Rack

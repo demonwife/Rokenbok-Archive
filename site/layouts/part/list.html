@@ -44,7 +44,7 @@
   {{/*jsonify $scratch.Values*/}}
 
   {{$list := false}}
-  {{$tiles := false}}
+  {{$tiles := true}}
 
   {{ if $list}}
 
@@ -68,6 +68,44 @@
   	
 
   {{ end }}
+  
+
+<div class="mw7 center">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+      {{ range (.Paginator 150).Pages }}
+          <div class="w-50-ns ph1-ns flex">
+            <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+              <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+              <p class="mid-gray lh-title mb2 fr"></p>
+              <p class="mid-gray lh-title mb2">
+                {{ if isset $scratch.Values .Title}}
+                  Found in {{ len ($scratch.Get .Title) }}
+                  {{ if eq (len ($scratch.Get .Title)) 1}}
+                  set
+                  {{else}}
+                  sets
+                  {{end}}
+                {{ end }}
+                {{$scratch.Delete .Title}}
+              </p>
+
+              
+
+              <img src="{{ .Params.thumb }}" class="fl mr2 br2" style="max-width: 200px">
+              
+              <p class="mb0">{{ .Description }}</p>
+              <p class="link b dib black mb0">Read more →</p>
+            </a>
+          </div>
+      {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
+
+<div class="mw7 center">
+  <hr>
+  <h1>Here</h1>
+
   {{ if $tiles}}
 
     <div class="mw7 center">
@@ -117,38 +155,7 @@
     </div>
 
   {{ end }}
-
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 150).Pages }}
-          <div class="w-50-ns ph1-ns flex">
-            <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-              <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-              <p class="mid-gray lh-title mb2 fr"></p>
-              <p class="mid-gray lh-title mb2">
-                {{ if isset $scratch.Values .Title}}
-                  Found in {{ len ($scratch.Get .Title) }}
-                  {{ if eq (len ($scratch.Get .Title)) 1}}
-                  set
-                  {{else}}
-                  sets
-                  {{end}}
-                {{ end }}
-              </p>
-
-              
-
-              <img src="{{ .Params.thumb }}" class="fl mr2 br2" style="max-width: 200px">
-              
-              <p class="mb0">{{ .Description }}</p>
-              <p class="link b dib black mb0">Read more →</p>
-            </a>
-          </div>
-      {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
 </div>
-
 
 
 {{end}}

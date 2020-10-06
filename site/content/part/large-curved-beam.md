@@ -1,6 +1,9 @@
 ---
 title: Large Curved Beam
 
+otherNames:
+  - Curved Beam
+
 description: ""
 cadfiles:
   - name: Large Curved Beam

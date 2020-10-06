@@ -1,6 +1,10 @@
 ---
 title: Handrail/Railing
 
+otherNames:
+  - Handrail
+  - Railing
+
 description: ""
 cadfiles:
   - name: Handrail/Railing

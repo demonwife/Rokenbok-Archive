@@ -1,6 +1,10 @@
 ---
 title: Single Block/Cube
 
+otherNames:
+  - Block
+  - Cube
+
 description: ""
 cadfiles:
   - name: Single Block/Cube
