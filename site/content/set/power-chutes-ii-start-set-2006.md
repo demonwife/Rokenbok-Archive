@@ -11,7 +11,7 @@ priceHistory:
     price: 69.99
 skus:
   - "04117"
-categories: 
+categories:
   - Start Set (RC)
 video: ""
 plans:
@@ -25,6 +25,100 @@ images:
   -  /img/sets/thumb_power_chutes_ss_3.jpg
   -  /img/sets/thumb_power_chutes_ss_4.jpg
 cmseditable: true
+
+parts:
+  - qty: 25
+    name: "Single Block/Cube"
+    color: red
+  - qty: 4
+    name: Riser
+    color: light gray
+  - qty: 9
+    name: Half Beam
+    color: gray
+  - qty: 2
+    name: Girder
+    color: blue
+  - qty: 4
+    name: Roadway Incline
+    color: black
+  - qty: 2
+    name: Roadway Entry
+    color: black
+  - qty: 1
+    name: Slide (??)
+    color: gray
+  - qty: 1
+    name: Back Stop (??)
+    color: gray
+  - qty: 1
+    name: Lamp
+    color: green
+  - qty: 1
+    name: Box/Bin Rack
+    color: red
+  - qty: 1
+    name: Billboard
+    color: printed
+    desc: Rokenbok Stone Quaries
+  - qty: 1
+    name: Billboard Frame Back
+    color: gray
+  - qty: 1
+    name: Billboard Frame Front
+    color: gray
+  - qty: 48
+    name: Full Beam
+    color: gray
+  - qty: 20
+    name: 16mm Red ROK
+    color: red
+  - qty: 20
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 1
+    name: Chute Start (??)
+    color: yellow
+  - qty: 1
+    name: Worker/Figure
+    color: yellow
+  - qty: 1
+    name: RC Skiptrack (??)
+    color: white
+  - qty: 1
+    name: Box/Bin Rack
+    color: red
+  - qty: 1
+    name: Sorting Chute
+    color: yellow
+  - qty: 1
+    name: Controller (??)
+    color: white
+  - qty: 1
+    name: Command Deck v3 (??)
+    color: white
+  - qty: 8
+    name: Radio Key
+    color: yellow
+  - qty: 1
+    name: Deck Plate, Studs
+    color: yellow
+  - qty: 1
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 1
+    name: 4 Way Roadway
+    color: black
+  - qty: 1
+    name: Elliptical End Chute
+    color: yellow
+  - qty: 2
+    name: Corner Chute (Right)
+    color: yellow
+  - qty: 2
+    name: Corner Chute (Left)
+    color: yellow
+
 ---
 The easiest way to get your start in Rokenbok!
 
