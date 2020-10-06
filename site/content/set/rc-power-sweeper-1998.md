@@ -13,8 +13,9 @@ priceHistory:
     price: 54.99
     source: https://web.archive.org/web/20071125173047/http://www.rokenbok.com/catalog/pd_rcv_sweeper.html#
 skus:
-  - "#03231"
-category: Vehicle (RC)
+  - "03231"
+categories: 
+  - Vehicle (RC)
 video: ""
 videoEmbeds:
   - "98YZYYCNKLw"

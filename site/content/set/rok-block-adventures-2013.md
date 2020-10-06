@@ -10,8 +10,9 @@ priceHistory:
   - date: 09/20/2013
     price: 189.99
 skus:
-  - "#35010"
-category: Rok Blocks
+  - "35010"
+categories: 
+  - Rok Blocks
 video: ""
 plans:
   - name: "Playmats"

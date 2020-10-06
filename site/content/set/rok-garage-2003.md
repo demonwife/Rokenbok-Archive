@@ -14,8 +14,9 @@ priceHistory:
   - date: 06/26/2015
     price: 15.99
 skus:
-  - "#04318"
-category: Building Set
+  - "04318"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Rok Garage

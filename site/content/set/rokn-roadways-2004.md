@@ -14,8 +14,9 @@ priceHistory:
   - date: 07/16/2012
     price: 34.99
 skus:
-  - "#04319"
-category: Building Set
+  - "04319"
+categories: 
+  - Building Set
 video: https://web.archive.org/web/20060813152245/http://www.rokenbok.com/vids/RoadwayRok307KbSec.wmv
 videoEmbeds:
   - "mtyM-YG-Hj0"

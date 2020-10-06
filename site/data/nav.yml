@@ -5,7 +5,7 @@
 
 - route: part
   name: Parts
-  type: primary
+  type: notprimary
 
 - route: project
   name: Projects

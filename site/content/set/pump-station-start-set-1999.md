@@ -10,9 +10,10 @@ priceHistory:
   - date: 03/31/2001
     price: 99.99
 skus:
-  - "#33105"
-  - "#43105"
-category: Start Set (RC)
+  - "33105"
+  - "43105"
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 

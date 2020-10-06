@@ -14,8 +14,9 @@ priceHistory:
   - date: 04/02/2010
     price: 39.99
 skus:
-  - "#04731"
-category: Action Accessory
+  - "04731"
+categories: 
+  - Action Accessory
 video: ""
 plans:
 - name: Motorized Conveyor

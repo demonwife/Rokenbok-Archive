@@ -11,8 +11,9 @@ priceHistory:
   - date: 12/30/2010
     price: 129.99
 skus:
-  - "#04338"
-category: Building Set
+  - "04338"
+categories: 
+  - Building Set
 video: ""
 plans:
   - name: Architect's Dream Plan Sheet
@@ -32,6 +33,215 @@ images:
   - /img/sets/architects_dream_04338_contents.jpg
   - /img/sets/architects_dream_04338_parts.png
 cmseditable: true
+
+parts:
+  - qty: 56
+    name: Block
+    color: blue
+  - qty: 20
+    name: Single Snap Block
+    color: gray
+  - qty: 4
+    name: Curved Beam
+    color: gray
+  - qty: 58
+    name: Full Beam
+    color: gray
+  - qty: 6
+    name: Full Beam
+    color: black
+  - qty: 24
+    name: Riser
+    color: light gray
+  - qty: 26
+    name: Half Beam
+    color: gray
+  - qty: 1
+    name: Sign
+    color: yellow
+    desc: Office
+  - qty: 1
+    name: Sign
+    color: yellow
+    desc: Warehouse
+  - qty: 1
+    name: Person (??)
+    color: blue
+  - qty: 1
+    name: Person (??)
+    color: orange
+
+  - qty: 8
+    name: 60 Degree Block
+    color: gray
+  - qty: 8
+    name: 30 Degree Block
+    color: gray
+  - qty: 4
+    name: Hinge Block
+    color: red
+
+  - qty: 6
+    name: 2-Way Brace
+    color: blue
+  - qty: 6
+    name: 3-Way Brace
+    color: blue
+  - qty: 1
+    name: Sign Holder, Back (??)
+    color: gray
+  - qty: 1
+    name: Sign Holder, Front (??)
+    color: gray
+  - qty: 6
+    name: Arch Beam
+    color: green
+  - qty: 8
+    name: I Beam
+    color: green
+  - qty: 1
+    name: Fire Extinguisher
+    color: red
+  - qty: 1
+    name: Printer/Fax
+    color: light gray
+  - qty: 1
+    name: Laptop
+    color: light gray
+
+  - qty: 12
+    name: Girder
+    otherNames:
+      - Brace
+    color: blue
+  - qty: 26
+    name: Window
+    color: blue
+  - qty: 26
+    name: Roof (??)
+    color: blue
+  - qty: 6
+    name: Arched Roof (??)
+    color: blue
+  - qty: 8
+    name: Wall 1x2
+    color: light gray
+    desc: squares
+  - qty: 4
+    name: Wall 2x2
+    color: light gray
+    desc: squares
+  - qty: 1
+    name: Signal Light
+    color: light gray
+  - qty: 4
+    name: Wheel Tread (??)
+    color: black
+  - qty: 1
+    name: Flag
+    desc: Rokenbok
+    color: red
+  - qty: 1
+    name: Handtruck
+    color: yellow
+  - qty: 6
+    name: Barrel
+    color: orange
+
+  - qty: 5
+    name: Catwalk
+    color: blue
+  - qty: 1
+    name: Slide (??)
+    color: yellow
+  - qty: 4
+    name: Roadway Entry
+    color: black
+  - qty: 5
+    name: Wall 2x7
+    color: light gray
+    desc: squares
+  - qty: 22
+    name: Wall 1x7
+    color: light gray
+    desc: squares
+  - qty: 20
+    name: Corbel
+    color: red
+  - qty: 5
+    name: Step
+    color: Gray
+  - qty: 8
+    name: Lamp
+    color: yellow
+  - qty: 6
+    name: Handrail
+    otherNames:
+      - Railing
+    color: yellow
+  - qty: 2
+    name: Ladder
+    color: yellow
+
+  - qty: 1
+    name: Platform (??)
+    color: light gray
+  - qty: 4
+    name: Roadway Incline
+    color: black
+  - qty: 6
+    name: Roadway Straight Segment
+    color: black
+  - qty: 2
+    name: Roadway Turn
+    color: black
+  - qty: 1
+    name: Chair
+    color: blue
+  - qty: 2
+    name: Small Desk
+    color: white
+  - qty: 2
+    name: Large Desk
+    color: white
+  - qty: 2
+    name: Ramp (??)
+    color: gray
+  - qty: 1
+    name: Workbench (??)
+    color: light gray
+
+  - qty: 4
+    name: Roof (??)
+    color: yellow
+  - qty: 2
+    name: Door (??)
+    color: blue
+  - qty: 8 
+    name: Swinging Door (??)
+    color: green
+  - qty: 1
+    name: 4 Way Roadway
+    color: black
+  - qty: 8
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 10
+    name: Deck Plate, Studs
+    color: light gray
+  - qty: 4
+    name: Curved Deck Plate, Studs
+    color: light gray
+
+
+
+
+
+
+
+
+
+
 ---
 Who knew you could build a Gothic cathedral or a Frank Lloyd Wright masterpiece with Rokenbok? That's just what expert Rokenboker Jon Ghidoni did to win our 2009 Architectural Building Challenge.  You can see Jon's builds from that contest in the Our Favorite Builds gallery. We asked Jon if he would create a building set that would make it easy for everyone to create architecturally interesting buildings, and that's how the Architect's Dream building set was born.
 

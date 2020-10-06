@@ -10,8 +10,9 @@ priceHistory:
   - date: 08/05/2004
     price: 34.99
 skus:
-  - "#06323"
-category: Building Set
+  - "06323"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Rail Station

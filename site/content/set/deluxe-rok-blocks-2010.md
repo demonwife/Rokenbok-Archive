@@ -10,8 +10,9 @@ priceHistory:
   - date: 12/30/2010
     price: 49.99
 skus:
-  - "#04847"
-category: Rok Blocks
+  - "04847"
+categories: 
+  - Rok Blocks
 video: ""
 plans:
 - name: Deluxe Rok Blocks

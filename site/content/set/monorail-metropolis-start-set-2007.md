@@ -12,8 +12,9 @@ priceHistory:
   - date: 11/12/2007
     price: 139.99
 skus:
-  - "#04123"
-category: Start Set (RC)
+  - "04123"
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Monorail Metropolis Ss

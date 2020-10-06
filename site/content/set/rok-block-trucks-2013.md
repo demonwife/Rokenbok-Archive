@@ -10,8 +10,9 @@ priceHistory:
   - date: 09/18/2013
     price: 34.99
 skus:
-  - "#04856"
-category: Rok Blocks
+  - "04856"
+categories: 
+  - Rok Blocks
 video: ""
 plans:
   - name: ROK Block Trucks

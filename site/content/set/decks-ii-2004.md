@@ -15,12 +15,33 @@ priceHistory:
   - date: 07/20/2012
     price: 24.99
 skus:
-  - "#34612"
-category: Building Basics
+  - "34612"
+categories: 
+  - Building Basics
 video: ""
 plans:
 
 thumb: /img/sets/34612_decks_ii.png
 images:
 cmseditable: true
+
+parts:
+  - qty: 3
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 3
+    name: Half Deck Plate, Studs
+    color: blue
+  - qty: 3
+    name: Deck Plate, Studs
+    color: light gray
+  - qty: 3
+    name: Deck Plate, Studs
+    color: blue
+  - qty: 2
+    name: Curved Deck Plate, Studs
+    color: light gray
+  - qty: 2
+    name: Curved Deck Plate, Studs
+    color: blue
 ---

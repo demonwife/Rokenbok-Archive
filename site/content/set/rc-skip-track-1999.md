@@ -11,8 +11,9 @@ priceHistory:
   - date: 12/16/2003
     price: 59.99
 skus:
-  - "#03205"
-category: Vehicle (RC)
+  - "03205"
+categories: 
+  - Vehicle (RC)
 video: ""
 videoEmbeds:
   - "yEg_40zz-VQ"

@@ -37,25 +37,29 @@ x-commonFields:
   - &category {
       label: "Category",
       name: "category",
-      widget: "select",
+      widget: "list",
       required: false,
-      options: [
-        "Action Accessory",
-        "Book",
-        "Building Basics",
-        "Building Set",
-        "Control (RC)",
-        "Control (Rok Star)",
-        "Furniture",
-        "Replacement Parts",
-        "Rok Blocks",
-        "Rokenbok RC",
-        "Start Set (RC)",
-        "Start Set (Rok Star)",
-        "Start Set (Unique)",
-        "Vehicle (RC)",
-        "Vehicle (Rok Star)",
-      ]
+      field: {
+        widget: "select",
+        required: false,
+        options: [
+          "Action Accessory",
+          "Book",
+          "Building Basics",
+          "Building Set",
+          "Control (RC)",
+          "Control (Rok Star)",
+          "Furniture",
+          "Replacement Parts",
+          "Rok Blocks",
+          "Rokenbok RC",
+          "Start Set (RC)",
+          "Start Set (Rok Star)",
+          "Start Set (Unique)",
+          "Vehicle (RC)",
+          "Vehicle (Rok Star)",
+        ]
+      }
     }
 
   - &video {label: "Video Link", name: "video", widget: "string", required: false}

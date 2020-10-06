@@ -14,8 +14,9 @@ priceHistory:
   - date: 07/20/2012
     price: 49.99
 skus:
-  - "#04314"
-category: Action Accessory
+  - "04314"
+categories: 
+  - Action Accessory
 video: ""
 videoEmbeds:
   - "SzudwbJ4ZR4"

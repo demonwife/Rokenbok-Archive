@@ -10,8 +10,9 @@ priceHistory:
   - date: 06/22/2015
     price: 159.99
 skus:
-  - "#04335"
-category: Building Set
+  - "04335"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Construction World III Grand Central

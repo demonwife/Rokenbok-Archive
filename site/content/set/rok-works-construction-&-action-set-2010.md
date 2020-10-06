@@ -10,8 +10,9 @@ priceHistory:
   - date: 05/02/2012
     price: 129.99
 skus:
-  - "#08111"
-category: Start Set (Rok Star)
+  - "08111"
+categories: 
+  - Start Set (Rok Star)
 video: ""
 videoEmbeds:
   - "60BvLjVnqBo"

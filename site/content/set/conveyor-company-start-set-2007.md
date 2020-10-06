@@ -10,8 +10,9 @@ priceHistory:
   - date: 12/24/2007
     price: 119.99
 skus:
-  - "#04121"
-category: Start Set (RC)
+  - "04121"
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Conveyor Company Ss

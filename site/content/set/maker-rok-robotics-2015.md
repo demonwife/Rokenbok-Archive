@@ -12,8 +12,9 @@ priceHistory:
   - date: 09/2020
     price: 189.99
 skus:
-  - "#08133"
-category: Vehicle (Rok Star)
+  - "08133"
+categories: 
+  - Vehicle (Rok Star)
 video: ""
 plans:
 - name: Maker Rok Robotics

@@ -15,7 +15,8 @@ priceHistory:
     price: 139.99000000000001
 skus:
   - #44623
-category: Rokenbok RC
+categories: 
+  - Rokenbok RC
 video: ""
 plans:
 

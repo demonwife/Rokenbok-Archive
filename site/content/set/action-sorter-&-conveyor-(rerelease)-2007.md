@@ -13,8 +13,9 @@ priceHistory:
   - date: 08/05/2010
     price: 79.99
 skus:
-  - "#04729"
-category: Action Accessory
+  - "04729"
+categories: 
+  - Action Accessory
 video: ""
 plans:
 - name: Action Sorter Ss

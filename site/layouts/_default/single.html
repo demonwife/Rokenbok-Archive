@@ -3,9 +3,19 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
-      <p>{{ .Params.year }} -- {{.Params.category}}</p>
+      <p>{{ .Params.year }} -- {{delimit .Params.categories ", "}}</p>
       <p>{{ delimit .Params.skus ", " }}</p>
     </div>
+    <div class="flex justify-between grey-3 mb3">
+      <div>
+        <a href="{{.Site.Data.constants.repoUrl}}/edit/master/site/content/{{.File | urlize}}" target="__BLANK">Edit on Github</a>
+      </div>
+      <div>
+        <a href="{{.Site.Data.constants.repoUrl}}/issues/new?title={{(replace (print "suggestion for " .File) " " "+")}}" target="__BLANK">Report Issue / Suggest Change</a>
+      </div>
+    </div>
+
+
     <div class="cms mw6">
 
       {{ if .Params.thumb }}
@@ -46,7 +56,7 @@
       <ul>
         {{range .Params.plans}}
         <li>
-          <a href="{{.link}}">{{.name}}</a>
+          <a href="{{.link}}" target="__BLANK">{{.name}}</a>
         </li>
         {{end}}
       </ul>
@@ -61,6 +71,40 @@
         </li>
         {{end}}
       </ul>
+
+      
+      {{ $partCount := 0 }}
+
+      {{ range .Params.parts }}
+        {{ $partCount = (add $partCount (int .qty)) }}
+      {{ end }}
+
+
+      Count: {{ $partCount }}
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Qty</th>
+            <th>Color</th>
+            <th>Desc</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+          {{ range .Params.parts }}
+          <tr>
+            <td>{{.name}}</td>
+            <td>{{.qty}}</td>
+            <td>{{.color}}</td>
+            <td>{{.desc}}</td>
+          </tr>
+          {{ end }}
+          
+        </tbody>
+      </table>
+      
+      
 
 
       {{ .Content }}

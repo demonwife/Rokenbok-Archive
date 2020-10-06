@@ -10,9 +10,10 @@ priceHistory:
   - date: 03/31/2001
     price: 199.99
 skus:
-  - "#36140"
-  - "#46140"
-category: Start Set (RC)
+  - "36140"
+  - "46140"
+categories: 
+  - Start Set (RC)
 video: ""
 plans:
 - name: Monorail Start Set A

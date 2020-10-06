@@ -10,8 +10,9 @@ priceHistory:
   - date: 03/09/2001
     price: 34.99
 skus:
-  - "#34313"
-category: Building Set
+  - "34313"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Service Center A

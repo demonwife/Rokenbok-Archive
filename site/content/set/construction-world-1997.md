@@ -10,8 +10,9 @@ priceHistory:
   - date: 07/20/2003
     price: 99.99
 skus:
-  - "#34317"
-category: Building Set
+  - "34317"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Construction World A

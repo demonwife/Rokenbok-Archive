@@ -15,8 +15,9 @@ priceHistory:
   - date: 2020
     price: 129.99
 skus:
-  - "#04217"
-category: Vehicle (RC)
+  - "04217"
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 

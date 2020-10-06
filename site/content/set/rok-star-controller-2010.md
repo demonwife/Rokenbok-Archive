@@ -12,8 +12,9 @@ priceHistory:
   - date: 12/30/2010
     price: 34.99
 skus:
-  - "#08700"
-category: Control (Rok Star)
+  - "08700"
+categories: 
+  - Control (Rok Star)
 video: ""
 plans:
 - name: Rok Star Controller

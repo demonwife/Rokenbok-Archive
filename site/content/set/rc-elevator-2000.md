@@ -10,8 +10,9 @@ priceHistory:
   - date: 02/12/2004
     price: 79.99
 skus:
-  - "#04740"
-category: Vehicle (RC)
+  - "04740"
+categories: 
+  - Vehicle (RC)
 video: ""
 videoEmbeds:
   - "aS6kgOFV6DI"

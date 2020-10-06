@@ -10,8 +10,9 @@ priceHistory:
   - date: 02/08/2001
     price: 14.99
 skus:
-  - "#04291"
-category: Action Accessory
+  - "04291"
+categories: 
+  - Action Accessory
 video: ""
 plans:
 

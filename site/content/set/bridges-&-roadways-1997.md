@@ -10,8 +10,9 @@ priceHistory:
   - date: 12/03/2003
     price: 49.99
 skus:
-  - "#34315"
-category: Building Set
+  - "34315"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Bridges Roadways A

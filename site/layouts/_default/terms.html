@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <p></p>
+      <p></p>
+    </div>
+    <div class="cms mw6">
+
+      {{ if .Params.thumb }}
+        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl mr2" style="max-width: 200px;margin-right: .5rem;" />
+      {{ end }}
+      <!-- <p>{{ .Description }}</p> -->
+
+      <!-- If the description is too short, make sure the next bits start after the image -->
+      <!-- <div class="cf"></div> -->
+
+
+      <!-- <h4 class="f4">ted Links</h4> -->
+      <ul>
+        {{ range .Data.Terms.Alphabetical }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+        {{ end }}
+      </ul>
+
+    </div>
+  </div>
+{{ end }}

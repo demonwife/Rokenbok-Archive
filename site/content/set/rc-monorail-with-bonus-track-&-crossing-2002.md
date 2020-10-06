@@ -10,8 +10,9 @@ priceHistory:
   - date: 08/11/2003
     price: 64.99
 skus:
-  - "#06224"
-category: Vehicle (RC)
+  - "06224"
+categories: 
+  - Vehicle (RC)
 video: ""
 plans:
 

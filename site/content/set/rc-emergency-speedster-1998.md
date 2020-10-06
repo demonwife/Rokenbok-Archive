@@ -10,8 +10,9 @@ priceHistory:
   - date: 10/13/2003
     price: 59.99
 skus:
-  - "#03221"
-category: Vehicle (RC)
+  - "03221"
+categories: 
+  - Vehicle (RC)
 video: ""
 videoEmbeds:
   - "VO2AZ97_OqU"

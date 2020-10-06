@@ -12,8 +12,9 @@ priceHistory:
   - date: 06/27/2015
     price: 79.99
 skus:
-  - "#06321"
-category: Building Set
+  - "06321"
+categories: 
+  - Building Set
 video: ""
 plans:
 - name: Monorail Storage Depot

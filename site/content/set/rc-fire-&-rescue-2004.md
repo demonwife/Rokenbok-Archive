@@ -10,8 +10,9 @@ priceHistory:
   - date: 08/13/2006
     price: 59.99
 skus:
-  - "#03223"
-category: Vehicle (RC)
+  - "03223"
+categories: 
+  - Vehicle (RC)
 video: https://web.archive.org/web/20060929132558/http://rokenbok.com/vids/FireRok307KbSec.wmv
 videoEmbeds:
   - "1qdXfVgtLp0"
