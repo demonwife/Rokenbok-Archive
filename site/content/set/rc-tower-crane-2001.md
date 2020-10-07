@@ -9,6 +9,10 @@ description: >-
 archiveLinks:
   - name: 02/12/2004
     link: https://web.archive.org/web/20040212050005/http://www.rokenbok.com/catalog/pd_rcv_crane.html
+  - name: worthpoint
+    link: https://www.worthpoint.com/worthopedia/rokenbok-wireless-rc-tower-crane-517334291
+  - name: worthpoint
+    link: https://www.worthpoint.com/worthopedia/rokenbok-wireless-rc-tower-crane-1759683233
 priceHistory:
   - date: 02/12/2004
     price: 99.99
@@ -32,5 +36,68 @@ images:
   #Lift Beams & Blocks with the Hook.
   - /img/sets/rc_crane_5.jpg
   #Carry Beams & Blocks with the Grabber.
+  - /img/sets/04709_rc_tower_crane_54_1.jpg
+  - /img/sets/04709_rc_tower_crane_54_2.jpg
+  - /img/sets/04709_rc_tower_crane_54_3.jpg
+  - /img/sets/04709_rc_tower_crane_54_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 10
+    name: 16mm Red ROK
+    color: red
+  - qty: 10
+    name: 19mm Blue ROK
+    color: blue
+
+  - qty: 3
+    name: Full Beam
+    color: black
+  - qty: 20
+    name: Full Beam
+    color: gray
+  - qty: 2
+    name: Half Beam
+    color: gray
+
+  - qty: 2
+    name: Corbel
+    color: purple
+
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 18
+    name: "Single Block/Cube"
+    color: red
+
+  - qty: 1
+    name: Crane Claw (??)
+    color: yellow
+  - qty: 1
+    name: Crane Bucket (??)
+    color: yellow
+  - qty: 2
+    name: Crane Hook (??)
+    color: yellow
+  - qty: 1
+    name: Crane Platform (??)
+    color: yellow
+  - qty: 2
+    name: Barrel
+    color: orange
+  - qty: 1
+    name: Worker/Figure
+    color: white/brown
+  - qty: 1
+    name: Tower Crane Battery Cover
+    color: gray
+  - qty: 4
+    name: Large Curved Beam
+    color: gray
+  - qty: 1
+    name: Tower Crane
+    color: yellow
+    desc: 54
+
 ---

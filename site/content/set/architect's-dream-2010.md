@@ -168,7 +168,7 @@ parts:
     color: red
   - qty: 5
     name: Step
-    color: Gray
+    color: gray
   - qty: 8
     name: Lamp
     color: yellow
