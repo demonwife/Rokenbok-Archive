@@ -6,6 +6,8 @@ description: >-
 archiveLinks:
   - name: 07/20/2003
     link: https://web.archive.org/web/20030720042155/http://rokenbok.com/catalog/pd_aa_monorail_crossing.html
+  - name: ebay
+    link: http://web.archive.org/web/20201007192517/https://www.ebay.com/itm/193688462586
 priceHistory:
   - date: 07/20/2003
     price: 13.99
@@ -19,5 +21,12 @@ plans:
 thumb: /img/sets/thumb_monorail_crossing.gif
 images:
     - /img/sets/06712_monorail_crossing.jpg
+    - /img/sets/06712_monorail_crossing_1.jpg
+    - /img/sets/06712_monorail_crossing_2.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Monorail Crossing
+    color: gray 
 ---
