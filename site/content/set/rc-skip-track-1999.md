@@ -21,5 +21,24 @@ plans:
 
 thumb: /img/sets/thumb_skip_track.gif
 images:
+  - /img/sets/03205_rc_skip_track_1.jpg
+  - /img/sets/03205_rc_skip_track_2.jpg
+  - /img/sets/03205_rc_skip_track_3.jpg
+  - /img/sets/03205_rc_skip_track_4.jpg
 cmseditable: true
+
+parts:
+  - qty: 5
+    name: 16mm Red ROK
+    color: red
+  - qty: 5
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+  - qty: 1
+    name: RC Skip Track
+    color: white
+
 ---

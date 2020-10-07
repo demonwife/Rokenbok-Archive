@@ -6,6 +6,8 @@ description: >-
 archiveLinks:
   - name: 03/31/2001
     link: https://web.archive.org/web/20010331185602/http://www.rokenbok.com/catalog/pd_ss_pump.html
+  - name: ebay
+    link: https://www.ebay.com/c/1390109281
 priceHistory:
   - date: 03/31/2001
     price: 99.99
@@ -16,8 +18,100 @@ categories:
   - Start Set (RC)
 video: ""
 plans:
-
+  - name: Pump Station Start Set
+    link: /plans/33105_piston_plant_ss.pdf
 thumb: /img/sets/thumb_pump_station.gif
 images:
 cmseditable: true
+
+parts:
+  - qty: 15
+    name: 16mm Red ROK
+    color: red
+  - qty: 15
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 16
+    name: "Single Block/Cube"
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: Lamp
+    color: green
+  - qty: 1
+    name: Pump Plant Control Station (??)
+    color: white
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+  - qty: 1
+    name: Pump Plant Sign
+    color: yellow
+    desc: Piston Station
+  - qty: 1
+    name: Ladder
+    color: yellow
+
+  - qty: 1
+    name: Piston Plant Quarry (??)
+    color: yellow
+  - qty: 4
+    name: Handrail/Railing
+    color: yellow
+  - qty: 1
+    name: Deck Plate, Studs
+    color: light gray
+
+  - qty: 2
+    name: Half Beam
+    color: gray
+  - qty: 4
+    name: Full Beam
+    color: gray
+
+  - qty: 1
+    name: Piston Plant Guide (??)
+    color: yellow
+  - qty: 2
+    name: Half Beam
+    color: white
+  - qty: 4
+    name: Full Beam
+    color: white
+  - qty: 1
+    name: Half Deck Plate, Studs
+    color: light gray
+
+  - qty: 1
+    name: Ramp (??)
+    color: gray
+  - qty: 1
+    name: Long Ramp, Studs (??)
+    color: gray
+
+  - qty: 1
+    name: Piston Plant (??)
+    color: white
+  - qty: 1
+    name: Power Supply - North America
+    color: black
+  - qty: 1
+    name: Command Deck
+    color: white
+    desc: v1
+  - qty: 1
+    name: Control pad
+    color: white
+  - qty: 8
+    name: Radio Key
+    color: white
+
+  - qty: 1
+    name: RC Skip Track
+    color: white
+
+
+
 ---

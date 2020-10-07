@@ -126,6 +126,16 @@ parts:
     name: Door
     color: blue
 
+  - qty: 6
+    name: Full Beam
+    color: white
+  - qty: 4
+    name: Half Beam
+    color: white
+  - qty: 4
+    name: Arched Window
+    color: blue
+
   - qty: 1
     name: Wall 2x7
     color: light gray
@@ -144,7 +154,7 @@ parts:
     desc: wavy
   - qty: 2
     name: Ramp (??)
-    color: gray
+    color: dark gray
   - qty: 1
     name: Platform (??)
     color: light gray
@@ -157,8 +167,6 @@ parts:
   - qty: 4
     name: Girder
     color: blue
-    otherNames:
-      - Brace
   - qty: 2
     name: Deck Plate, Studs
     color: light gray
