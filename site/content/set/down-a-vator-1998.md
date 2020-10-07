@@ -17,7 +17,8 @@ video: ""
 videoEmbeds:
   - "TXax7ptACrY"
 plans:
-
+  - name: "Combo: Action Factory + Downavator"
+    link: /plans/action-factory-downavator.pdf
 thumb: /img/sets/thumb_down_vator.gif
 images:
 cmseditable: true

@@ -174,8 +174,6 @@ parts:
     color: yellow
   - qty: 6
     name: Handrail/Railing
-    otherNames:
-      - Railing
     color: yellow
   - qty: 2
     name: Ladder
