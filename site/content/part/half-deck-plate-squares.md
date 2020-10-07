@@ -1,5 +1,5 @@
 ---
-title: Half deck Plate, Squares
+title: Half Deck Plate, Squares
 
 description: ""
 cadfiles:
