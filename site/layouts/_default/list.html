@@ -8,11 +8,11 @@
           <div class="w-50-ns ph1-ns flex">
             <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
             	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-              <p class="mid-gray lh-title mb2 fr">{{ delimit .Params.skus ", " }}</p>
+              <p class="mid-gray lh-title mb2 fr" title="SKU(s)">{{ delimit .Params.skus ", " }}</p>
             	<p class="mid-gray lh-title mb2">
-                {{ .Params.year }}
+                <span title="Set release year">{{ .Params.year }}</span>
                 --
-                {{delimit .Params.categories ", "}}
+                <span title="Set Category">{{delimit .Params.categories ", "}}</span>
                 --
                 {{ $partCount := 0 }}
 

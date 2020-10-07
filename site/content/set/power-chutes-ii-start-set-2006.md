@@ -92,7 +92,7 @@ parts:
     name: Sorting Chute
     color: yellow
   - qty: 1
-    name: Controller (??)
+    name: Control Pad
     color: white
   - qty: 1
     name: Command Deck v3 (??)

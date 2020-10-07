@@ -81,8 +81,6 @@ parts:
   - qty: 6
     name: Handrail/Railing
     color: yellow
-    otherNames:
-      - Railing
   - qty: 1
     name: Worker/Figure
     color: blue
@@ -175,7 +173,7 @@ parts:
     color: light gray
   - qty: 5
     name: Step
-    color: Gray
+    color: gray
   - qty: 1
     name: Vehicle Lift (??)
     color: gray, red, yellow

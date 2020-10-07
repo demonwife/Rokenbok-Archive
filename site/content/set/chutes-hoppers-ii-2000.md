@@ -18,5 +18,49 @@ plans:
 
 thumb: /img/sets/thumb_chutes_hoppers_ii.gif
 images:
+  - /img/sets/04315_chutes_hoppers_ii_1.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+
+  - qty: 20
+    name: 16mm Red ROK
+    color: red
+  - qty: 20
+    name: 19mm Blue ROK
+    color: blue
+
+  - qty: 10
+    name: Corner Chute (Right)
+    color: yellow
+  - qty: 10
+    name: Corner Chute (Left)
+    color: yellow
+
+  - qty: 8
+    name: Straight Chute
+    color: yellow
+  - qty: 1
+    name: Chute Start (??)
+    color: yellow
+  - qty: 1
+    name: Sorting Chute
+    color: yellow
+
+  - qty: 2
+    name: Dump Bin (??)
+    color: blue
+
+  - qty: 3
+    name: Inside Curved Chute
+    color: yellow
+  - qty: 3
+    name: Outside Curved Chute
+    color: yellow
+
+
+
 ---

@@ -88,7 +88,6 @@ parts:
     name: Flag
     desc: Rokenbok
     color: red
-    desc: square
   - qty: 1
     name: Lamp
     color: green
@@ -142,10 +141,10 @@ parts:
     name: Power Supply - North America
     color: black
   - qty: 1
-    name: Action Sorter (??)
+    name: Action Sorter
     color: yellow
   - qty: 1
-    name: Loader
+    name: RC Loader
     color: green
   - qty: 1
     name: Command Deck
