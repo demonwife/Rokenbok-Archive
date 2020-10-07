@@ -23,4 +23,21 @@ plans:
 thumb: /img/sets/thumb_building_decorations.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Lamp
+    color: green
+  - qty: 4
+    name: Handrail/Railing
+    color: green
+  - qty: 6
+    name: Flag Sign (??)
+    color: white
+  - qty: 2
+    name: Flag
+    desc: Rokenbok
+    color: red
+    desc: v2
+
 ---

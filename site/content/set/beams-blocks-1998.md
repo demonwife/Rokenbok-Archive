@@ -18,5 +18,29 @@ plans:
 
 thumb: /img/sets/thumb_beams_blocks.gif
 images:
+  - /img/sets/04840_beams_blocks.jpg
+  - /img/sets/04840_beams_blocks_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 8
+    name: Full C-Beam
+    color: blue
+  - qty: 32
+    name: Full Beam
+    color: blue
+  - qty: 4
+    name: Half C-Beam
+    color: blue
+  - qty: 16
+    name: Half Beam
+    color: blue
+  - qty: 100
+    name: "Single Block/Cube"
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+
+
 ---

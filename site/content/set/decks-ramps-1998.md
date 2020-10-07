@@ -22,4 +22,19 @@ thumb: /img/sets/ramps_decks_1.jpg
 images:
   - /img/sets/ramps_decks_2.jpg
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Long Ramp, Studs (??)
+    color: light gray
+  - qty: 8
+    name: Deck Plate, Studs
+    color: purple
+  - qty: 8
+    name: Half Deck Plate, Studs
+    color: pruple
+  - qty: 4
+    name: Ramp (??)
+    color: gray
+
 ---

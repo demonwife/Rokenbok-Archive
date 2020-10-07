@@ -24,7 +24,7 @@ images:
   - /img/sets/04725_action_sorter_2.jpg
 cmseditable: true
 parts:
-- qty: 0
+  - qty: 0
     name: 16mm Red ROK
     color: red
   - qty: 0

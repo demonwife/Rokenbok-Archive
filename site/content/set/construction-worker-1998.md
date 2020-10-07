@@ -20,5 +20,22 @@ plans:
 
 thumb: /img/sets/thumb_construction_worker.jpg
 images:
+  - /img/sets/04401_construction_worker_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Worker/Figure
+    color: blue/yellow 
+  - qty: 1
+    name: Handtruck
+    color: green
+  - qty: 1
+    name: Ladder
+    color: green
+  - qty: 3
+    name: Barrel
+    color: orange
+
+
 ---

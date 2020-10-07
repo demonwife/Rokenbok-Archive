@@ -22,5 +22,26 @@ plans:
 thumb: /img/sets/thumb_roof_sidewalk.jpg
 images:
   - /img/sets/thumb_roof_sidewalk_1.jpg
+  - /img/sets/04870_roof_sidewalk_1.jpg
+  - /img/sets/04870_roof_sidewalk_2.jpg
+  - /img/sets/04870_roof_sidewalk_3.jpg
+  - /img/sets/04870_roof_sidewalk_4.jpg
+  - /img/sets/04870_roof_sidewalk_5.jpg
+  - /img/sets/04870_roof_sidewalk_6.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Handrail/Railing
+    color: yellow
+  - qty: 1
+    name: Platform (??)
+    color: light gray
+  - qty: 1
+    name: Roof (??)
+    color: yellow
+  - qty: 5
+    name: Window
+    color: red
+
 ---

@@ -22,4 +22,11 @@ plans:
 thumb: /img/sets/thumb_down_vator.gif
 images:
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Down-A-Vator
+    color: gray
+
+
 ---
