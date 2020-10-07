@@ -154,15 +154,15 @@ parts:
     name: Curved Deck Plate, Studs
     color: light gray
   - qty: 1
-    name: Pump Plant Sign
+    name: Tall Sign (??)
     color: light gray
     desc: Keep Right
   - qty: 1
-    name: Pump Plant Sign
+    name: Tall Sign (??)
     color: light gray
     desc: Road Work Ahead
   - qty: 1
-    name: Pump Plant Sign
+    name: Tall Sign (??)
     color: light gray
     desc: Stop
 
