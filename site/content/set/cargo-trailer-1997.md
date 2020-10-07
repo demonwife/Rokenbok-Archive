@@ -20,4 +20,9 @@ thumb: /img/sets/cargo_trailer.jpg
 images:
   -  /img/sets/cargo_trailer_blue.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Cargo Trailer
+    color: green
 ---
