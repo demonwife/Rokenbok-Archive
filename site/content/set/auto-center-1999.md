@@ -56,13 +56,16 @@ parts:
     color: yellow
     desc: Office
   - qty: 1
-    name: Fascia Sign
+    name: Metro Sign
     color: yellow
     desc: Auto Center
   - qty: 1
     name: Fascia Sign
     color: yellow
     desc: Garage
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
   - qty: 1
     name: Laptop
     color: light gray
@@ -72,7 +75,7 @@ parts:
   - qty: 2
     name: Corbel
     color: purple
-  - qty: 8
+  - qty: 6
     name: Lamp
     color: yellow
   - qty: 6
@@ -116,7 +119,7 @@ parts:
   - qty: 2
     name: Window
     color: blue
-  - qty: 2
+  - qty: 12
     name: Angled Window
     color: blue
   - qty: 1

@@ -137,7 +137,7 @@ parts:
     color: black
   - qty: 1
     name: Flag
-    desc: Rokenbok
+    desc: Rokenbok v3
     color: red
   - qty: 1
     name: Handtruck

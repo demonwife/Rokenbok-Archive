@@ -23,5 +23,38 @@ plans:
 thumb: /img/sets/thumb_walls.gif
 images:
   - /img/sets/04850_walls.png
+  - /img/sets/04850_walls_1.jpg
+  - /img/sets/04850_walls_2.jpg
+  - /img/sets/04850_walls_3.jpg
+  - /img/sets/04850_walls_4.jpg
+  - /img/sets/04850_walls_5.jpg
+  - /img/sets/04850_walls_6.jpg
 cmseditable: true
+
+parts:
+  - qty: 3
+    name: Door
+    color: red
+  - qty: 6
+    name: Wall 1x2
+    color: light gray
+    desc: corrugated
+  - qty: 6
+    name: Wall 2x2
+    color: light gray
+    desc: corrugated
+  - qty: 8
+    name: Wall 1x7
+    color: light gray
+    desc: corrugated
+  - qty: 4
+    name: Wall 2x7
+    color: light gray
+    desc: corrugated
+  - qty: 6
+    name: Window
+    color: red
+  
 ---
+
+
