@@ -9,6 +9,14 @@
         {{range .Params.categories}}
           <a href="/categories/{{.|urlize}}" title="See other sets in this category">{{.}}</a>
         {{end}}
+        --
+        {{ $partCount := 0 }}
+
+        {{ range .Params.parts }}
+          {{ $partCount = (add $partCount (int .qty)) }}
+        {{ end }}
+
+        <span title="Part Count">{{ $partCount }}</span>
       </p>
       <p>
         {{range .Params.skus}}

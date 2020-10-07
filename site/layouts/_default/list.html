@@ -9,7 +9,19 @@
             <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
             	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
               <p class="mid-gray lh-title mb2 fr">{{ delimit .Params.skus ", " }}</p>
-            	<p class="mid-gray lh-title mb2">{{ .Params.year }} -- {{delimit .Params.categories ", "}}</p>
+            	<p class="mid-gray lh-title mb2">
+                {{ .Params.year }}
+                --
+                {{delimit .Params.categories ", "}}
+                --
+                {{ $partCount := 0 }}
+
+                {{ range .Params.parts }}
+                  {{ $partCount = (add $partCount (int .qty)) }}
+                {{ end }}
+
+                <span title="Part Count">{{ $partCount }}</span>
+              </p>
 
               {{if .Params.thumb }}
                 <img src="{{ .Params.thumb }}" class="fl mr2 br2" style="max-width: 200px">
