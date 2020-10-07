@@ -21,4 +21,9 @@ plans:
 thumb: /img/sets/thumb_motortized_conveyorv2.gif
 images:
 cmseditable: true
+parts:
+  - qty: 1
+    name: Motorized Conveyor
+    color: yellow/purple
+    desc: battery
 ---

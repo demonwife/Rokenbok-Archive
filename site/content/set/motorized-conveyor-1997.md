@@ -22,4 +22,10 @@ plans:
 thumb: /img/sets/thumb_motortized_conveyor.gif
 images:
 cmseditable: true
+parts:
+  - qty: 1
+    name: Motorized Conveyor
+    color: yellow/purple
+    desc: wired
+
 ---

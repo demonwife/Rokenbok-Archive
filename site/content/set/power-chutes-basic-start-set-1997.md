@@ -36,5 +36,93 @@ images:
   - /img/sets/power_chutes_i_1.jpg
   - /img/sets/power_chutes_i_2.jpg
 cmseditable: true
+parts:
+  - qty: 1
+    name: Flag
+    color: red
+    desc: v1
+  - qty: 30
+    name: 16mm Red ROK
+    color: red
+  - qty: 30
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 7
+    name: Handrail/Railing
+    color: green
+  - qty: 7
+    name: Half C-Beam
+    color: blue
+  - qty: 18
+    name: Full C-Beam
+    color: blue
+  
+  - qty: 2
+    name: Lamp
+    color: green
+  - qty: 26
+    name: "Single Block/Cube"
+    color: red
+
+  - qty: 1
+    name: Chute Start (??)
+    color: yellow
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal  
+  - qty: 1
+    name: Ramp (??)
+    color: light gray
+
+  - qty: 2
+    name: Long Ramp, Studs (??)
+    color: light gray
+  - qty: 2
+    name: Full Beam
+    color: blue
+
+  - qty: 1
+    name: Dump Bin (??)
+    color: white
+  - qty: 2
+    name: Straight Chute
+    color: yellow
+  - qty: 3
+    name: Deck Plate, Studs
+    color: pruple
+
+  - qty: 1
+    name: Corner Chute (Right)
+    color: yellow
+  - qty: 1
+    name: Corner Chute (Left)
+    color: yellow
+  - qty: 1
+    name: RC Loader
+    color: green
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+
+  - qty: 1
+    name: Quarry (??)
+    color: gray
+  - qty: 1
+    name: Power Supply - North America
+    color: black
+  - qty: 1
+    name: Control pad
+    color: white
+  - qty: 1
+    name: Command Deck
+    color: white
+    desc: v1
+  - qty: 8
+    name: Radio Key
+    color: white
+
+
+  
+
 ---
 
