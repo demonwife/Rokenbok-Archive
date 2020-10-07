@@ -2,7 +2,6 @@
 
   {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
-
   <!-- 
   {
     PartName: [
@@ -76,20 +75,30 @@
           <div class="w-50-ns ph1-ns flex">
             <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
               <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-              <p class="mid-gray lh-title mb2 fr"></p>
+              <p class="mid-gray lh-title mb2 fr">
+                {{with .Params.cadfiles}}
+                  {{if gt (len .) 0}}
+                  3D Model Available
+                  {{else}}
+                  3D Model Missing
+                  {{end}}
+                {{end}}
+              </p>
               <p class="mid-gray lh-title mb2">
+                {{ $numSets := 0}}
+                
                 {{ if isset $scratch.Values .Title}}
-                  Found in {{ len ($scratch.Get .Title) }}
-                  {{ if eq (len ($scratch.Get .Title)) 1}}
+                   {{ $numSets = len ($scratch.Get .Title) }}
+                {{ end }}
+                Found in {{$numSets}}
+                  {{ if eq $numSets 1}}
                   set
                   {{else}}
                   sets
                   {{end}}
-                {{ end }}
+                
                 {{$scratch.Delete .Title}}
               </p>
-
-              
 
               <img src="{{ .Params.thumb }}" class="fl mr2 br2" style="max-width: 200px">
               
