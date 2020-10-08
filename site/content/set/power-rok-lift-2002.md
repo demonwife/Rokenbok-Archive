@@ -28,6 +28,95 @@ thumb: /img/sets/thumb_power_lift.gif
 images:
   - /img/sets/04314_power_rok_lift_parts.png
 cmseditable: true
+
+parts:
+  - qty: 20
+    name: 16mm Red ROK
+    color: red
+  - qty: 20
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 4
+    name: Half Beam
+    color: black
+  - qty: 14
+    name: Full Beam
+    color: black
+  - qty: 1
+    name: Bin
+    color: blue
+  - qty: 1
+    name: Fascia Sign
+    color: yellow
+
+  - qty: 1
+    name: Worker/Figure
+    color: teal
+  - qty: 13
+    name: "Single Block/Cube"
+    color: blue
+  - qty: 1
+    name: Riser
+    color: light gray
+  - qty: 1
+    name: Bin Dumper (??)
+    color: yellow
+  - qty: 1
+    name: Bin Dumper Top (??)
+    color: yellow
+  - qty: 4
+    name: Corbel
+    color: red
+
+  - qty: 1
+    name: Chute Start (??)
+    color: yellow
+  - qty: 2
+    name: Straight Chute
+    color: yellow
+  - qty: 3
+    name: Elliptical End Chute
+    color: yellow
+  - qty: 3
+    name: Wall 1x7
+    color: light gray
+    desc: squares
+  - qty: 1
+    name: Wall 2x2
+    color: light gray
+    desc: squares
+  - qty: 2
+    name: Wall 1x2
+    color: light gray
+    desc: squares
+  - qty: 8
+    name: Window
+    color: light blue
+  - qty: 1
+    name: 3 Way Brace
+    color: blue
+
+  - qty: 1
+    name: Rok Dumper Pivot (??)
+    color: yellow
+  - qty: 1
+    name: Rok Dumper Basin (??)
+    color: yellow
+
+  - qty: 2
+    name: Block, Magnet
+    color: yellow
+  - qty: 3
+    name: Rack Extender
+    color: blue
+
+  - qty: 1
+    name: Power ROK Lift
+    color: green
+
+
+
+
 ---
 ## Quick Facts:
   - The ROK-Lift is a vertical conveyor that can lift a crate of cargo to any height.
