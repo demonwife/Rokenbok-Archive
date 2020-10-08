@@ -32,6 +32,49 @@
         {{end}}
       </ul>
 
+      <h4 class="f4">Sets with this Part</h4>
+      <!-- for each set
+        for each part
+          if part.name matches any of this part names -->
+      {{ $myNames := slice ( .Title ) }}
+      {{ if isset .Params "otherNames" }}
+        {{ $myNames = ( $myNames | append .Params.otherNames ) }}
+      {{ end }}
+
+      <table class="datatable">
+        <thead>
+          <tr>
+            <th>Set</th>
+            <th>Qty</th>
+            <th>Color</th>
+            <th>Desc</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+          {{ range (where $.Site.RegularPages "Section" "set") }}
+
+            {{$set := .Params.title}}
+
+            {{ range .Params.parts }}
+              <!-- name of the part -->
+              {{ $name := .name }}
+
+              {{ if in $myNames $name }}
+              <tr>
+                <td>{{ $set }}</td>
+                <td>{{ .qty }}</td>
+                <td>{{ .color }}</td>
+                <td>{{ .desc }}</td>
+              </tr>
+              {{ end }}
+
+            {{ end }}
+
+          {{ end }}
+        </tbody>
+      </table>
+
       <h4 class="f4">All Images ({{ len (union (slice .Params.thumb) .Params.images) }})</h4>
       <ul>
         {{range union (slice .Params.thumb) .Params.images }}
