@@ -38,8 +38,8 @@ parts:
     name: 16mm Red ROK
     color: red
   - qty: 10
-    name: 19mm Blue Rok
-    color: Blue
+    name: 19mm Blue ROK
+    color: blue
   - qty: 1
     name: Worker/Figure
     color: blue
