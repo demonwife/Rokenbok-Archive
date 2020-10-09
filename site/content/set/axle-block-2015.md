@@ -21,6 +21,13 @@ images:
   - /img/sets/20-00352_axle_block_2.jpg
   - /img/sets/20-00352_axle_block_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Axle Block
+    color: red
+
+
 ---
 Need more blocks?
 

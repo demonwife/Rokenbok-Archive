@@ -21,6 +21,13 @@ images:
   - /img/sets/20-00353_hinge_block_2.jpg
   - /img/sets/20-00353_hinge_block_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Hinge Block
+    color: red
+
+
 ---
 Need more hinge blocks?
 

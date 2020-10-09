@@ -20,4 +20,12 @@ plans:
 thumb: /img/sets/thumb_black_beams.gif
 images:
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Half Beam
+    color: black
+  - qty: 24
+    name: Full Beam
+    color: black
 ---

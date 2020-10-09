@@ -22,6 +22,13 @@ images:
   - /img/sets/20-00346_tool_3.jpg
   - /img/sets/20-00346_tool_4.jpg
 cmseditable: true
+
+parts:
+  - qty: 6
+    name: Rokenbok Tool
+    color: metal
+
+
 ---
 Rokenbok Tool
 

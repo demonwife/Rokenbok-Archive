@@ -24,4 +24,11 @@ plans:
 thumb: /img/sets/10913_beams_gray.jpg
 images:
 cmseditable: true
+parts:
+  - qty: 24
+    name: Half Beam
+    color: dark gray
+  - qty: 24
+    name: Full Beam
+    color: dark gray
 ---

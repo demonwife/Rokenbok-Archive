@@ -21,6 +21,13 @@ images:
   - /img/sets/20-00354_pulley_block_2.jpg
   - /img/sets/20-00354_pulley_block_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Pulley Block
+    color: red
+
+
 ---
 Need more pulley blocks?
 

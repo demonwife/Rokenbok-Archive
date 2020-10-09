@@ -22,4 +22,11 @@ plans:
 thumb: /img/sets/10921_c_beams.jpg
 images:
 cmseditable: true
+parts:
+  # - qty: 24
+  #   name: Half Beam
+  #   color: blue
+  - qty: 24
+    name: Full C-Beam
+    color: blue
 ---

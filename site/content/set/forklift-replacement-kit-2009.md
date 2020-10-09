@@ -21,4 +21,13 @@ plans:
 thumb: /img/sets/20-00190-001_forklift_face_replacement.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Forklift Face
+    color: red
+  - qty: 2
+    name: Forks
+    color: gray
+
 ---

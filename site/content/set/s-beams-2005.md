@@ -24,4 +24,10 @@ plans:
 thumb: /img/sets/04817_s_beams.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 12
+    name: S-Beam
+    color: black
+
 ---

@@ -24,4 +24,10 @@ plans:
 thumb: /img/sets/10923_curved_beams_black.png
 images:
 cmseditable: true
+
+parts:
+  - qty: 12
+    name: Large Curved Beam
+    color: black
+
 ---

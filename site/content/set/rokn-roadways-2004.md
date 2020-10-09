@@ -30,6 +30,66 @@ images:
   - /img/sets/rokn_roadways_3.jpg
   - /img/sets/rokn_roadways_4.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 1
+    name: Arch
+    color: green
+  - qty: 9
+    name: Full Beam
+    color: light gray
+  - qty: 5
+    name: Riser
+    color: light gray
+
+  - qty: 8
+    name: Corbel
+    color: red
+  - qty: 2
+    name: Lamp
+    color: yellow
+  - qty: 2
+    name: Roadway Turn
+    color: black
+  - qty: 1
+    name: I-Beam
+    color: green
+
+  - qty: 15
+    name: Half Beam
+    color: light gray
+  - qty: 1
+    name: Slide (??)
+    color: yellow
+
+  - qty: 4
+    name: Large Curved Beam
+    color: light gray
+  - qty: 30
+    name: Single Block/Cube
+    color: blue
+  - qty: 5
+    name: Single Block/Cube
+    color: red
+
+  - qty: 8
+    name: Roadway Incline
+    color: black
+  - qty: 6
+    name: Roadway Straight Segment
+    color: black
+
+  - qty: 2
+    name: Roadway Entry
+    color: black
+  - qty: 1
+    name: 4 Way Roadway
+    color: black
+
+
 ---
 Build Faster and Easier!
 

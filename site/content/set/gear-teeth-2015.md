@@ -23,6 +23,12 @@ images:
   - /img/sets/20-00327_gear_teeth_4.jpg
   - /img/sets/20-00327_gear_teeth_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 160
+    name: Gear Tooth
+    color: yellow
+
 ---
 Need more gear teeth?
 

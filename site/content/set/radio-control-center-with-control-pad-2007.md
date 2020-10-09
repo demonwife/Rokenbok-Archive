@@ -23,4 +23,16 @@ thumb: /img/sets/control_pad.gif
 images:
   -  /img/sets/control_pad_1.gif
 cmseditable: true
+
+parts:
+  - qty: 8
+    name: Radio Key
+    color: white
+  - qty: 1
+    name: Command Deck v3
+    color: white
+  - qty: 1
+    name: Control Pad
+    color: white
+
 ---

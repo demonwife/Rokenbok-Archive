@@ -24,4 +24,13 @@ plans:
 thumb: /img/sets/10900_beams_blue.png
 images:
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Half Beam
+    color: blue
+  - qty: 24
+    name: Full Beam
+    color: blue
+
 ---

@@ -20,6 +20,13 @@ thumb: /img/sets/20-00348_trailer_hitch.jpg
 images:
   -  /img/sets/20-00348_trailer_hitch_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Snap-on Trailer Hitch
+    color: red
+
+
 ---
 Need Another Trailer Hitch?
 

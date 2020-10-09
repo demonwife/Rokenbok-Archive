@@ -79,7 +79,7 @@ parts:
     name: Half C-Beam
     color: blue
   - qty: 12
-    name: C-Beam
+    name: Full C-Beam
     color: blue
   - qty: 1
     name: Worker/Figure

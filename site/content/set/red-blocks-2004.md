@@ -24,4 +24,9 @@ plans:
 thumb: /img/sets/10915_blocks_red.png
 images:
 cmseditable: true
+
+parts:
+  - qty: 72
+    name: Single Block/Cube
+    color: blue
 ---

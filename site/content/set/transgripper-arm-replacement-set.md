@@ -21,4 +21,11 @@ plans:
 thumb: /img/sets/20-00122_transgripper_replacement_arms.png
 images:
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Transgripper Arm
+    color: yellow
+
+
 ---

@@ -20,6 +20,13 @@ thumb: /img/sets/20-00349_single_snap_block.jpg
 images:
   -  /img/sets/20-00349_single_snap_block_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Single Snap Block
+    color: gray
+
+
 ---
 Need more snap blocks?
 

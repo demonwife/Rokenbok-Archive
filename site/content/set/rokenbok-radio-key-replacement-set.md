@@ -19,4 +19,9 @@ plans:
 thumb: /img/sets/20087_radio_keys.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 8
+    name: Radio Key
+    color: white
 ---

@@ -21,6 +21,12 @@ images:
   -  /img/sets/20-00357_small_curved_beams_2.jpg
   -  /img/sets/20-00357_small_curved_beams_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Small Curved Beam
+    color: red
+
 ---
 This set is recommend for builders who want to add more dimension to their systems. Combine this set with gear teeth, a couple of blocks and build a gear.
 

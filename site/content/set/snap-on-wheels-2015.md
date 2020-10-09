@@ -21,6 +21,20 @@ images:
   - /img/sets/20-00355_wheels_2.jpg
   - /img/sets/20-00355_wheels_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 24
+    name: Snap-on Wheel
+    color: red
+  - qty: 24
+    name: Snap-on Wheel Center (??)
+    color: red
+    nocount: true
+  - qty: 24
+    name: Wheel Tread (??)
+    color: black
+    nocount: true
+
 ---
 Need More Wheels?
 

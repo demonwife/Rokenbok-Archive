@@ -25,4 +25,9 @@ thumb: /img/sets/risers_10919.jpg
 images:
   - /img/sets/10919_risers.jpg
 cmseditable: true
+
+parts:
+  - qty: 72
+    name: Riser
+    color: light gray
 ---

@@ -23,4 +23,11 @@ plans:
 thumb: /img/sets/21-00146_extender_racks.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Rack Extender
+    color: blue
+
+
 ---
