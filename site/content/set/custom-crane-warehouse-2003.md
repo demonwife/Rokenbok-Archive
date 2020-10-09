@@ -115,13 +115,9 @@ parts:
     color: green
   - qty: 2
     name: Girder
-    otherNames:
-      - Brace
     color: green
   - qty: 2
     name: Girder
-    otherNames:
-      - Brace
     color: red
   - qty: 48
     name: Full Beam
