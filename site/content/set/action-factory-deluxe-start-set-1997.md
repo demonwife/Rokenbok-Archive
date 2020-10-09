@@ -44,7 +44,7 @@ parts:
     name: 19mm Blue ROK
     color: blue
   - qty: 29
-    name: "Single Block/Cube"
+    name: Single Block/Cube
     color: red
   - qty: 25
     name: Corbel
