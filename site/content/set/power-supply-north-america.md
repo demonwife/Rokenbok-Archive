@@ -21,4 +21,9 @@ plans:
 thumb: /img/sets/10361_power_supply_na.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Power Supply - North America
+    color: black
 ---
