@@ -43,8 +43,6 @@ parts:
     color: blue
   - qty: 5
     name: Handrail/Railing
-    otherNames:
-      - Railing
     color: yellow
   - qty: 3
     name: Billboard
