@@ -11,7 +11,7 @@ priceHistory:
     price: 6.99
 skus:
   - "20096"
-categories: 
+categories:
   - Replacement Parts
 video: ""
 plans:
@@ -19,4 +19,16 @@ plans:
 thumb: /img/sets/20096_sweeper_roller_replacement.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Roller Shaft
+    color: white
+  - qty: 1
+    name: Roller Foam
+    color: black
+  - qty: 1
+    name: Roller Cap
+    color: white
+
 ---
