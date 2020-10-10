@@ -22,5 +22,41 @@ plans:
 
 thumb: /img/sets/34600_chutes_iii.png
 images:
+  - /img/sets/34600_chutes_iii_1.png
 cmseditable: true
+
+parts:
+  - qty: 10
+    name: Corner Chute (Right)
+    color: yellow
+  - qty: 10
+    name: Corner Chute (Left)
+    color: yellow
+  - qty: 5
+    name: Elliptical End Chute
+    color: yellow
+  - qty: 8
+    name: Straight Chute
+    color: yellow
+  - qty: 4
+    name: Inside Curved Chute
+    color: yellow
+  - qty: 4
+    name: Outside Curved Chute
+    color: yellow
+  - qty: 1
+    name: Chute Start (??)
+    color: yellow
+  - qty: 1
+    name: Sorting Chute
+    color: yellow
+
+  - qty: 20
+    name: 16mm Red ROK
+    color: red
+  - qty: 20
+    name: 19mm Blue ROK
+    color: blue
+
+
 ---
