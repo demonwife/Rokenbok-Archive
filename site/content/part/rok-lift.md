@@ -1,5 +1,5 @@
 ---
-title: Power ROK Lift
+title: ROK Lift
 
 description: ""
 cadfiles:

@@ -24,6 +24,120 @@ images:
   - /img/sets/04331_tower_of_rok_mania_parts.png
   - /img/sets/04331_tower_of_rok_mania_1.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Flag
+    desc: Rokenbok v3
+    color: red
+  - qty: 100
+    name: 16mm Red ROK
+    color: red
+  - qty: 100
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 9
+    name: Large Curved Beam
+    color: black
+  - qty: 3
+    name: Wall 1x7
+    color: light gray
+    desc: squares
+  - qty: 3
+    name: Wall 2x7
+    color: light gray
+    desc: squares
+
+  - qty: 77
+    name: Single Block/Cube
+    color: blue
+  - qty: 14
+    name: Window
+    color: blue
+  - qty: 14
+    name: Window
+    color: red
+  - qty: 6
+    name: Straight Chute
+    color: yellow
+  - qty: 1
+    name: Bin Dumper Top (??)
+    color: yellow
+
+  - qty: 2
+    name: Riser
+    color: light gray
+  - qty: 1
+    name: Bin
+    color: red
+  - qty: 1
+    name: Bin
+    color: blue
+  - qty: 3
+    name: Girder
+    color: blue
+  - qty: 1
+    name: Billboard Frame Back
+    color: gray
+  - qty: 1
+    name: Billboard Frame Front
+    color: gray
+    nocount: true
+  - qty: 1
+    name: 2 Way Brace
+    color: blue
+  - qty: 3
+    name: Corner Chute (Left)
+    color: yellow
+  - qty: 2
+    name: Chute Start (??)
+    color: yellow
+  - qty: 11
+    name: Inside Curved Chute
+    color: yellow
+  - qty: 9
+    name: Outside Curved Chute
+    color: yellow
+
+  - qty: 65
+    name: Full Beam
+    color: black
+  - qty: 6
+    name: Half Beam
+    color: black
+  - qty: 3
+    name: 3 Way Brace
+    color: blue
+  - qty: 1
+    name: Rok Dumper Pivot (??)
+    color: yellow
+  - qty: 1
+    name: Rok Dumper Basin (??)
+    color: yellow
+    nocount: true
+  - qty: 2
+    name: Bin Dumper (??)
+    color: yellow
+
+  - qty: 4
+    name: Rack Extender
+    color: blue
+  - qty: 1
+    name: Rack Base
+    color: blue
+  - qty: 5
+    name: Elliptical End Chute
+    color: yellow
+  - qty: 2
+    name: S-Beam
+    color: black
+  - qty: 1
+    name: ROK Lift
+    color: green
+
+
+
+
 ---
 ## Quick Facts:
   - This is the set for anyone that loves rolling, tumbling, twisting chute action!
