@@ -25,6 +25,55 @@ images:
   - /img/sets/04809_inventors_tool_kit_parts.png
   - /img/sets/thumb_inventor_kit.jpg
 cmseditable: true
+
+partCount: 161
+parts:
+  - qty: 1
+    name: String (??)
+    color: white?
+  - qty: 8
+    name: Snap-on Wheel
+    color: red
+  - qty: 8
+    name: Corbel
+    color: red
+  - qty: 30
+    name: Single Snap Block
+    color: gray
+  - qty: 12
+    name: 2 Way Brace
+    color: red
+
+  - qty: 15
+    name: 60 Degree Block
+    color: gray
+  - qty: 15
+    name: 30 Degree Block
+    color: gray
+  - qty: 8
+    name: Axle Block
+    color: red
+  - qty: 4
+    name: Hinge Block
+    color: red
+  - qty: 8
+    name: 3 Way Brace
+    color: red
+
+  - qty: 12
+    name: Pulley Block
+    color: red
+  - qty: 24
+    name: Riser
+    color: light gray
+  - qty: 4
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 12
+    name: Girder
+    color: red
+
+
 ---
 
 The new Inventor’s Kit, with 161 building pieces, is perfect for the avid Rokenbok expert to extend the fun and play of any existing set, because for the first time, Rokenbok is introducing special-use, custom blocks into the system. The Inventor’s Kit is a collection of new blocks that revolutionizes the capabilities of the entire Rokenbok system by enabling builders to improvise with drawbridges, block-and-tackle, elevators, custom trailers, treadmills and diagonal construction using 30-degree angles, 60-degree angles, pulleys, hinges, swivel blocks, tow hooks, wheels and axles, and single snap blocks. Add the new Inventor’s Kit to your existing Rokenbok collection and take your next construction project to a whole new level!

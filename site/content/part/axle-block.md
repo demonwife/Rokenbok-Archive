@@ -8,4 +8,6 @@ cadfiles:
     link: https://www.thingiverse.com/thing:325260
 
 thumb: /img/parts/axle-block.jpg
+images:
+  - /img/parts/axle-block-2.jpg
 ---

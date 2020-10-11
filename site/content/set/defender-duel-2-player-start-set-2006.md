@@ -64,11 +64,111 @@ parts:
     desc: Rokenbok v3
     color: white
 
-
-
   - qty: 4
     name: Corbel
     color: red
+  - qty: 14
+    name: Riser
+    color: light gray
+  - qty: 4
+    name: Large Curved Beam
+    color: black
+  - qty: 3
+    name: Wall 1x7
+    color: light gray
+    desc: squares
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: Girder
+    color: blue
+  - qty: 4
+    name: Girder
+    color: red
+
+  - qty: 2
+    name: Roadway Entry
+    color: black
+  - qty: 4
+    name: Roadway Incline
+    color: black
+  - qty: 3
+    name: Angled Window
+    color: green
+  - qty: 1
+    name: Fascia Sign
+    color: white/blue
+    desc: ROK ARENA
+  - qty: 2
+    name: Lamp
+    color: yellow
+
+  - qty: 2
+    name: Catwalk
+    color: green
+  - qty: 2
+    name: Catwalk
+    color: blue
+  - qty: 2
+    name: Handrail/Railing
+    color: yellow
+  - qty: 2
+    name: Handrail/Railing
+    color: green
+  - qty: 2
+    name: I-Beam
+    color: green
+
+  - qty: 4
+    name: Curved Deck Plate, Studs
+    color: blue
+  - qty: 1
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 5
+    name: Deck Plate, Studs
+    color: light gray
+
+  - qty: 1
+    name: Worker/Figure
+    color: white
+  - qty: 1
+    name: Worker/Figure
+    color: white/brown
+  - qty: 1
+    name: Worker/Figure
+    color: red
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+  - qty: 1
+    name: Worker/Figure
+    color: blue/yellow
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+
+  - qty: 1
+    name: RC Police Tank (??)
+    color: gray
+  - qty: 1
+    name: RC Police Tank (??)
+    color: black
+
+  - qty: 8
+    name: Radio Key
+    color: white
+  - qty: 1
+    name: Command Deck
+    color: white
+    desc: 1/4 with Control Pad 
+  - qty: 1
+    name: Control pad
+    color: white
 
 
 ---
