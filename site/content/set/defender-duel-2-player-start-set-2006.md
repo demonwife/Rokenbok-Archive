@@ -24,6 +24,53 @@ images:
   - /img/sets/defender_duel_ss_1.jpg
   - /img/sets/defender_duel_ss_2.jpg
 cmseditable: true
+
+parts:
+  - qty: 40
+    name: "Single Block/Cube"
+    color: blue
+
+  - qty: 2
+    name: Half Beam
+    color: gray
+  - qty: 16
+    name: Half Beam
+    color: black
+  - qty: 9
+    name: Full Beam
+    color: black
+  - qty: 14
+    name: Full Beam
+    color: black
+
+  - qty: 1
+    name: Flag
+    desc: American
+    color: white
+  - qty: 1
+    name: Flag
+    desc: Pirate
+    color: black
+  - qty: 1
+    name: Flag
+    desc: R
+    color: Red
+  - qty: 1
+    name: Flag
+    desc: Star
+    color: blue
+  - qty: 1
+    name: Flag
+    desc: Rokenbok v3
+    color: white
+
+
+
+  - qty: 4
+    name: Corbel
+    color: red
+
+
 ---
 A new Start Set for head-to-head, non-stop action where two will enter – but only one drives out! Look at what is included: Two different RC Police Defender vehicles dedicated to keeping the peace in the Rokenbok World, plus two Control Pads and the new battery-operated Radio Control Center that precisely command each RC Defender’s powerful track drive and motorized ram. Use more than 167 building pieces to create the imposing competition arena. Now you’re ready to practice your skills playing capture the flag and claiming the championship. Knock off your opponent’s flags, or better yet, roll his RC Defender over and out of the arena with your motorized ram.
 

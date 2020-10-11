@@ -111,7 +111,7 @@ parts:
     color: blue
 
   - qty: 1
-    name: Power ROK Lift
+    name: ROK Lift
     color: green
 
 
