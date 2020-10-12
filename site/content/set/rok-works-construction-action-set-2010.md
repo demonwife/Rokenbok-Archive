@@ -11,7 +11,7 @@ priceHistory:
     price: 129.99
 skus:
   - "08111"
-categories: 
+categories:
   - Start Set (Rok Star)
 video: ""
 videoEmbeds:
@@ -24,6 +24,154 @@ thumb: /img/sets/08111_rok_works.png
 images:
  - /img/sets/08111_rok_works_parts.png
 cmseditable: true
+
+parts:
+  - qty: 2
+    name: Wall 1x2
+    color: light gray
+    desc: squares
+  - qty: 2
+    name: Wall 2x2
+    color: light gray
+    desc: squares
+  - qty: 1
+    name: 3 Way Brace
+    color: blue
+  - qty: 2
+    name: 2 Way Brace
+    color: blue
+  - qty: 2
+    name: Elliptical End Chute
+    color: yellow
+  - qty: 1
+    name: Corner Chute (Right)
+    color: yellow
+  - qty: 2
+    name: Dump Bin (??)
+    color: blue
+  - qty: 2
+    name: Loading Platform (??)
+    color: dark blue
+  - qty: 1
+    name: Motorized Conveyor
+    color: yellow/blue
+    desc: 1 agitator
+
+  - qty: 1
+    name: Wall 2x7
+    color: light gray
+    desc: squares
+  - qty: 2
+    name: Wall 1x7
+    color: light gray
+    desc: squares
+  - qty: 1
+    name: Chute Start (??)
+    color: yellow
+  - qty: 1
+    name: Sorting Chute
+    color: yellow
+  - qty: 1
+    name: Straight Chute
+    color: yellow
+
+  - qty: 1
+    name: Large Curved Beam
+    color: gray
+  - qty: 16
+    name: Full Beam
+    color: gray
+  - qty: 1
+    name: ROK Star Controller
+    color: yellow
+  - qty: 1
+    name: Door
+    color: blue
+  - qty: 8
+    name: Window
+    color: blue
+  - qty: 1
+    name: Small Desk
+    color: white
+  - qty: 1
+    name: Quarry (??)
+    color: blue
+
+  - qty: 6
+    name: Half Beam
+    color: gray
+  - qty: 6
+    name: Riser
+    color: light gray
+  - qty: 20
+    name: Single Block/Cube
+    color: blue
+  - qty: 1
+    name: Fire Extinguisher
+    color: red
+  - qty: 1
+    name: Girder
+    color: blue
+  - qty: 1
+    name: Chair
+    color: blue
+  - qty: 1
+    name: Large Desk
+    color: white
+  - qty: 1
+    name: RC Loader
+    color: yellow
+    desc: ROK Star
+
+  - qty: 20
+    name: 16mm Red ROK
+    color: red
+  - qty: 20
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 1
+    name: Lamp
+    color: yellow
+  - qty: 6
+    name: Corbel
+    color: red
+  - qty: 1
+    name: Metro Sign
+    color: yellow
+    desc: Quarry
+  - qty: 1
+    name: Fascia Sign
+    color: yellow
+    desc: PAYROLL
+  - qty: 1
+    name: Billboard
+    color: printed
+    desc: Stone & Rock Quarries
+  - qty: 1
+    name: Billboard
+    color: printed
+    desc: Rokenbok Stone Quarries
+
+  - qty: 1
+    name: Flag
+    color: red
+    desc: Rokenbok v3
+  - qty: 1
+    name: Curved Deck Plate, Studs
+    color: blue
+  - qty: 1
+    name: Worker/Figure
+    color: blue/yellow
+  - qty: 1
+    name: Billboard Frame Back
+    color: gray
+  - qty: 1
+    name: Billboard Frame Front
+    color: gray
+
 ---
 Quick Facts:
 - Complete building & action set, most popular way to start a Rokenbok World.
