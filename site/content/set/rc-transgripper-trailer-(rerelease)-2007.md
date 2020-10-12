@@ -26,4 +26,36 @@ thumb: /img/sets/thumb_rc_transgripper_trailer.jpg
 images:
   -  /img/sets/thumb_rc_transgripper_trailer_1.gif
 cmseditable: true
+
+parts:
+  - qty: 5
+    name: 16mm Red ROK
+    color: red
+  - qty: 5
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 4
+    name: Barrel
+    color: orange
+
+  - qty: 1
+    name: Bin (??)
+    color: red
+  - qty: 1
+    name: Bin (??)
+    color: blue
+  - qty: 1
+    name: Barrel Holder (??)
+    color: green
+
+  - qty: 2
+    name: Handrail/Railing
+    color: yellow
+  - qty: 1
+    name: Trailer
+    color: blue
+  - qty: 1
+    name: RC Transgripper
+    color: blue
+
 ---
