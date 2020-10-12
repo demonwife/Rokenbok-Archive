@@ -15,7 +15,7 @@ priceHistory:
     price: 99.99
 skus:
   - "08710"
-categories: 
+categories:
   - Vehicle (Rok Star)
 video: ""
 plans:
@@ -32,6 +32,88 @@ images:
   - /img/sets/08710_rs_x2-power_unit_3.jpg
   - /img/sets/08710_rs_x2-power_unit_4.jpg
 cmseditable: true
+
+parts:
+  - qty: 20
+    name: Full Beam
+    color: black
+  - qty: 10
+    name: Full Beam
+    color: gray
+  - qty: 4
+    name: Half Beam 
+    color: black
+  - qty: 2
+    name: Half Beam
+    color: gray
+  - qty: 1
+    name: Single Block/Cube
+    color: gray
+  - qty: 2
+    name: Single Snap Block
+    color: bray
+
+  - qty: 20
+    name: Riser
+    color: light gray
+  - qty: 6
+    name: Arch
+    color: green
+  - qty: 12
+    name: Corbel
+    color: red
+  - qty: 2
+    name: Hinge
+    color: red
+  - qty: 1
+    name: Hook
+    color: red
+  - qty: 22
+    name: Single Block/Cube
+    color: red
+
+  - qty: 4
+    name: 3 Way Brace
+    color: red
+  - qty: 4
+    name: Girder
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 5
+    name: Pulley Block
+    color: red
+  - qty: 4
+    name: 60 Degree Block
+    color: gray
+  - qty: 4
+    name: 30 Degree Block
+    color: gray
+
+  - qty: 4
+    name: Roadway Incline
+    color: black
+  - qty: 6
+    name: Roadway Straight Segment
+    color: black
+  - qty: 2
+    name: Roadway Entry
+    color: black
+  - qty: 1
+    name: Crane Bucket (??)
+    color: red
+  - qty: 1
+    name: String Block
+    color: red
+  - qty: 6
+    name: Lamp
+    color: red
+  - qty: 1
+    name: X2 Dual Drive Power Unit
+    color: orange
+    desc: ROK Star
+
 ---
 The X2 is an all new ROK Star machine dedicated to powering Rokenboker invented machines.  Power-up and control elevators, draw bridges, cranes, thrill rides, tramways, and more - all with your ROK Star Controller (not included).  The X2’s two independent motors power three drive types; winch drive, cog drive, and axle drive.
 
