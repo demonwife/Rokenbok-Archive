@@ -22,8 +22,57 @@ plans:
 thumb: /img/sets/06226_rs_monorail.jpg
 images:
 cmseditable: true
+
+parts:
+  - qty: 5
+    name: 16mm Red ROK
+    color: red
+  - qty: 5
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 7
+    name: Single Block/Cube
+    color: blue
+  - qty: 2
+    name: Half Beam
+    color: black
+
+  - qty: 10
+    name: Riser
+    color: light gray
+  - qty: 3
+    name: Full Beam
+    color: Black
+  - qty: 4
+    name: Large Curved Beam
+    color: black
+  - qty: 1
+    name: Worker/Figure
+    color: white
+
+  - qty: 1
+    name: I-Beam
+    color: green
+  - qty: 1
+    name: Signal Light
+    color: light gray
+  - qty: 2
+    name: Crossing Swing Arm (??)
+    color: gray
+  - qty: 1
+    name: Crossing Base (??)
+    color: gray
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+
+  - qty: 1
+    name: RC Monorail
+    color: blue
+    desc: RR 415 - ROK Star
+
 ---
-Quick Facts: 
+Quick Facts:
   - Easiest vehicle to drive, but advanced levels of function and challenge too.
   - Glides across a track created from standard Rokenbok building pieces!
   - This set includes an oval track set and vehicle crossing.

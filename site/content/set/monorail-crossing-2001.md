@@ -28,5 +28,14 @@ cmseditable: true
 parts:
   - qty: 1
     name: Monorail Crossing
-    color: gray 
+    color: gray
+  - qty: 1
+    name: Crossing Base (??)
+    color: gray
+    nocount: true
+  - qty: 2
+    name: Crossing Swing Arm (??)
+    color: gray
+    nocount: true
+
 ---
