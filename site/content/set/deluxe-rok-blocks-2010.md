@@ -70,7 +70,7 @@ parts:
     name: Single Snap Block
     color: gray
   - qty: 2
-    name: Curved Window
+    name: Arched Window
     color: blue
   - qty: 1
     name: Box/Bin Rack

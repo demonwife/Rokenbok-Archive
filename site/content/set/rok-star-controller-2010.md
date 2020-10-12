@@ -13,7 +13,7 @@ priceHistory:
     price: 34.99
 skus:
   - "08700"
-categories: 
+categories:
   - Control (Rok Star)
 video: ""
 plans:

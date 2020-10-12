@@ -13,7 +13,7 @@ priceHistory:
     price: 54.99
 skus:
   - "04211"
-categories: 
+categories:
   - Vehicle (RC)
 video: ""
 videoEmbeds:
@@ -31,5 +31,6 @@ parts:
   - qty: 1
     name: RC Loader
     color: green
+    desc: Radio
 
 ---

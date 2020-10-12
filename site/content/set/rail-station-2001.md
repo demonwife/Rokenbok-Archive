@@ -51,7 +51,7 @@ parts:
     name: Angled Window
     color: teal
   - qty: 3
-    name: Curved Window
+    name: Arched Window
     color: teal
   - qty: 4
     name: Swinging Door (??)

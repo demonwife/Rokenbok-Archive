@@ -11,7 +11,7 @@ priceHistory:
     price: 59.99
 skus:
   - "04213"
-categories: 
+categories:
   - Vehicle (RC)
 video: ""
 videoEmbeds:

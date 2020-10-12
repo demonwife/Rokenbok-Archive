@@ -160,8 +160,4 @@ parts:
     color: light gray
     desc: Stop
 
-
-
-
-    
 ---
