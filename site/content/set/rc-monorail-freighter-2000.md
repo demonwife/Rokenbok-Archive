@@ -41,5 +41,6 @@ parts:
   - qty: 1
     name: RC Monorail
     color: blue
+    desc: RR 415
 
 ---

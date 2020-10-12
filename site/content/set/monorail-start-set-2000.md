@@ -162,8 +162,9 @@ parts:
     name: Water Tower
     color: light gray, blue
   - qty: 1
-    name: RC Monorail Freighter
+    name: RC Monorail
     color: blue
+    desc: RR 415
   - qty: 1
     name: Command Deck
     color: white

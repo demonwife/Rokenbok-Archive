@@ -70,6 +70,7 @@ parts:
   - qty: 1
     name: RC Monorail Freighter
     color: blue
+    desc: RR 415
 
 
 ---
