@@ -33,7 +33,7 @@ parts:
   - qty: 1
     name: Box/Bin Rack
     color: red
-   - qty: 1
+  - qty: 1
     name: Clip On Sorter (??)
     color: dark green
   - qty: 2
@@ -101,7 +101,7 @@ parts:
     color: white/brown
   - qty: 1
     name: Worker/Figure
-    color: blie/yellow
+    color: blue/yellow
   - qty: 2
     name: Jr Base (??)
     color: black
