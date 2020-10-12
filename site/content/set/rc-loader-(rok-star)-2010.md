@@ -19,6 +19,11 @@ plans:
 thumb: /img/sets/08210_rs_loader.jpg
 images:
 cmseditable: true
+parts:
+  - qty: 1
+    name: RC Loader
+    color: green
+    desc: ROK Star
 ---
 Is it a front loader?  A dump truck?  The Remote Control Loader is both!  The Loader may be the hardest working machine in the Rokenbok fleet.  It can load itself, haul loads to any location, and then dump cargo exactly where you want it.
 

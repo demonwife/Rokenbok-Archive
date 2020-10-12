@@ -24,6 +24,12 @@ thumb: /img/sets/08700_rok_star_controller.jpg
 images:
   - /img/sets/08700_rok_star_controller_parts.png
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: ROK Star Controller
+    color: yellow
+
 ---
 
 **Please note: The ROK Star Controller will not control Rokenbok Classic RC (radio controlled) machines.**

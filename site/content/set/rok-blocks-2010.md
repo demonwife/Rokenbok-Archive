@@ -21,6 +21,66 @@ thumb: /img/sets/04845_rok_blocks.jpg
 images:
   - /img/sets/04845_rok_blocks_parts.png
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Full Beam
+    color: gray
+  - qty: 1
+    name: Half Beam
+    color: gray
+  - qty: 3
+    name: Riser
+    color: light gray
+  - qty: 2
+    name: Single Block/Cube
+    color: blue
+  - qty: 1
+    name: Box/Bin Rack
+    color: red
+  - qty: 1
+    name: Bin (??)
+    color: green
+
+  - qty: 2
+    name: Hinge Block
+    color: red
+  - qty: 6
+    name: Snap-on Wheel
+    color: red
+  - qty: 1
+    name: Arched Window
+    color: blue
+  - qty: 1
+    name: Worker/Figure
+    color: blue/yellow
+  - qty: 1
+    name: Worker/Figure
+    color: blue/teal
+  - qty: 1
+    name: Snap-on Trailer Hitch
+    color: red
+
+  - qty: 2
+    name: Single Snap Block
+    color: gray
+  - qty: 2
+    name: Axle Block
+    color: red
+  - qty: 4
+    name: Corbel
+    color: red
+  - qty: 3
+    name: 2x4 ROK Block
+    color: yellow
+  - qty: 12
+    name: 2x2 ROK Block
+    color: blue
+
+
+
+
+
 ---
 Quick Facts:
   - Revolutionary blocks for younger builders build up and out in 3 dimensions.
