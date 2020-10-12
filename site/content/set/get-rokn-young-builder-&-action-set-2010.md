@@ -22,6 +22,96 @@ thumb: /img/sets/young_builder_action_07300.jpg
 images:
   - /img/sets/07300_young_builder_action_parts.png
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Jr Top (??)
+    color: red
+  - qty: 1
+    name: Jr Top (??)
+    color: blue
+  - qty: 1
+    name: Box/Bin Rack
+    color: red
+   - qty: 1
+    name: Clip On Sorter (??)
+    color: dark green
+  - qty: 2
+    name: Sorted Ball Chute (??)
+    color: dark green
+  - qty: 4
+    name: Support Column
+    color: yellow
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 1
+    name: Motorized Conveyor
+    color: orange/green
+
+  - qty: 1
+    name: Half Beam
+    color: gray
+  - qty: 3
+    name: Riser
+    color: light gray
+  - qty: 2
+    name: Single Block/Cube
+    color: red
+  - qty: 1
+    name: Bin
+    color: green
+  - qty: 1
+    name: Jr Dump Truck (??)
+    color: green/yellow
+  - qty: 1
+    name: ROK Star Controller
+    color: yellow
+  - qty: 1
+    name: Arched Window
+    color: blue
+
+  - qty: 4
+    name: Corbel
+    color: red
+  - qty: 1
+    name: Axle Block
+    color: red
+  - qty: 2
+    name: Hinge Block
+    color: red
+  - qty: 2
+    name: Water Tower Tab
+    color: gray
+
+  - qty: 1
+    name: 2x4 ROK Block
+    color: yellow
+  - qty: 8
+    name: 2x4 ROK Block
+    color: blue
+  - qty: 12
+    name: 16mm Red ROK
+    color: red
+  - qty: 12
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 1
+    name: Worker/Figure
+    color: white/brown
+  - qty: 1
+    name: Worker/Figure
+    color: blie/yellow
+  - qty: 2
+    name: Jr Base (??)
+    color: black
+  - qty: 1
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 4
+    name: Snap-on Wheel
+    color: red
+
 ---
 Get ROK’n is a young builder’s introduction to Rokenbok remote control interaction.  This set combines the full function remote control Dump Truck with our revolutionary ROK Blocks, and a Motorized Conveyor with chutes and loading docks for sorting and delivery.  All the action is controlled by the ROK Star Controller.
 

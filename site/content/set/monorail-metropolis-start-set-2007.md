@@ -94,7 +94,7 @@ parts:
     color: yellow
   - qty: 1
     name: Bin
-    color: right
+    color: red
   - qty: 1
     name: Crossing Swing Base (??)
     color: gray
