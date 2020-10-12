@@ -97,7 +97,7 @@ parts:
     color: gray
   - qty: 1
     name: Tower Crane
-    color: yellow
+    color: yellow/blue
     desc: 54
 
 ---

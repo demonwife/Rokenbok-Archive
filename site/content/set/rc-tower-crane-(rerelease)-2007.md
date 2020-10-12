@@ -25,6 +25,65 @@ thumb: /img/sets/thumb_rc_tower_crane_04711.jpg
 images:
   - /img/sets/04711_rc_tower_crane_55.jpg
 cmseditable: true
+
+parts:
+  - qty: 10
+    name: 16mm Red ROK
+    color: red
+  - qty: 10
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 3
+    name: Barrel
+    color: orange
+  - qty: 14
+    name: "Single Block/Cube"
+    color: red
+  - qty: 4
+    name: "Single Block/Cube"
+    color: red
+  - qty: 2
+    name: Corbel
+    color: purple
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 1
+    name: Worker/Figure
+    color: white/brown
+  - qty: 1
+    name: Tower Crane Battery Cover
+    color: red
+
+  - qty: 2
+    name: Half Beam
+    color: black
+  - qty: 20
+    name: Full Beam
+    color: black
+  - qty: 4
+    name: Large Curved Beam
+    color: black
+  - qty: 3
+    name: Full Beam
+    color: white
+
+  - qty: 1
+    name: Crane Claw (??)
+    color: blue
+  - qty: 2
+    name: Crane Hook (??)
+    color: red
+  - qty: 1
+    name: Crane Bucket (??)
+    color: red
+  - qty: 1
+    name: Crane Platform (??)
+    color: white
+  - qty: 1
+    name: Tower Crane
+    color: white/red
+    desc: 55
 ---
 Move Up, Over & Around a 360° Radius!
 
