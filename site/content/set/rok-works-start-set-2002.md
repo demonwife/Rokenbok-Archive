@@ -2,7 +2,7 @@
 title: Rok Works Start Set
 year: 2002
 description: >-
-  Grab your hard-hat and go! There's a lot to be done in this action-packed construction site. Everything you need to get started is included with the Start Set. Within minutes, your Start Set is up and you're in charge! Take control of the life-like RC Loader that scoops, hauls and dumps Rokenbok balls into the factory you've just built.
+  Grab your hard-hat and go! There's a lot to be done in this action-packed construction site. Everything you need to get started is included with the Start Set. Within minutes, your Start Set is up and you're in charge!
 archiveLinks:
   - name: 08/11/2003
     link: https://web.archive.org/web/20030811011338/http://www.rokenbok.com/catalog/2002_pd_ss_rokworks.html
@@ -13,7 +13,7 @@ skus:
   - "34111"
   - "34112"
   - "04115"
-categories: 
+categories:
   - Start Set (RC)
 video: ""
 plans:

@@ -2,7 +2,7 @@
 title: Power Chutes II Start Set
 year: 2006
 description: >-
-  The Power Chutes Start Set includes everything you need to build your own exciting Rokenbok world. The powerful RC Skip Track vehicle works just like a real "front loader," completely under your control with the Control Pad and new battery-operated Radio Control Center. Build the Power Chutes factory, then scoop up a load of Rokenbok ROK balls using the Skip Track’s powerful track drive and high-lift bucket.
+  The Power Chutes Start Set includes everything you need to build your own exciting Rokenbok world. The powerful RC Skip Track vehicle works just like a real "front loader," completely under your control with the Control Pad and new battery-operated Radio Control Center.
 archiveLinks:
   - name: 08/13/2006
     link: https://web.archive.org/web/20060813175139/http://www.rokenbok.com/catalog/04117_pd_ss_powerchutes.html

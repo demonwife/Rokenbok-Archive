@@ -1,13 +1,10 @@
 ---
 title: Auto Center
 year: 1999
-description: Drive your vehicle through the garage doors and into the work area
+description: >-
+  Drive your vehicle through the garage doors and into the work area
   of the Auto Center. The Rokenbok mechanic is available to service your
-  vehicle. Need to get a view of the underside? Just drive onto the lift. Let
-  the power of your Rokenbok vehicle automatically raise the vehicle into the
-  air for easy maintenance. The Auto Center comes complete with a mechanic, an
-  office manager, computer, printer/fax, extra tires, workbench, oil change pan,
-  and other great new accessories. Requires Start Set. Includes 185 pieces.
+  vehicle. Need to get a view of the underside? Just drive onto the lift.
 archiveLinks:
   - name: 03/04/2001
     link: https://web.archive.org/web/20010304032210/http://rokenbok.com/catalog/pd_bs_auto.html
@@ -102,7 +99,7 @@ parts:
   - qty: 1
     name: Fire Extinguisher
     color: red
-  - qty: 4 
+  - qty: 4
     name: Swinging Door (??)
     color: yellow
   - qty: 28
@@ -178,3 +175,9 @@ parts:
     name: Vehicle Lift (??)
     color: gray, red, yellow
 ---
+Drive your vehicle through the garage doors and into the work area
+  of the Auto Center. The Rokenbok mechanic is available to service your
+  vehicle. Need to get a view of the underside? Just drive onto the lift. Let
+  the power of your Rokenbok vehicle automatically raise the vehicle into the
+  air for easy maintenance. The Auto Center comes complete with a mechanic, an
+  office manager, computer, printer/fax, extra tires, workbench, oil change pan, and other great new accessories. Requires Start Set. Includes 185 pieces.

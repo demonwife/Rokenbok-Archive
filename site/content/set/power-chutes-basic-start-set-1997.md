@@ -2,7 +2,7 @@
 title: Power Chutes Basic Start Set
 year: 1997
 description: >-
-  The first Rokenbok purchase for every family must be a starter set. Either the Basic Start Set (Power Chutes) or the Deluxe Start Set (Action Factory). Each starter set contains everything you need to start playing: the command deck, a control pad, a remote-controlled vehicle and a selection of components and accessories. The Command Deck can only be purchased with a Start Set. After purchasing a starter kit, you can expand your Rokenbok system however you like.
+  Contains everything you need to start playing: the command deck, a control pad, a remote-controlled vehicle and a selection of components and accessories.
 archiveLinks:
   - name: 03/02/2001 (German)
     link: https://web.archive.org/web/20010302195653fw/http://www.rokenbok.com/deutsch/catalog.htm
@@ -19,7 +19,7 @@ skus:
   - "34110"
   - "44110"
 
-categories: 
+categories:
   - Action Accessory
 video: ""
 plans:
@@ -56,7 +56,7 @@ parts:
   - qty: 18
     name: Full C-Beam
     color: blue
-  
+
   - qty: 2
     name: Lamp
     color: green
@@ -69,7 +69,7 @@ parts:
     color: yellow
   - qty: 1
     name: Rokenbok Tool
-    color: metal  
+    color: metal
   - qty: 1
     name: Ramp (??)
     color: light gray
@@ -120,9 +120,6 @@ parts:
   - qty: 8
     name: Radio Key
     color: white
-
-
-  
-
 ---
 
+The first Rokenbok purchase for every family must be a starter set. Either the Basic Start Set (Power Chutes) or the Deluxe Start Set (Action Factory). Each starter set contains everything you need to start playing: the command deck, a control pad, a remote-controlled vehicle and a selection of components and accessories. The Command Deck can only be purchased with a Start Set. After purchasing a starter kit, you can expand your Rokenbok system however you like.

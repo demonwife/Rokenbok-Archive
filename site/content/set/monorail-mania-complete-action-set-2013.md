@@ -2,7 +2,7 @@
 title: Monorail Mania Complete Action Set
 year: 2013
 description: >-
-  Clear the station platform! The Remote Control Monorail with Power Dump Bed  is pulling in to unload. Deliveries are constantly arriving in this 519+ piece Monorail Mania Complete Action Set. We combined the ROK Star Monorail (the easiest vehicle to drive) with our Architect's Dream Building Set (arguably our best construction set) and a ROK Star Controller (controls as many machines as you want) to create our best, largest, and most impressive Monorail building set to date.
+  Clear the station platform! The Remote Control Monorail with Power Dump Bed  is pulling in to unload. Deliveries are constantly arriving in this 519+ piece Monorail Mania Complete Action Set.
 archiveLinks:
   - name: 07/26/2012
     link: https://web.archive.org/web/20120726063657/http://www.rokenbok.com/estore/complete-action-sets/monorail-mania-complete-action-set

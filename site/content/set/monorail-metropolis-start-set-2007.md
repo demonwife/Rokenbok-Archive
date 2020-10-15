@@ -2,7 +2,7 @@
 title: Monorail Metropolis Start Set
 year: 2007
 description: >-
-  Clear the Station platform! The sleek, new RC Monorail is pulling in to unload. Deliveries are constantly arriving in your Metropolis with our new 200-piece Monorail Metropolis Start Set. Outfitted with a powered Engine unit coupled to a Dump Car with automatic unloading capability on either side of the track, the Monorail can get your ROKs to their destination in no time.
+  The sleek, new RC Monorail is pulling in to unload. Deliveries are constantly arriving in your Metropolis. Outfitted with a powered Engine unit coupled to a Dump Car with automatic unloading capability on either side of the track, the Monorail can get your ROKs to their destination in no time.
 archiveLinks:
   - name: 11/12/2007
     link: https://web.archive.org/web/20071112153056/http://www.rokenbok.com/catalog/04123_pd_ss_mmetropolis.html
@@ -27,6 +27,7 @@ images:
   -  /img/sets/monorail_metropolis_ss_4.jpg
 cmseditable: true
 
+partCount: 200
 parts:
   - qty: 20
     name: 16mm Red ROK

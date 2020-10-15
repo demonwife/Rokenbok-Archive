@@ -2,7 +2,7 @@
 title: Conveyor Company Start Set
 year: 2007
 description: >-
-  Grab your hardhat, jump in your big ol´ RC Loader vehicle, and start the workday here at Conveyor Company. Outfitted with all the tools of the trade, this new 190-piece construction site has everything you need to run your high-octane ROK supply business! Almost four feet of winding chutes, two dispensing collection bins, a quarry for scooping up ROK balls, an automatic Motorized Conveyor, and a fully outfitted maintenance garage highlight this great new set.
+  Grab your hardhat, jump in your big ol´ RC Loader vehicle, and start the workday here at Conveyor Company. Outfitted with all the tools of the trade, this new 190-piece construction site has everything you need to run your high-octane ROK supply business!
 archiveLinks:
   - name: 12/24/2007
     link: https://web.archive.org/web/20071224104417/http://www.rokenbok.com/catalog/04121_pd_ss_conveyorcompany.html
@@ -11,7 +11,7 @@ priceHistory:
     price: 119.99
 skus:
   - "04121"
-categories: 
+categories:
   - Start Set (RC)
 video: ""
 plans:

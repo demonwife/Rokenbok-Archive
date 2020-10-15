@@ -2,7 +2,7 @@
 title: RC Fire & Rescue
 year: 2004
 description: >-
-  You take control as Rokenbok Fire & Rescue rushes down the super slide and quickly bursts through the Firehouse doors. You are on your way to save the day! Your RC Fire & Rescue Vehicle comes with a working rescue claw and arm that flips vehicles upright. Rescue your other Rokenbok vehicles right from your Control Pad!
+  You take control as Rokenbok Fire & Rescue rushes down the slide and quickly bursts through the Firehouse doors. You are on your way to save the day! Your RC Fire & Rescue Vehicle comes with a working rescue claw and arm that flips vehicles upright.
 archiveLinks:
   - name: 08/13/2006
     link: https://web.archive.org/web/20060813190214/http://www.rokenbok.com/catalog/pd_03223.html
@@ -11,7 +11,7 @@ priceHistory:
     price: 59.99
 skus:
   - "03223"
-categories: 
+categories:
   - Vehicle (RC)
 video: https://web.archive.org/web/20060929132558/http://rokenbok.com/vids/FireRok307KbSec.wmv
 videoEmbeds:

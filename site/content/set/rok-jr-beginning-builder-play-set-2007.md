@@ -2,8 +2,7 @@
 title: Rok Jr. Beginning Builder Play Set
 year: 2007
 description: >-
-  ROK Jr.'s Beginning Builder features larger, press-fit blocks and roadway pieces for easy assembly by four and five year olds. Beginning Builder is action-packed fun with driving, loading and unloading capabilities and an all new, fully featured front-loading Dump Truck! To drive it, we created a new wireless infrared controller dedicated only to the ROK Jr. Dump Truck.
-
+  ROK Jr.'s Beginning Builder features larger, press-fit blocks and roadway pieces for easy assembly by four and five year olds. Beginning Builder is action-packed fun with driving, loading and unloading capabilities and an all new, fully featured front-loading Dump Truck!
 archiveLinks:
   - name: 02/02/2008
     link: https://web.archive.org/web/20080202101608/http://www.rokenbok.com/catalog/07100_pd_ss_rokjr.html
@@ -12,7 +11,7 @@ priceHistory:
     price: 99.99
 skus:
   - "07100"
-categories: 
+categories:
   - Start Set (Unique)
 video: ""
 plans:

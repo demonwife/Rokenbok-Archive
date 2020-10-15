@@ -2,8 +2,7 @@
 title: Architect's Dream
 year: 2010
 description: >-
-  Who knew you could build a Gothic cathedral or a Frank Lloyd Wright masterpiece with Rokenbok? That's just what expert Rokenboker Jon Ghidoni did to win our 2009 Architectural Building Challenge.  You can see Jon's builds from that contest in the Our Favorite Builds gallery. We asked Jon if he would create a building set that would make it easy for everyone to create architecturally interesting buildings, and that's how the Architect's Dream building set was born.
-
+  Who knew you could build a Gothic cathedral or a Frank Lloyd Wright masterpiece with Rokenbok? That's just what expert Rokenboker Jon Ghidoni did to win our 2009 Architectural Building Challenge.
 archiveLinks:
   - name: 12/30/2010
     link: https://web.archive.org/web/20101230013451/http://www.rokenbok.com/estore/construction/architects-dream

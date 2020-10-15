@@ -2,7 +2,7 @@
 title: RC Forklift with Bonus Warehouse
 year: 2002
 description: >-
-  Drive, stack, load, & sort with Rokenbok's newest robotic vehicle, the RC Forklift! This incredibly functional and life-like vehicle also comes with a FREE BONUS WAREHOUSE - enough building pieces to create your own Rack'em & Stack'em Warehouse (a $25.00 value)! Plan on "working overtime" in this super-fun construction warehouse! 105 pieces. Requires Rokenbok Start Set and 3 AA batteries (not included).
+  Drive, stack, load, & sort with Rokenbok's newest robotic vehicle, the RC Forklift! This incredibly functional and life-like vehicle also comes with a FREE BONUS WAREHOUSE - enough building pieces to create your own Rack'em & Stack'em Warehouse.
 archiveLinks:
   - name: 07/20/2003
     link: https://web.archive.org/web/20030720043823/http://rokenbok.com/catalog/pd_rcv_forklift.html
@@ -112,9 +112,5 @@ parts:
     name: RC Forklift
     color: yellow
 
-
-
-
-
-
 ---
+Drive, stack, load, & sort with Rokenbok's newest robotic vehicle, the RC Forklift! This incredibly functional and life-like vehicle also comes with a FREE BONUS WAREHOUSE - enough building pieces to create your own Rack'em & Stack'em Warehouse (a $25.00 value)! Plan on "working overtime" in this super-fun construction warehouse! 105 pieces. Requires Rokenbok Start Set and 3 AA batteries (not included).

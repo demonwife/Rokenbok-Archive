@@ -2,7 +2,7 @@
 title: RC Elevator
 year: 2000
 description: >-
-  You've never seen anything like it! Take your Vehicles to dizzying heights by using standard Beams and Blocks to create an elevator shaft in your Rokenbok World. Then use your Control Pad to raise and lower your vehicles from one floor to the next. You can even use the enclosed Monorail Track adapter to convert your Rokenbok RC Elevator into a monorail transport!
+  You've never seen anything like it! Take your Vehicles to dizzying heights by using standard Beams and Blocks to create an elevator shaft in your Rokenbok World. Then use your Control Pad to raise and lower your vehicles from one floor to the next.
 archiveLinks:
   - name: 02/12/2004
     link: https://web.archive.org/web/20040212045032/http://www.rokenbok.com/catalog/pd_aa_elevator.html
@@ -11,7 +11,7 @@ priceHistory:
     price: 79.99
 skus:
   - "04740"
-categories: 
+categories:
   - Vehicle (RC)
 video: ""
 videoEmbeds:

@@ -2,11 +2,11 @@
 title: Action Factory Deluxe Start Set
 year: 1997
 description: >-
-  Build, drive, and control! The Action Factory includes 211 building pieces, accessories, the Action Sorter and the Motorized Conveyor. Also includes one wireless RC Loader vehicle, a Command Deck with 8 radio keys and one Control Pad. Includes 110 Volt A/C adapter and three AA batteries.
+  Build, drive, and control! The Action Factory includes 211 building pieces, accessories, the Action Sorter and the Motorized Conveyor.
 archiveLinks:
   - name: Mar 31, 2001
     link: https://web.archive.org/web/20010331183206/http://www.rokenbok.com/catalog/pd_ss_action_factory.html
-  - name: offer up 
+  - name: offer up
     link: https://offerup.com/item/detail/236694359/
   - name: ebay
     link: https://www.ebay.com/itm/Rokenbok-System-Huge-Lot-Action-Factory-Monorail-RC-Loader-Command-Deck-Remotes-/163868079017
@@ -58,7 +58,7 @@ parts:
   - qty: 4
     name: Girder
     color: red
- 
+
   - qty: 2
     name: Wall 1x2
     color: light blue
@@ -157,9 +157,5 @@ parts:
     name: Radio Key
     color: white
 
-
-
-
-
-
 ---
+Build, drive, and control! The Action Factory includes 211 building pieces, accessories, the Action Sorter and the Motorized Conveyor. Also includes one wireless RC Loader vehicle, a Command Deck with 8 radio keys and one Control Pad. Includes 110 Volt A/C adapter and three AA batteries.

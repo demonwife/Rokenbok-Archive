@@ -2,7 +2,7 @@
 title: Deluxe ROK Blocks
 year: 2010
 description: >-
-  Build bigger and better models with the Deluxe ROK Blocks building set.  This set includes arch blocks for creating curves and angles, and more regular Rokenbok building pieces, like wheels and hinges.  Deluxe ROK Blocks make realistic models come to life as your preschooler's building skills grow.
+  Build bigger and better models with the Deluxe ROK Blocks building set.  This set includes arch blocks for creating curves and angles, and more regular Rokenbok building pieces.
 archiveLinks:
   - name: 12/30/2010
     link: https://web.archive.org/web/20101230000318/http://www.rokenbok.com/estore/construction/deluxe-rok-blocks
@@ -11,7 +11,7 @@ priceHistory:
     price: 49.99
 skus:
   - "04847"
-categories: 
+categories:
   - Rok Blocks
 video: ""
 plans:
