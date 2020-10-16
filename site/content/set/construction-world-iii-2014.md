@@ -11,7 +11,7 @@ priceHistory:
     price: 159.99
 skus:
   - "04335"
-categories: 
+categories:
   - Building Set
 video: ""
 plans:
@@ -29,6 +29,166 @@ images:
   -  /img/sets/04335_construction_world_iii_5.jpg
   -  /img/sets/04335_construction_world_iii_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Signal Light
+    color: light gray
+  - qty: 6
+    name: Lamp
+    color: yellow
+  - qty: 1
+    name: Bin
+    color: red
+  - qty: 1
+    name: Bin Rack
+    color: red
+  - qty: 2
+    name: 4 Way Roadway
+    color: black
+  - qty: 2
+    name: Roadway Turn
+    color: black
+  - qty: 16
+    name: Roadway Incline
+    color: black
+  - qty: 4
+    name: Roadway Entry
+    color: black
+  - qty: 14
+    name: Roadway Straight
+    color: black
+
+  - qty: 1
+    name: Flag
+    color: printed
+    desc: American
+  - qty: 3
+    name: Flag
+    color: red
+    desc: Rokenbok v3
+  - qty: 1
+    name: Worker/Figure
+    color: blue
+  - qty: 1
+    name: Bin
+    color: blue
+  - qty: 1
+    name: Bin Rack
+    color: blue
+
+  - qty: 16
+    name: Hinge Block
+    color: red
+  - qty: 16
+    name: Axle Block
+    color: red
+  - qty: 8
+    name: Corbel
+    color: red
+  - qty: 8
+    name: 30 Degree Block
+    color: gray
+  - qty: 12
+    name: 2 Way Brace
+    color: red
+  - qty: 6
+    name: 3 Way Brace
+    color: red
+  - qty: 9
+    name: Arch
+    color: green
+  - qty: 4
+    name: Handrail/Railing
+    color: green
+
+  - qty: 48
+    name: Cube
+    color: red
+  - qty: 4
+    name: Cube
+    color: blue
+  - qty: 64
+    name: Cube
+    color: gray
+  - qty: 16
+    name: 60 Degree Block
+    color: gray
+  - qty: 9
+    name: Single Snap Block
+    color: gray
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: I-Beam
+    color: green
+  - qty: 1
+    name: Straight Chute
+    color: yellow
+
+  - qty: 16
+    name: Riser
+    color: light gray
+  - qty: 12
+    name: Half Beam
+    color: black
+  - qty: 8
+    name: Half Beam
+    color: red
+  - qty: 43
+    name: Half Beam
+    color: gray
+  - qty: 1
+    name: Monorail 4-Way Cross Track
+    color: gray
+  - qty: 4
+    name: Step
+    color: gray
+  - qty: 10
+    name: Angled Window
+    color: gray
+  - qty: 1
+    name: Sorting Chute
+    color: yellow
+
+  - qty: 1
+    name: Billboard Frame Front
+    color: gray
+  - qty: 1
+    name: Billboard Frame Back
+    color: gray
+    nocount: true
+  - qty: 5
+    name: Corner Chute (Left)
+    color: yellow
+  - qty: 1
+    name: Outside Curved Chute
+    color: yellow
+  - qty: 1
+    name: Chute Hopper
+    color: yellow
+
+
+
+  - qty: 12
+    name: Small Curved Beam
+    color: red
+  - qty: 4
+    name: Full Beam
+    color: black
+  - qty: 28
+    name: Full Beam
+    color: red
+  - qty: 51
+    name: Full Beam
+    color: gray
+  - qty: 8
+    name: Catwalk
+    color: blue
+
+
+
 ---
 Our Ultimate Action-Packed Construction Set!
 
