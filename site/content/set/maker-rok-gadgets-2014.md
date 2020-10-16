@@ -11,7 +11,7 @@ priceHistory:
     price: 29.99
 skus:
   - "04321"
-categories: 
+categories:
   - Building Set
 video: ""
 plans:
@@ -27,6 +27,71 @@ images:
   - /img/sets/04321_maker_rok_gadgets_6.png
   - /img/sets/04321_maker_rok_gadgets_7.jpg
 cmseditable: true
+
+parts:
+  - qty: 9
+    name: Full Beam
+    color: black
+  - qty: 7
+    name: Half Beam
+    color: black
+  - qty: 5
+    name: Riser
+    color: light gray
+  - qty: 21
+    name: Cube
+    color: red
+  - qty: 7
+    name: Axle Block
+    color: red
+  - qty: 4
+    name: 60 Degree Block
+    color: gray
+
+  - qty: 49
+    name: Corbel
+    color: red
+  - qty: 5
+    name: Hinge Block
+    color: red
+  - qty: 5
+    name: Single Snap Block
+    color: gray
+  - qty: 5
+    name: 30 Degree Block
+    color: gray
+
+  - qty: 2
+    name: 3 Way Brace
+    color: red
+  - qty: 1
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 4
+    name: Snap-on Wheel
+    color: red
+  - qty: 2
+    name: Roadway Entry
+    color: black
+
+  - qty: 1
+    name: Small Curved Beam
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: Elastic
+    color: tan
+  - qty: 5
+    name: 16mm Red ROK
+    color: red
+  - qty: 5
+    name: 19mm Blue ROK
+    color: blue
+
+
+
 ---
 Creates 3 ROK-tastic Builds
 
