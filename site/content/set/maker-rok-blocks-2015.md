@@ -11,7 +11,7 @@ priceHistory:
     price: 49.99
 skus:
   - "04866"
-categories: 
+categories:
   - Rok Blocks
 video: ""
 plans:
@@ -27,6 +27,69 @@ images:
   - /img/sets/04866_maker_rok_blocks_6.jpg
   - /img/sets/04866_maker_rok_blocks_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Riser
+    color: light gray
+  - qty: 8
+    name: 2x3 ROK Block
+    color: green
+  - qty: 14
+    name: 2x2 ROK Block
+    color: blue
+  - qty: 2
+    name: Full Beam
+    color: gray
+
+  - qty: 4
+    name: Single Block/Cube
+    color: red
+  - qty: 8
+    name: Corbel
+    color: red
+  - qty: 2
+    name: Half Beam
+    color: gray
+
+  - qty: 10
+    name: Snap-on Wheel
+    color: red
+  - qty: 5
+    name: Hinge Block
+    color: red
+  - qty: 1
+    name: Bin
+    color: green
+  - qty: 1
+    name: Worker/Figure
+    color: blue/yellow
+  - qty: 1
+    name: Worker/Figure
+    color: blue/teal
+  - qty: 11
+    name: 2x4 ROK Block
+    color: yellow
+
+  - qty: 1
+    name: Small Curved Beam
+    color: red
+  - qty: 4
+    name: Single Snap Block
+    color: gray
+  - qty: 2
+    name: Arched Window
+    color: blue
+  - qty: 1
+    name: Bin Rack
+    color: red
+  - qty: 18
+    name: Wedge ROK Block
+    color: red
+
+
+
+
 ---
 Inspire Your Little Engineer!
 New Maker Series Product
