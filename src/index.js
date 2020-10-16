@@ -2,5 +2,5 @@
 
 import "./css/main.css";
 
-// Say hello
-console.log("🦊 Hello! Edit me in src/index.js");
+var $ = require("jquery");
+require("datatables.net-bs4")($);
