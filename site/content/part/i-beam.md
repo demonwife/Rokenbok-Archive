@@ -1,6 +1,9 @@
 ---
 title: I-Beam
 
+otherNames:
+  - I Beam
+
 description: ""
 cadfiles:
   - name: I-Beam
