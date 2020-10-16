@@ -13,7 +13,7 @@ priceHistory:
     price: 79.99
 skus:
   - "06321"
-categories: 
+categories:
   - Building Set
 video: ""
 plans:
@@ -28,6 +28,92 @@ images:
   - /img/sets/06321_monorail_storage_depot_6.jpg
   - /img/sets/06321_monorail_storage_depot_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Tall Sign (??)
+    color: light gray
+    desc: Rail Road Crossing
+  - qty: 2
+    name: Box/Bin Rack
+    color: blue
+  - qty: 2
+    name: Box/Bin Rack
+    color: red
+  - qty: 18
+    name: Half Beam
+    color: black
+  - qty: 24
+    name: Full Beam
+    color: black
+  - qty: 8
+    name: Large Curved Beam
+    color: black
+
+  - qty: 1
+    name: Flag
+    desc: Rokenbok v3
+    color: red
+  - qty: 10
+    name: 16mm Red ROK
+    color: red
+  - qty: 10
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 2
+    name: Bin
+    color: blue
+  - qty: 2
+    name: Bin
+    color: red
+  - qty: 15
+    name: Riser
+    color: light gray
+  - qty: 4
+    name: Corbel
+    color: red
+  - qty: 43
+    name: Single Block/Cube
+    color: blue
+  - qty: 1
+    name: Signal Light
+    color: light gray
+  - qty: 3
+    name: Lamp
+    color: yellow
+
+  - qty: 1
+    name: I-Beam
+    color: green
+  - qty: 2
+    name: Billboard Frame Front
+    color: green
+  - qty: 2
+    name: Billboard Frame Back
+    color: green
+    nocount: true
+  - qty: 2
+    name: Roadway Entry
+    color: black
+  - qty: 8
+    name: Roof Slat
+    color: brown
+  - qty: 1
+    name: Girder
+    color: blue
+
+  - qty: 1
+    name: Deck Plate, Studs
+    color: light gray
+  - qty: 1
+    name: Half Deck Plate, Studs
+    color: light gray
+  - qty: 1
+    name: Monorail Switch
+    color: gray
+  - qty: 1
+    name: Monorail Crossing
+    color: gray
 ---
 Expand Your Monorail System!
 
