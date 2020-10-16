@@ -11,7 +11,7 @@ priceHistory:
     price: 99.99
 skus:
   - "08240"
-categories: 
+categories:
   - Vehicle (Rok Star)
 video: ""
 plans:
@@ -22,6 +22,102 @@ thumb: /img/sets/08240_skip_track_silo.jpg
 images:
   - /img/sets/08240_skip_track_silo_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 19
+    name: Single Block/Cube
+    color: gray
+  - qty: 5
+    name: Single Block/Cube
+    color: riser
+  - qty: 2
+    name: Riser
+    color: light gray
+  - qty: 2
+    name: Half Beam
+    color: gray
+  - qty: 1
+    name: Girder
+    color: green
+  - qty: 13
+    name: Full Beam
+    color: red
+  - qty: 6
+    name: Half Beam
+    color: red
+  - qty: 9
+    name: Small Curved Beam
+    color: red
+  - qty: 1
+    name: Worker/Figure
+    color: white/yellow
+
+  - qty: 3
+    name: 60 Degree Block
+    color: gray
+  - qty: 4
+    name: Snap-on Wheel
+    color: red
+  - qty: 1
+    name: Flag
+    color: Rokenbok v3
+  - qty: 2
+    name: Single Snap Block
+    color: gray
+  - qty: 8
+    name: Roof Slat
+    color: Gray
+  - qty: 6
+    name: Catwalk
+    color: gray
+  - qty: 1
+    name: 3 Way Brace
+    color: gray
+  - qty: 4
+    name: 2x3 ROK Block
+    color: gray
+  - qty: 1
+    name: Recycling Center Small Scoop
+    color: gray
+  - qty: 1
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 24
+    name: Curved Window
+    color: gray
+
+  - qty: 10
+    name: 19mm Blue ROK
+    color: blue
+  - qty: 10
+    name: 16mm Red ROK
+    color: red
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 1
+    name: Hinge Block
+    color: red
+  - qty: 1
+    name: RC Skip Track
+    color: white
+    desc: ROK Star
+  - qty: 2
+    name: Bin
+    color: red
+  - qty: 2
+    name: Bin
+    color: blue
+  - qty: 2
+    name: Bin Rack
+    color: red
+  - qty: 2
+    name: Bin Rack
+    color: blue
+
+
+
+
 ---
 Quick Facts:
   - High reach bucket to get your payload up high!

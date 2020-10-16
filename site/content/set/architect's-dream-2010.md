@@ -212,7 +212,7 @@ parts:
   - qty: 2
     name: Door
     color: blue
-  - qty: 8 
+  - qty: 8
     name: Swinging Door (??)
     color: green
   - qty: 1
