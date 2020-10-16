@@ -42,7 +42,7 @@ parts:
     name: Rokenbok Tool
     color: metal
   - qty: 2
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 8
     name: Straight Chute

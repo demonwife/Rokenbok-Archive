@@ -39,7 +39,7 @@ parts:
     name: Box/Bin Rack
     color: red
   - qty: 1
-    name: Bin (??)
+    name: Bin
     color: green
 
   - qty: 2

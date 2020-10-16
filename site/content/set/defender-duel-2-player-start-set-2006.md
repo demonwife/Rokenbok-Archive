@@ -167,7 +167,7 @@ parts:
     color: white
     desc: 1/4 with Control Pad 
   - qty: 1
-    name: Control pad
+    name: Control Pad
     color: white
 
 

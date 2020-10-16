@@ -69,7 +69,7 @@ parts:
     color: red
 
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 2
     name: Straight Chute

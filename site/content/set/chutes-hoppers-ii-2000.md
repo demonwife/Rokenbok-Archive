@@ -44,7 +44,7 @@ parts:
     name: Straight Chute
     color: yellow
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Sorting Chute

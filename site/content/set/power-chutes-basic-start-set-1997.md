@@ -65,7 +65,7 @@ parts:
     color: red
 
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Rokenbok Tool
@@ -111,7 +111,7 @@ parts:
     name: Power Supply - North America
     color: black
   - qty: 1
-    name: Control pad
+    name: Control Pad
     color: white
   - qty: 1
     name: Command Deck

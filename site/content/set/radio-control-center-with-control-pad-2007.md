@@ -29,8 +29,9 @@ parts:
     name: Radio Key
     color: white
   - qty: 1
-    name: Command Deck v3
+    name: Command Deck
     color: white
+    desc: v3
   - qty: 1
     name: Control Pad
     color: white

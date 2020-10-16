@@ -48,7 +48,7 @@ parts:
     name: Full Beam
     color: gray
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
 
   - qty: 1
@@ -167,7 +167,7 @@ parts:
     color: white
     desc: v2
   - qty: 1
-    name: Control pad
+    name: Control Pad
     color: white
   - qty: 8
     name: Radio Key

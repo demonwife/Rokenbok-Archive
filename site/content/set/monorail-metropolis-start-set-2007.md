@@ -125,7 +125,7 @@ parts:
     name: Single Snap Block
     color: black
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Billboard Frame Back
@@ -194,7 +194,7 @@ parts:
     color: white
     desc: 1/4 no controller
   - qty: 1
-    name: Control pad
+    name: Control Pad
     color: white
   - qty: 8
     name: Radio Key

@@ -66,7 +66,7 @@ parts:
     color: light gray
     desc: squares
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Sorting Chute

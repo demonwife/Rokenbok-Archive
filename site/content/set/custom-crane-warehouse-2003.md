@@ -76,19 +76,19 @@ parts:
     name: Box/Bin Rack
     color: red
   - qty: 2
-    name: Bin (??)
+    name: Bin
     color: red
   - qty: 2
     name: Box/Bin Rack
     color: blue
   - qty: 2
-    name: Bin (??)
+    name: Bin
     color: blue
   - qty: 2
     name: Box/Bin Rack
     color: green
   - qty: 2
-    name: Bin (??)
+    name: Bin
     color: green
 
   - qty: 3

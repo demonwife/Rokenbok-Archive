@@ -114,7 +114,7 @@ parts:
     name: Full Beam
     color: blue
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 9
     name: Corner Chute (Right)

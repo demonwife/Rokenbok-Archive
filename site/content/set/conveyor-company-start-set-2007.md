@@ -146,13 +146,13 @@ parts:
     color: white
     desc: v1
   - qty: 1
-    name: Control pad
+    name: Control Pad
     color: white
   - qty: 8
     name: Radio Key
     color: white
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Billboard Frame Back

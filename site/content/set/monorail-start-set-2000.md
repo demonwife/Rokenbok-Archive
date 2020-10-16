@@ -170,7 +170,7 @@ parts:
     color: white
     desc: v1
   - qty: 1
-    name: Control pad
+    name: Control Pad
     color: white
   - qty: 1
     name: Quarry (??)

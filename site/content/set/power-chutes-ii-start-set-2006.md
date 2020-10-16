@@ -77,7 +77,7 @@ parts:
     name: 19mm Blue ROK
     color: blue
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Worker/Figure
@@ -95,8 +95,9 @@ parts:
     name: Control Pad
     color: white
   - qty: 1
-    name: Command Deck v3 (??)
+    name: Command Deck
     color: white
+    desc: v3
   - qty: 8
     name: Radio Key
     color: yellow

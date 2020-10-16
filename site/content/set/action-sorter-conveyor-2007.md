@@ -63,7 +63,7 @@ parts:
     name: Straight Chute
     color: yellow
   - qty: 1
-    name: Inside Chute
+    name: Inside Curved Chute
     color: yellow
 
   - qty: 1

@@ -1,7 +1,7 @@
 ---
 title: Girder/Brace
 
-otherNames:
+othernames:
   - Girder
   - Brace
 

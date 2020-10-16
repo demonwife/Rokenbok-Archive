@@ -90,7 +90,7 @@ parts:
     name: Corner Chute (Left)
     color: yellow
   - qty: 2
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 11
     name: Inside Curved Chute

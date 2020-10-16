@@ -63,10 +63,10 @@ parts:
     name: Corbel
     color: red
   - qty: 2
-    name: Hinge
+    name: Hinge Block
     color: red
   - qty: 1
-    name: Hook
+    name: Crane Hook
     color: red
   - qty: 22
     name: Single Block/Cube

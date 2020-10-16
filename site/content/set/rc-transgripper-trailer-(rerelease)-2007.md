@@ -39,10 +39,10 @@ parts:
     color: orange
 
   - qty: 1
-    name: Bin (??)
+    name: Bin
     color: red
   - qty: 1
-    name: Bin (??)
+    name: Bin
     color: blue
   - qty: 1
     name: Barrel Holder (??)

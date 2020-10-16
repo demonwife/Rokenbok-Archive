@@ -61,10 +61,10 @@ parts:
     color: light gray
 
   - qty: 2
-    name: Bin (??)
+    name: Bin
     color: red
   - qty: 2
-    name: Bin (??)
+    name: Bin
     color: blue
 
   - qty: 43

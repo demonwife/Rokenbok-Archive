@@ -72,10 +72,10 @@ parts:
     color: dark blue
 
   - qty: 3
-    name: Bin (??)
+    name: Bin
     color: red
   - qty: 3
-    name: Bin (??)
+    name: Bin
     color: blue
   - qty: 2
     name: Barrel Holder (??)

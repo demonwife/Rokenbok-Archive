@@ -94,7 +94,7 @@ parts:
     name: Inside Curved Chute
     color: yellow
   - qty: 1
-    name: Chute Start (??)
+    name: Chute Hopper
     color: yellow
   - qty: 1
     name: Sorting Chute
@@ -135,10 +135,10 @@ parts:
     desc: squares
 
   - qty: 1
-    name: Bin (??)
+    name: Bin
     color: red
   - qty: 1
-    name: Bin (??)
+    name: Bin
     color: blue
   - qty: 1
     name: Water Tower
