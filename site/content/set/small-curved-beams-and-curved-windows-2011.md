@@ -11,7 +11,7 @@ priceHistory:
     price: 19.99
 skus:
   - "04841"
-categories: 
+categories:
   - Building Basics
 video: ""
 plans:
@@ -20,6 +20,14 @@ thumb: /img/sets/04841_curved_windows_and_beams.jpg
 images:
   -  /img/sets/04841_curved_windows_and_beams_parts.jpg
 cmseditable: true
+parts:
+  - qty: 12
+    name: Small Curved Beam
+    color: red
+  - qty: 12
+    name: Curved Window
+    color: gray
+
 ---
 Quick Facts:
  - Windows Feature locking tabs which keep them secured in place.
