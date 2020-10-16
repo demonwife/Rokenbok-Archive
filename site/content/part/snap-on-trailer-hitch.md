@@ -1,5 +1,5 @@
 ---
-title: Snap-on Hitch
+title: Snap-on Trailer Hitch
 
 description: ""
 cadfiles:
