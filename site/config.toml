@@ -13,3 +13,5 @@ disableKinds = ["RSS"]
   year = "year"
   sku = "skus"
 
+[params]
+  discordInvite = "https://discord.gg/5Wx9MT7"

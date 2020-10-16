@@ -2,81 +2,26 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Title "subtitle" .Params.subtitle) }}
 
-{{$scratch := newScratch}}
+<div class="container">
 
-{{ range (where $.Site.RegularPages "Section" "set") }}
+  <h1>Browse Rokenbok</h1>
 
-  {{$set := .Params.title}}
-  
-  {{ range .Params.parts }}
-
-    {{$name := .name}}
-
-    {{$part := $scratch.Get $name}}
-    {{if not $part}}
-      <!-- create -->
-      {{$part := slice}}
-    {{end}}
-    <!-- append --> 
-    {{ $scratch.Set $name ($part | append (dict "set" $set "qty" .qty "color" .color "desc" .desc)) }}
-
-  {{ end }}
-
-{{ end }}
-
-
-<div class="bg-off-white pt4">
-  <div class="ph3 mw7 center">
-
-    <div class="flex-ns mhn2-ns mb3">
-
-      {{ range (where .Site.Data.nav "type" "primary") }}
-
-      <div class="ph1-ns w-50-ns flex">
-        <a href="/{{.route}}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100 tc">
-          <h2 class="f3 b lh-title mb1 primary">{{.name}} &#8250;</h2>
-          <p class="lh-title mb2" style="color: #A9A9A9">{{ len (where $.Site.RegularPages "Section" "==" .route) }} items</p>
-          <!-- <p class="mb0"></p> -->
-          <p class="link b dib black mb0">More →</p>
-        </a>
-      </div>
-
-      {{ end }}
-
-      <div class="ph1-ns w-50-ns flex">
-        <a href="/part" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100 tc">
-          <h2 class="f3 b lh-title mb1 primary">Parts &#8250;</h2>
-          <p class="lh-title mb2" style="color: #A9A9A9">{{ len $scratch.Values }} items</p>
-          <!-- <p class="mb0"></p> -->
-          <p class="link b dib black mb0">More →</p>
-        </a>
-      </div>
-
-
+  <div class="row mt-3">
+    {{ range (where .Site.Data.nav "type" "primary") }}
+    <div class="col">
+      <a href="/{{.route}}" class="card">
+        <div class="card-body" style="text-align: center;">
+          <h2 class="card-title">{{.name}} &#8250;</h2>
+          <h5 class="card-subtitle mb-2 text-muted">
+            {{ len (where $.Site.RegularPages "Section" "==" .route) }} items
+          </h5>
+        </div>
+      </a>
     </div>
-
+    {{ end }}
   </div>
 </div>
 
-<!-- PAGES
-<ul>
-{{range $.Site.RegularPages }}
-  <li>{{.}}</li>
-{{end}}
-</ul> -->
-
-<!-- {{ range .Data.Pages }}
-  <div class="ph1-ns w-50-ns flex">
-    <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-      <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-      <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p class="mb0">{{ .Description }}</p>
-      <p class="link b dib black mb0">Read more →</p>
-    </a>
-  </div>
-{{ end }} -->
-
-
-{{ partial "blog" . }}
+{{ partial "project-preview" . }}
 
 {{ end }}

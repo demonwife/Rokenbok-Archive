@@ -1,18 +1,16 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
-
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none" style="text-decoration: none;font-weight: bolder">
-		<!-- <img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/> -->
-		RokLink
-	</a>
-
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-
-	{{ range .Site.Data.nav }}
-		<li><a href="/{{.route}}" class="pa3 no-underline db">{{.name}}</a></li>
-	{{ end }}
-
-	</ul>
-
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+  <a class="navbar-brand" href="#">RokLink</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      {{ range .Site.Data.nav }}
+        <li class="nav-item active">
+          <a class="nav-link" href="/{{.route}}">{{.name}}</a>
+        </li>
+        <!-- <li><a href="/{{.route}}" class="pa3 no-underline db">{{.name}}</a></li> -->
+      {{ end }}
+    </ul>
+  </div>
 </nav>

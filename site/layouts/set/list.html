@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+	{{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
+
+	<div class="container">
+		<div class="row">
+			{{ range .Pages.ByParam "year" }}
+				{{ .Render "li" }}
+			{{ end }}
+		</div>
+	</div>
+{{end}}

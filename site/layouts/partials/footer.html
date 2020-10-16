@@ -1,56 +1,51 @@
-<footer class="bg-black ph3 pv4 white">
-
-	<div class="mw7 center pt3">
-
-		<div class="measure-narrow center mb4">
-
-			<p class="f3 lh-title light-gray b tc mb2">RokLink - Rokenbok Set Database</p>
-			<p class="tc">Open Source Rokenbok Archive<br>
-				<a href="https://github.com/TechplexEngineer/Rokenbok-Archive">Contribute on GitHub</a>
-			</p>
-
-		</div>
-
-		<div class="mw6 center flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Site</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
+<footer class="footer mt-auto py-3 bg-dark text-light">
+	<div class="container text-center">
+		<h3>RokLink - Rokenbok Set Database</h3>
+		<h4 class="text-muted">Open Source Rokenbok Archive</h4>
+		<a href="https://github.com/TechplexEngineer/Rokenbok-Archive" class="text-muted">Contribute on GitHub</a>
+	</div>
+	<div class="container mt-4">
+		<div class="row">
+			<div class="col">
+				<!-- <h5>Site</h5> -->
+				<ul>
+					<li><a href="/">Home</a></li>
 					{{ range .Site.Data.nav }}
-						<li><a href="/{{.route}}" class="link">{{.name}}</a></li>
+						<li><a href="/{{.route}}">{{.name}}</a></li>
 					{{ end }}
-					<li><a href="/admin/" class="link f6" style="color: #555;">Admin Login</a></li>
+					<li><a href="/admin/">Admin Login</a></li>
 				</ul>
 			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Search By</h3>
-				<ul class="mb3">
-					<!-- {{ printf "%#v" .Site.Taxonomies }} -->
+			<div class="col">
+				<!-- <h5>Sets by</h5> -->
+				<ul>
 					{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
 						<li>
-							<a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}" class="link">{{ humanize $taxonomyname }}</a>
+							<a href="/{{ $taxonomyname | urlize }}">{{ humanize $taxonomyname }}</a>
 						</li>
 					{{ end }}
 				</ul>
 			</div>
+			<!-- <div class="col">
+				<h5>Parts by</h5>
+			</div> -->
+			<div class="col">
+				<!-- <h5>Connect</h5> -->
 
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Connect</h3>
-				<ul>
-					<li class="dib ph2 raise">
-						<a href="https://discord.gg/5Wx9MT7" class="link bg-white black db relative br1 pa2">
-							Join us on <img src="/img/icons-discord.svg">
-						</a>
-					</li>
-					<li><br>Proudly powered by <a href="https://gohugo.io/" target="__BLANK">Hugo</a></li>
-				</ul>
+				<div>
+					<a
+						class="badge badge-light d-inline py-2"
+						href='{{ .Param "discordInvite" }}'
+						style="white-space: nowrap;">
+						Join us on
+						<img src="/img/icons-discord.svg" style="max-width: 100px">
+					</a>
+
+				</div>
+				<div class="pt-3">
+					Proudly powered by <a href="https://gohugo.io/" target="__BLANK">Hugo</a>
+				</div>
 			</div>
-
 		</div>
 	</div>
-
 </footer>
-
-<script src="/app.js"></script>

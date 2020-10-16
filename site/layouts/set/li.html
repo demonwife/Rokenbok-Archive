@@ -1,0 +1,32 @@
+<div class="col-md-6 mb-4">
+
+	<div class="card h-100">
+		<div class="card-body d-flex flex-column">
+			<h4 class="card-title">{{ .Title }}</h4>
+			<h5 class="card-subtitle mb-2 text-muted row">
+				<span class="col" style="white-space: nowrap;">
+					<span title="Set release year">{{ .Params.year }}</span>
+					&mdash;
+					<span title="Set Category">{{delimit .Params.categories ", "}}</span>
+					&mdash;
+					{{ $partCount := 0 }}
+
+					{{ range .Params.parts }}
+						{{ $partCount = (add $partCount (int .qty)) }}
+					{{ end }}
+
+					<span title="Part Count">{{ $partCount }}</span>
+				</span>
+				<span class="col text-right">{{ delimit .Params.skus ", " }}</span>
+			</h5>
+			<div class="card-text d-inline mb-2">
+				<div class="crop float-left mr-3">
+					<img src="{{ .Params.thumb }}" alt="{{ .Title }}" style="max-width: 200px">
+				</div>
+				{{ .Description }}
+			</div>
+			<a href="{{ .RelPermalink }}" class="stretched-link mt-auto ml-auto btn btn-primary float-right">Read more →</a>
+		</div>
+	</div>
+
+</div>

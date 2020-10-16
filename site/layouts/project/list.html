@@ -2,15 +2,15 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 150).Pages.ByParam "year" }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li" }}
-          </div>
-      {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
+<div class="container">
+	<div class="row">
+		{{ range (.Paginator 150).Pages.ByParam "year" }}
+			<div class="col">
+				{{ .Render "li" }}
+			</div>
+		{{ end }}
+	</div>
+	{{ partial "pagination" . }}
 </div>
 
 {{end}}

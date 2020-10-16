@@ -1,92 +1,91 @@
 {{ define "main" }}
+  <div class="container">
+    <h1>{{.Title}}</h1>
+    {{ partial "contribute" . }}
 
+    <div class="row">
 
-
-  <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between grey-3">
-      <div>
-        <a href="{{.Site.Data.constants.repoUrl}}/edit/master/site/content/{{.File | urlize}}" target="__BLANK">Edit on Github</a>
+      <div class="col">
+        {{ if .Params.thumb }}
+          <img
+            src="{{ .Params.thumb }}"
+            alt="{{ $.Title }}"
+            class="float-left"
+            style="max-width: 200px; margin-right: .5rem;" />
+        {{ end }}
+        <p>{{ .Description }}</p>
       </div>
-      <div>
-        <a href="{{.Site.Data.constants.repoUrl}}/issues/new?title={{(replace (print "suggestion for " .File) " " "+")}}" target="__BLANK">Report Issue / Suggest Change</a>
+
+      <div class="col">
+        <h4>3D Models</h4>
+        <ul>
+          {{range .Params.cadfiles}}
+          <li>
+            <a href="{{.link}}" target="__BLANK">{{.name}}</a> by {{.creator}}
+          </li>
+          {{end}}
+        </ul>
       </div>
     </div>
-    <div class="cms mw6">
 
-      {{ if .Params.thumb }}
-        <img src="{{ .Params.thumb }}" alt="{{ $.Title }}" class="fl mr2" style="max-width: 200px;margin-right: .5rem;" />
-      {{ end }}
-      <p>{{ .Description }}</p>
+    <div class="row">
+      <div class="col">
 
-      <!-- If the description is too short, make sure the next bits start after the image -->
-      <div class="cf"></div>
+        <h4>Sets with this Part</h4>
+        <!-- for each set
+          for each part
+            if part.name matches any of this part names -->
+        {{ $myNames := slice ( .Title ) }}
+        {{ if isset .Params "othernames" }}
+          {{ $myNames = ( $myNames | append .Params.otherNames ) }}
+        {{ end }}
 
+        <table class="datatable table table-striped table-bordered">
+          <thead>
+            <tr>
+              <th>Set</th>
+              <th>Qty</th>
+              <th>Color</th>
+              <th>Desc</th>
+            </tr>
+          </thead>
+          <tbody>
 
-      <h4 class="f4">3D Models</h4>
-      <ul>
-        {{range .Params.cadfiles}}
-        <li>
-          <a href="{{.link}}" target="__BLANK">{{.name}}</a> by {{.creator}}
-        </li>
-        {{end}}
-      </ul>
+            {{ range (where $.Site.RegularPages "Section" "set") }}
 
-      <h4 class="f4">Sets with this Part</h4>
-      <!-- for each set
-        for each part
-          if part.name matches any of this part names -->
-      {{ $myNames := slice ( .Title ) }}
-      {{ if isset .Params "otherNames" }}
-        {{ $myNames = ( $myNames | append .Params.otherNames ) }}
-      {{ end }}
+              {{$set := .Params.title}}
 
-      <table class="datatable">
-        <thead>
-          <tr>
-            <th>Set</th>
-            <th>Qty</th>
-            <th>Color</th>
-            <th>Desc</th>
-          </tr>
-        </thead>
-        <tbody>
-          
-          {{ range (where $.Site.RegularPages "Section" "set") }}
+              {{ range .Params.parts }}
+                <!-- name of the part -->
+                {{ $name := .name }}
 
-            {{$set := .Params.title}}
+                {{ if in $myNames $name }}
+                <tr>
+                  <td>
+                    {{$page := index (where $.Site.RegularPages ".Title" "eq" $set) 0 }}
+                    <a href="{{$page.RelPermalink}}">{{ $set }}</a>
+                  </td>
+                  <td>{{ .qty }}</td>
+                  <td>{{ .color }}</td>
+                  <td>{{ .desc }}</td>
+                </tr>
+                {{ end }}
 
-            {{ range .Params.parts }}
-              <!-- name of the part -->
-              {{ $name := .name }}
-
-              {{ if in $myNames $name }}
-              <tr>
-                <td>{{ $set }}</td>
-                <td>{{ .qty }}</td>
-                <td>{{ .color }}</td>
-                <td>{{ .desc }}</td>
-              </tr>
               {{ end }}
 
             {{ end }}
+          </tbody>
+        </table>
 
-          {{ end }}
-        </tbody>
-      </table>
+        {{ partial "images" .}}
 
-      <h4 class="f4">All Images ({{ len (union (slice .Params.thumb) .Params.images) }})</h4>
-      <ul>
-        {{range union (slice .Params.thumb) .Params.images }}
-        <li>
-          <a href="{{.}}" target="__BLANK" title="Click to see largest version">
-            <img src="{{.}}">
-          </a>
-        </li>
-        {{end}}
-      </ul>
+        {{ .Content }}
 
-      {{ .Content }}
+      </div>
     </div>
+
+
   </div>
+
+
 {{ end }}

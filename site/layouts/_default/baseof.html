@@ -1,17 +1,22 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
+<html lang="{{ $.Site.Language.Lang }}" class="h-100">
   {{ partial "head" . }}
-  <body class="sans-serif">
+  <body class="d-flex flex-column h-100">
+    <!-- Begin page content -->
+
+  <body class="d-flex flex-column h-100">
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
+    <main role="main" class="flex-shrink-0">
     {{ block "main" . }}{{ end }}
+    </main>
 
     {{ block "footer" . }}{{ partialCached "footer" . }}{{end}}
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
+    <!-- { $script := .Site.Data.webpack.main }}
+    { with $script.js }}
+      <script src="{ relURL . }}"></script>
+    { end }} -->
   </body>
 </html>

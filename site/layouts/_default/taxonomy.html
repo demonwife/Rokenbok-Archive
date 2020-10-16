@@ -1,5 +1,18 @@
 {{ define "main" }}
 
+  {{ $title := print (.Data.Singular | humanize) ": " .Title }}
+
+  {{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" $title "subtitle" .Params.subtitle ) }}
+
+  <div class="container">
+    <h1></h1>
+    <div class="row">
+      {{ range .Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </div>
+  </div>
+{{/*
   <article class="mw7 center">
     <div class="measure-wide-l f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
       <p>{{ .Data.Singular | humanize }}: {{ .Title }}</p>
@@ -24,4 +37,5 @@
       {{ end }}
     </section>
   </div>
+*/}}
 {{ end }}

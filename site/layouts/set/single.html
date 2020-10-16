@@ -1,7 +1,147 @@
 {{ define "main" }}
 
+{{ $partCount := 0 }}
+
+{{ range .Params.parts }}
+  {{if not (isset . "nocount") }}
+    {{ $partCount = (add $partCount (int .qty)) }}
+  {{end}}
+{{ end }}
+
+{{ $uniquePartCount := 0 }}
+{{ if isset .Params "parts" }}
+  {{ $uniquePartCount = len .Params.parts }}
+{{ end }}
+
+  <div class="container">
+    <h1>{{.Title}}</h1>
+    <div class="row">
+      <div class="col">
+        <a href="/year/{{ .Params.year }}" title="See other sets released in this year">{{ .Params.year }}</a>
+        &mdash;
+        {{range .Params.categories}}
+          <a href="/categories/{{.|urlize}}" title="See other sets in this category">{{.}}</a>
+        {{end}}
+        &mdash;
+
+        <span title="Part Count">{{ $partCount }}</span>
+      </div>
+      <div class="col text-right">
+        {{range .Params.skus}}
+          <a href="/skus/{{.|urlize}}" title="See other sets with this SKU">{{.}}</a>
+        {{end}}
+      </div>
+    </div>
+    {{ partial "contribute" . }}
+
+    <!-- If the description is too short, make sure the next bits start after the image -->
+    <div class="clearfix">
+      {{ if .Params.thumb }}
+        <img
+          src="{{ .Params.thumb }}"
+          alt="{{ $.Title }}"
+          class="float-left"
+          style="max-width: 200px; margin-right: .5rem;" />
+      {{ end }}
+      <p>{{ .Description }}</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col">
+        <h4>Archive Links</h4>
+        <ul>
+          {{range .Params.archiveLinks}}
+          <li>
+            <a href="{{.link}}">{{.name}}</a>
+          </li>
+          {{end}}
+        </ul>
+      </div>
+
+      <div class="col">
+        <h4 class="f4">Price History</h4>
+        <ul>
+          {{range .Params.priceHistory}}
+          <li>{{.date}} - ${{.price}}</li>
+          {{end}}
+        </ul>
+      </div>
+
+      <div class="col">
+        <h4>Plans</h4>
+        <ul>
+          {{range .Params.plans}}
+          <li>
+            <a href="{{.link}}" target="__BLANK">{{.name}}</a>
+          </li>
+          {{end}}
+        </ul>
+      </div>
+
+    </div>
+
+    {{ partial "images" .}}
+
+
+    {{ if and (isset .Params "video") (gt (len .Params.video) 1) }}
+    <h4 >Video</h4> {{.Params.video}}
+    {{ end }}
+
+    {{if isset .Params "videoEmbeds"}}
+    <h4 class="f4">Videos
+        ({{ len .Params.videoEmbeds }})
+    </h4>
+    {{end}}
+    {{range .Params.videoEmbeds}}
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {{end}}
+
+
+    <h4>Part List
+      <small> ({{ $partCount }} parts, with {{ $uniquePartCount }} unique parts) </small></h4>
+    <table class="datatable table table-striped table-bordered">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Qty</th>
+          <th>Color</th>
+          <th>Description</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+
+        {{ range .Params.parts }}
+        <tr>
+          <td>
+            <a href="/part/{{ .name | urlize }}" title="See other sets with this part">{{.name}}</a>
+          </td>
+          <td>{{.qty}}</td>
+          <td>{{.color}}</td>
+          <td>{{.desc}}</td>
+          <td>
+            {{if isset . "nocount"}}
+            <span title="This part is part of an assembly an is not included in the part count.">Not Counted</span>
+            {{end}}
+          </td>
+        </tr>
+        {{ end }}
+
+      </tbody>
+    </table>
+    <br>
+    <h4 class="f3">Description</h4>
+
+    {{ .Content }}
+
+  </div>
+
+
+
+{{/*
   <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <h1 class="f2 lh-title b mb3"></h1>
     <div class="flex justify-between grey-3">
       <p>
         <a href="/year/{{ .Params.year }}" title="See other sets released in this year">{{ .Params.year }}</a>
@@ -133,4 +273,5 @@
       {{ .Content }}
     </div>
   </div>
+*/}}
 {{ end }}

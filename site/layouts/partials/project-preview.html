@@ -1,0 +1,10 @@
+<div class="container my-5">
+	<h2>Latest Projects</h2>
+	<div class="row">
+		{{ range first 4 (where .Site.RegularPages "Section" "project") }}
+			<div class="col">
+				{{ .Render "li" }}
+			</div>
+		{{ end }}
+	</div>
+</div>

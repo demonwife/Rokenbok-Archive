@@ -1,43 +1,47 @@
 {{ define "main" }}
 
-<div class="ph3 bg-off-white">
-	<div class="center mw7 pv3">
+{{ partial "jumbotron" (dict "imageUrl" .Site.Data.constants.jumbotronImg "title" .Params.title "subtitle" .Params.subtitle ) }}
 
-		<h2 class="f2 primary">{{ .Title }}</h2>
-
-		{{ .Content }}
-
-		<div class="flex mb3">
-	        {{ range .Params.tiles }}
-				<div class="w-50">
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					{{ if (isset . "text") }}
-					    {{ .text }}
-					{{ end }}
-
-					{{ if (isset . "items") }}
-					<ul>
-						{{ range .items }}
-							<li>{{ . }}</li>
-						{{ end }}
-					</ul>
-					{{ end }}
-
-					{{ if (isset . "links") }}
-					<ul>
-						{{ range .links }}
-							<li>
-								<a href="{{.url}}" target="_BLANK">{{.name}}</a>
-							</li>
-						{{ end }}
-					</ul>
-					{{ end }}
-
-				</div>
-			{{ end }}
+<div class="container">
+	<div class="row">
+		<div class="col">
+			{{ .Content }}
 		</div>
+	</div>
+	<div class="row">
+		{{ range .Params.tiles }}
+			<div class="col">
+				<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+				{{ if (isset . "text") }}
+				    {{ .text }}
+				{{ end }}
 
+				{{ if (isset . "items") }}
+				<ul>
+					{{ range .items }}
+						<li>{{ . }}</li>
+					{{ end }}
+				</ul>
+				{{ end }}
+
+				{{ if (isset . "links") }}
+				<ul>
+					{{ range .links }}
+						<li>
+							<a href="{{.url}}" target="_BLANK">{{.name}}</a>
+						</li>
+					{{ end }}
+				</ul>
+				{{ end }}
+
+			</div>
+		{{ end }}
+		<div class="col"></div>
 	</div>
 </div>
+
+
+
+
 
 {{ end }}
