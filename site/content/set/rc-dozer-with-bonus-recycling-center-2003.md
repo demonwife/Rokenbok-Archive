@@ -33,10 +33,10 @@ parts:
     color: gray
   - qty: 1
     name: Billboard Frame Back
-    color: gray
+    color: orange
   - qty: 1
     name: Billboard Frame Front
-    color: gray
+    color: orange
 
   - qty: 2
     name: 2 Way Brace
