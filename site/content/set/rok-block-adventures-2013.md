@@ -26,6 +26,71 @@ thumb: /img/sets/35010_rok_blocks_adventures.png
 images:
   -  /img/sets/35010_rok_blocks_adventures_parts.png
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: Arched Window
+    color: blue
+  - qty: 2
+    name: Bin
+    color: Green
+  - qty: 4
+    name: Full Beam
+    color: gray
+  - qty: 4
+    name: Half Beam
+    color: gray
+  - qty: 2
+    name: Worker/Figure
+    color: blue/yellow
+  - qty: 2
+    name: Worker/Figure
+    color: blue/teal
+
+  - qty: 2
+    name: Bin Holder
+    color: red
+  - qty: 16
+    name: Corbel
+    color: red
+  - qty: 8
+    name: Cube
+    color: red
+  - qty: 8
+    name: Single Snap Block
+    color: gray
+  - qty: 8
+    name: Riser
+    color: light gray
+  - qty: 20
+    name: Snap-on Wheel
+    color: red
+
+  - qty: 4
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 28
+    name: 2x2 ROK Block
+    color: blue
+  - qty: 16
+    name: 2x3 ROK Block
+    color: green
+  - qty: 8
+    name: Axle Block
+    color: red
+
+  - qty: 36
+    name: Wedge ROK Block
+    color: red
+  - qty: 22
+    name: 2x4 ROK Block
+    color: yellow
+  - qty: 10
+    name: Hinge Block
+    color: red
+
+
+
 ---
 ## Quick Facts:
   - Students will develop confidence, curiosity, attentiveness and persistence.
