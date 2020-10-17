@@ -25,6 +25,12 @@ thumb: /img/sets/30717_night_shift_trailer.jpg
 images:
   - /img/sets/night_shift_trailer.jpg
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Night Shift Trailer
+    color: yellow
+
 ---
 Add a little night life to your construction site!
 
