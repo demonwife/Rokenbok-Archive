@@ -26,6 +26,67 @@ images:
   - /img/sets/04858_rok_blocks_robot_1.jpg
   - /img/sets/04858_rok_blocks_robot_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 6
+    name: Snap-on Wheel
+    color: red
+  - qty: 2
+    name: Hinge Block
+    color: red
+  - qty: 4
+    name: Single Snap Block
+    color: gray
+  - qty: 4
+    name: Cube
+    color: red
+
+  - qty: 1
+    name: Axle Block
+    color: red
+  - qty: 6
+    name: Riser
+    color: light gray
+  - qty: 3
+    name: 2 Way Brace
+    color: red
+  - qty: 4
+    name: Corbel
+    color: red
+  - qty: 6
+    name: Corbel
+    color: Purple
+
+  - qty: 2
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 16
+    name: 2x2 ROK Block
+    color: blue
+
+  - qty: 4
+    name: 2x4 ROK Block
+    color: yellow
+  - qty: 10
+    name: 2x3 ROK Block
+    color: green
+  - qty: 9
+    name: Wedge ROK Block
+    color: red
+
+  - qty: 1
+    name: Worker/Figure
+    color: yellow
+  - qty: 1
+    name: Worker/Figure
+    color: blue/teal
+  - qty: 2
+    name: Arched Roof
+    color: blue
+  - qty: 1
+    name: Bin Rack
+    color: red
+
 ---
 ROKBot Robot Ready For Action!
 
