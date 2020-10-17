@@ -20,7 +20,68 @@ plans:
 
 thumb: /img/sets/04868_rok_block_trucks.png
 images:
+  - /img/sets/04856_rok_blocks_trucks_parts.jpg
 cmseditable: true
+
+parts:
+  - qty: 4
+    name: 2x3 ROK Block
+    color: green
+  - qty: 11
+    name: 2x4 ROK Block
+    color: yellow
+  - qty: 9
+    name: 2x2 ROK Block
+    color: blue
+  - qty: 3
+    name: Wedge ROK Block
+    color: red
+  - qty: 10
+    name: Single Snap Block
+    color: gray
+  - qty: 5
+    name: Cube
+    color: red
+  - qty: 6
+    name: Hinge Block
+    color: red
+
+  - qty: 17
+    name: Snap-on Wheel
+    color: red
+  - qty: 2
+    name: Riser
+    color: light gray
+  - qty: 1
+    name: Bin Rack
+    color: red
+  - qty: 2
+    name: Roadway Entry
+    color: black
+  - qty: 8
+    name: Corbel
+    color: red
+  - qty: 1
+    name: Axle Block
+    color: red
+
+  - qty: 1
+    name: Worker/Figure
+    color: blue/yellow
+  - qty: 2
+    name: Full Beam
+    color: gray
+  - qty: 1
+    name: Arched Roof
+    color: blue
+  - qty: 2
+    name: Snap-on Trailer Hitch
+    color: red
+  - qty: 1
+    name: Bin
+    color: Green
+
+
 ---
 Quick Facts:
   - Includes over 75 building pieces
