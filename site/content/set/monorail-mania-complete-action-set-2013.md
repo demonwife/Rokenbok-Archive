@@ -29,6 +29,100 @@ images:
   -  /img/sets/06191_monorail_mania_parts.jpg
   -  /img/sets/08700_rok_star_controller_parts.png
 cmseditable: true
+
+parts:
+  - qty: 1
+    name: Signal Light
+    color: gray
+  - qty: 14
+    name: Riser
+    color: light gray
+  - qty: 9
+    name: Full Beam
+    color: light gray
+  - qty: 2
+    name: 2 Way Brace
+    color: red
+  - qty: 1
+    name: Deck Plate, Studs
+    color: gray
+  - qty: 1
+    name: ROK Star Controller
+    color: yellow
+
+  - qty: 8
+    name: 16mm Blue ROK
+    color: blue
+  - qty: 8
+    name: 16mm Red ROK
+    color: red
+  - qty: 20
+    name: Cube
+    color: blue
+  - qty: 2
+    name: Cube
+    color: red
+  - qty: 2
+    name: Single Snap Block
+    color: gray
+  - qty: 1
+    name: Girder
+    color: red
+  - qty: 1
+    name: Clip On Sorter (??)
+    color: dark green
+  - qty: 2
+    name: Sorted Ball Chute (??)
+    color: dark green
+  - qty: 1
+    name: Rokenbok Tool
+    color: metal
+  - qty: 2
+    name: Corbel
+    color: red
+  - qty: 1
+    name: Motorized Conveyor
+    color: yellow/red
+
+  - qty: 4
+    name: Large Curved Beam
+    color: black
+  - qty: 1
+    name: Dump Bin
+    color: red
+  - qty: 1
+    name: Dump Bin
+    color: blue
+  - qty: 1
+    name: Crossing Base
+    color: gray
+
+  - qty: 2
+    name: Half Beam 
+    color: black
+  - qty: 4
+    name: Half Beam
+    color: gray
+
+  - qty: 7
+    name: Full Beam
+    color: black
+  - qty: 1
+    name: I Beam
+    color: green
+  - qty: 1
+    name: Ramp
+    color: gray
+  - qty: 1
+    name: Worker/Figure
+    color: white
+
+  - qty: 1
+    name: RC Monorail Freighter
+    color: blue
+    desc: ROK Star
+
+
 ---
 Monorail Mania Complete Action Set Launch your Rokenbok world with the exciting, futuristic Monorail Mania Complete Action Set!
 
