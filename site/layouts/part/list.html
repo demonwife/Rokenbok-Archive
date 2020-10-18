@@ -65,7 +65,7 @@
   <div class="container">
     <div class="row">
       {{ range .Pages.ByParam "year" }}
-      <div class="col-md-6 mb-4">
+      <div class="col-md-3 mb-4">
 
         <div class="card h-100">
           <div class="card-body d-flex flex-column">
@@ -88,10 +88,11 @@
               <span class="col text-right">
                 {{with .Params.cadfiles}}
                   {{if gt (len .) 0}}
-                  3D Model Available
+                  <span title="3D Model Available">3D</span>
                   {{end}}
                 {{else}}
-                  3D Model Missing
+                  <span title="3D Model Missing">No 3D</span>
+                  
                 {{end}}
               </span>
             </h5>
