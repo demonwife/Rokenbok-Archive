@@ -34,7 +34,7 @@ parts:
     nocount: true
 
   - qty: 2
-    name: Swinging Door (??)
+    name: Swinging Door
     color: Red
     desc: Fire Station
   - qty: 1
@@ -80,7 +80,7 @@ parts:
     name: Ladder
     color: yellow
   - qty: 1
-    name: Slide (??)
+    name: Slide
     color: yellow
   - qty: 8
     name: Angled Window

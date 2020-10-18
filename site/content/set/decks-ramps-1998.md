@@ -25,7 +25,7 @@ cmseditable: true
 
 parts:
   - qty: 4
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: light gray
   - qty: 8
     name: Deck Plate, Studs
@@ -34,7 +34,7 @@ parts:
     name: Half Deck Plate, Studs
     color: pruple
   - qty: 4
-    name: Ramp (??)
+    name: Ramp
     color: gray
 
 ---

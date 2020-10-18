@@ -36,7 +36,7 @@ parts:
     color: blue
 
   - qty: 2
-    name: Jr Top (??)
+    name: Jr Top
     color: red
   - qty: 2
     name: Water Tower Tab
@@ -46,40 +46,40 @@ parts:
     color: light gray
 
   - qty: 1
-    name: Clip On Sorter (??)
+    name: Clip On Sorter
     color: dark green
   - qty: 2
-    name: Sorted Ball Chute (??)
+    name: Sorted Ball Chute
     color: dark green
   - qty: 4
     name: Support Column
     color: yellow
   - qty: 2
-    name: Jr Base (??)
+    name: Jr Base
     color: black
   - qty: 2
-    name: Jr Roadway Turn (??)
+    name: Jr Roadway Turn
     color: black
   - qty: 2
-    name: Jr Roadway Incline (??)
+    name: Jr Roadway Incline
     color: black
   - qty: 1
-    name: Jr Dump Truck (??)
+    name: Jr Dump Truck
     color: green/yellow
   - qty: 1
-    name: Jr Truck Controller (??)
+    name: Jr Truck Controller
     color: yellow
   - qty: 1
     name: Motorized Conveyor
     color: orange/green
   - qty: 1
-    name: Jr Roadway Turnaround (??)
+    name: Jr Roadway Turnaround
     color: black
   - qty: 1
-    name: Jr Roadway Straight Segment (??)
+    name: Jr Roadway Straight Segment
     color: black
   - qty: 1
-    name: Jr Roadway Incline Start (??)
+    name: Jr Roadway Incline Start
     color: black
   - qty: 18
     name: 2x2 ROK Block
@@ -91,7 +91,7 @@ parts:
     name: Worker/Figure
     color: green/orange
   - qty: 1
-    name: Jr Road Construction Sign (??)
+    name: Jr Road Construction Sign
     color: white
 
 

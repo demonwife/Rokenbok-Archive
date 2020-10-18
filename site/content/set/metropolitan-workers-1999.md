@@ -26,7 +26,7 @@ cmseditable: true
 
 parts:
   - qty: 1
-    name: Workbench (??)
+    name: Workbench
     color: light gray
   - qty: 2
     name: Worker/Figure

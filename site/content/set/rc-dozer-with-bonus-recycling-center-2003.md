@@ -70,17 +70,17 @@ parts:
     color: blue
 
   - qty: 1
-    name: Recycling Center Slant (??)
+    name: Recycling Center Slant
     color: light gray
   - qty: 1
-    name: Recycling Center Ramp (??)
+    name: Recycling Center Ramp
     color: gray
   - qty: 1
-    name: Recycling Center Large Scoop (??)
+    name: Recycling Center Large Scoop
     color: green
 
   - qty: 1
-    name: Recycling Center Grate (??)
+    name: Recycling Center Grate
     color: green
   - qty: 1
     name: Pump Plant Sign
@@ -89,10 +89,10 @@ parts:
     name: Rokenbok Tool
     color: metal
   - qty: 1
-    name: Recycling Center Small Scoop (??)
+    name: Recycling Center Small Scoop
     color: green
   - qty: 1
-    name: Tall Sign (??)
+    name: Tall Sign
     color: light gray
     desc: Stop
 

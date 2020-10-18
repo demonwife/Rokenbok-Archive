@@ -42,7 +42,7 @@ parts:
     name: Handrail/Railing
     color: green
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: white
   - qty: 2
     name: Barrel

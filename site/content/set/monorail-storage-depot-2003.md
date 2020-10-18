@@ -57,7 +57,7 @@ parts:
     name: Box/Bin Rack
     color: blue
   - qty: 1
-    name: Ramp (??)
+    name: Ramp
     color: light gray
 
   - qty: 2
@@ -71,7 +71,7 @@ parts:
     name: Single Block/Cube
     color: blue
   - qty: 1
-    name: Tall Sign (??)
+    name: Tall Sign
     color: light gray
     desc: Rail Road Crossing
   - qty: 1

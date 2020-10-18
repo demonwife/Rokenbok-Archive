@@ -1,5 +1,5 @@
 ---
-title: Person Lift (??)
+title: Person Lift
 
 description: ""
 cadfiles:

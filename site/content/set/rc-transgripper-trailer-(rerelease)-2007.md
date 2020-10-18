@@ -45,7 +45,7 @@ parts:
     name: Bin
     color: blue
   - qty: 1
-    name: Barrel Holder (??)
+    name: Barrel Holder
     color: green
 
   - qty: 2

@@ -47,10 +47,10 @@ parts:
     name: Corner Chute (Right)
     color: yellow
   - qty: 2
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
   - qty: 2
-    name: Loading Platform (??)
+    name: Loading Platform
     color: dark blue
   - qty: 1
     name: Motorized Conveyor
@@ -94,7 +94,7 @@ parts:
     name: Small Desk
     color: white
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: blue
 
   - qty: 6

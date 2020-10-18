@@ -40,7 +40,7 @@ parts:
     name: Cone
     color: orange
   - qty: 2
-    name: Barrier (??)
+    name: Barrier
     color: orange
 
 

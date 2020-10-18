@@ -40,7 +40,7 @@ parts:
     name: Single Snap Block
     color: gray
   - qty: 1
-    name: RC Police Tank (??)
+    name: RC Police Tank
     color: gray
     
 

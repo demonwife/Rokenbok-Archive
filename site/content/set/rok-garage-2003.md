@@ -80,7 +80,7 @@ parts:
     name: Angled Window
     color: green
   - qty: 1
-    name: Tall Sign (??)
+    name: Tall Sign
     color: light gray
     desc: Keep Right
   - qty: 3
@@ -96,7 +96,7 @@ parts:
     name: Corbel
     color: red
   - qty: 2
-    name: Wheel Tread (??)
+    name: Wheel Tread
     color: black
   - qty: 10
     name: Single Block/Cube

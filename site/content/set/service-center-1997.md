@@ -45,7 +45,7 @@ parts:
     name: "Single Block/Cube"
     color: red
   - qty: 2
-    name: Flag Sign (??)
+    name: Flag Sign
     color: white
   - qty: 20
     name: Full Beam
@@ -65,13 +65,13 @@ parts:
     name: Worker/Figure
     color: blue/yellow
   - qty: 2
-    name: Roof (??)
+    name: Roof
     color: yellow
   - qty: 1
-    name: Platform (??)
+    name: Platform
     color: gray
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: light gray
 
   - qty: 8

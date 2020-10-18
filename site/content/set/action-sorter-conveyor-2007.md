@@ -39,7 +39,7 @@ parts:
     name: Half Beam
     color: blue
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: blue
 
   - qty: 18
@@ -74,7 +74,7 @@ parts:
     name: Motorized Conveyor
     color: brown/orange
   - qty: 1
-    name: Flag Sign (??)
+    name: Flag Sign
     color: red
     desc: Quarry
 

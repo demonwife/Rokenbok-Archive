@@ -63,7 +63,7 @@ parts:
     color: gray
 
   - qty: 4
-    name: Wheel Tread (??)
+    name: Wheel Tread
     color: black
   - qty: 1
     name: Fire Extinguisher
@@ -86,16 +86,16 @@ parts:
     color: yellow
 
   - qty: 1
-    name: Ramp (??)
+    name: Ramp
     color: dark gray
   - qty: 1
     name: Half Deck Plate, Studs
     color: light gray
 
   - qty: 1
-    name: Workbench (??)
+    name: Workbench
     color: light gray
   - qty: 1
-    name: Vehicle Lift (??)
+    name: Vehicle Lift
     color: gray, red, yellow
 ---

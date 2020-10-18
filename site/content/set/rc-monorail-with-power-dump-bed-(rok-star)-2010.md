@@ -57,10 +57,10 @@ parts:
     name: Signal Light
     color: light gray
   - qty: 2
-    name: Crossing Swing Arm (??)
+    name: Crossing Swing Arm
     color: gray
   - qty: 1
-    name: Crossing Base (??)
+    name: Crossing Base
     color: gray
   - qty: 1
     name: Rokenbok Tool

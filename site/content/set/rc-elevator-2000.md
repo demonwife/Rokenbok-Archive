@@ -56,7 +56,7 @@ parts:
     name: Corbel
     color: purple
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: light gray
   - qty: 18
     name: "Single Block/Cube"
@@ -71,7 +71,7 @@ parts:
     color: blue/yellow
 
   - qty: 1
-    name: Elevator Monorail Adapter (??)
+    name: Elevator Monorail Adapter
     color: black
   - qty: 1
     name: RC Elevator

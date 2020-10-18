@@ -30,7 +30,7 @@ cmseditable: true
 
 parts:
   - qty: 2
-    name: Dump Bin (??)
+    name: Dump Bin
     color: white
   - qty: 20
     name: 19mm Blue ROK

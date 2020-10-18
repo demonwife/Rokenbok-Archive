@@ -35,10 +35,10 @@ parts:
     name: Handrail/Railing
     color: yellow
   - qty: 1
-    name: Platform (??)
+    name: Platform
     color: light gray
   - qty: 1
-    name: Roof (??)
+    name: Roof
     color: yellow
   - qty: 5
     name: Window

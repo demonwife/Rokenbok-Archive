@@ -79,7 +79,7 @@ parts:
     name: Bin
     color: blue
   - qty: 2
-    name: Barrel Holder (??)
+    name: Barrel Holder
     color: green
 
   - qty: 1
@@ -99,14 +99,14 @@ parts:
     color: yellow
     desc: Shipping / Receiving
   - qty: 2
-    name: Beam Holder (??)
+    name: Beam Holder
     color: green
 
   - qty: 2
-    name: Roof (??)
+    name: Roof
     color: yellow
   - qty: 1
-    name: Forks (??)
+    name: Forks
     color: red
   - qty: 1
     name: RC Forklift

@@ -56,16 +56,16 @@ parts:
     color: yellow
     desc: Pump Station
   - qty: 1
-    name: Piston Plant Control Station (??)
+    name: Piston Plant Control Station
     color: white
   - qty: 1
-    name: Piston Plant Quarry (??)
+    name: Piston Plant Quarry
     color: yellow
   - qty: 1
-    name: Piston Plant Guide (??)
+    name: Piston Plant Guide
     color: yellow
   - qty: 1
-    name: Piston Plant (??)
+    name: Piston Plant
     color: white
 
 ---

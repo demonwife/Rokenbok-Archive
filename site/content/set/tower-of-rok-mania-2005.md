@@ -61,7 +61,7 @@ parts:
     name: Straight Chute
     color: yellow
   - qty: 1
-    name: Bin Dumper Top (??)
+    name: Bin Dumper Top
     color: yellow
 
   - qty: 2
@@ -109,14 +109,14 @@ parts:
     name: 3 Way Brace
     color: blue
   - qty: 1
-    name: Rok Dumper Pivot (??)
+    name: Rok Dumper Pivot
     color: yellow
   - qty: 1
-    name: Rok Dumper Basin (??)
+    name: Rok Dumper Basin
     color: yellow
     nocount: true
   - qty: 2
-    name: Bin Dumper (??)
+    name: Bin Dumper
     color: yellow
 
   - qty: 4

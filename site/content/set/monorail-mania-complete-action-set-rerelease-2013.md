@@ -62,10 +62,10 @@ parts:
     name: Girder
     color: red
   - qty: 1
-    name: Clip On Sorter (??)
+    name: Clip On Sorter
     color: dark green
   - qty: 2
-    name: Sorted Ball Chute (??)
+    name: Sorted Ball Chute
     color: dark green
   - qty: 1
     name: Rokenbok Tool

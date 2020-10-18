@@ -46,10 +46,10 @@ parts:
     name: Roadway Entry
     color: black
   - qty: 1
-    name: Slide (??)
+    name: Slide
     color: gray
   - qty: 1
-    name: Back Stop (??)
+    name: Back Stop
     color: gray
   - qty: 1
     name: Lamp
@@ -83,7 +83,7 @@ parts:
     name: Worker/Figure
     color: yellow
   - qty: 1
-    name: RC Skiptrack (??)
+    name: RC Skiptrack
     color: white
   - qty: 1
     name: Box/Bin Rack

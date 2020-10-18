@@ -1,5 +1,5 @@
 ---
-title: Bin Dumper (??)
+title: Bin Dumper
 
 description: ""
 cadfiles:

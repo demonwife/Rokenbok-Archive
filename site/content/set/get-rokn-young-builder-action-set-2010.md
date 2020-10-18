@@ -25,19 +25,19 @@ cmseditable: true
 
 parts:
   - qty: 1
-    name: Jr Top (??)
+    name: Jr Top
     color: red
   - qty: 1
-    name: Jr Top (??)
+    name: Jr Top
     color: blue
   - qty: 1
     name: Box/Bin Rack
     color: red
   - qty: 1
-    name: Clip On Sorter (??)
+    name: Clip On Sorter
     color: dark green
   - qty: 2
-    name: Sorted Ball Chute (??)
+    name: Sorted Ball Chute
     color: dark green
   - qty: 4
     name: Support Column
@@ -62,7 +62,7 @@ parts:
     name: Bin
     color: green
   - qty: 1
-    name: Jr Dump Truck (??)
+    name: Jr Dump Truck
     color: green/yellow
   - qty: 1
     name: ROK Star Controller
@@ -103,7 +103,7 @@ parts:
     name: Worker/Figure
     color: blue/yellow
   - qty: 2
-    name: Jr Base (??)
+    name: Jr Base
     color: black
   - qty: 1
     name: Snap-on Trailer Hitch

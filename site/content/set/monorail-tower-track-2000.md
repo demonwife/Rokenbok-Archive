@@ -44,7 +44,7 @@ parts:
     name: Worker/Figure
     color: yellow
   - qty: 1
-    name: Person Lift (??)
+    name: Person Lift
     color: red
   - qty: 2
     name: Lamp
@@ -98,7 +98,7 @@ parts:
     name: Step
     color: blue
   - qty: 2
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
   - qty: 1
     name: Corner Chute (Right)
@@ -114,7 +114,7 @@ parts:
     name: Large Curved Beam
     color: black
   - qty: 1
-    name: Tower Overflow (??)
+    name: Tower Overflow
     color: yellow
 
   - qty: 22
@@ -147,10 +147,10 @@ parts:
     color: yellow
 
   - qty: 1
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: gray
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: light gray
 
 

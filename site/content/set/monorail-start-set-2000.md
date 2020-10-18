@@ -44,7 +44,7 @@ parts:
     name: Worker/Figure
     color: yellow
   - qty: 1
-    name: Person Lift (??)
+    name: Person Lift
     color: red
   - qty: 2
     name: Lamp
@@ -97,7 +97,7 @@ parts:
     name: Step
     color: blue
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
   - qty: 1
     name: Corner Chute (Right)
@@ -113,7 +113,7 @@ parts:
     name: Large Curved Beam
     color: black
   - qty: 1
-    name: Tower Overflow (??)
+    name: Tower Overflow
     color: yellow
 
   - qty: 22
@@ -123,7 +123,7 @@ parts:
     name: S-Beam
     color: black
   - qty: 1
-    name: Ramp (??)
+    name: Ramp
     color: light gray
   - qty: 1
     name: Sorting Chute
@@ -136,7 +136,7 @@ parts:
     name: Single Block/Cube
     color: blue
   - qty: 1
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: gray
   - qty: 1
     name: Motorized Conveyor
@@ -173,7 +173,7 @@ parts:
     name: Control Pad
     color: white
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: gray
 ---
 The newest and most exciting way to get started with Rokenbok, this Start Set reinterprets the train sets of yesteryear with the cutting-edge technology of today. Integrate classic building and RC vehicles to form an animated cityscape of amazing interactivity and limitless expandability. Multiple track layouts, Rail Tower with Motorized Conveyor, sorting chute with dumping bins, plus RC Monorail Freighter. Includes Command Deck and Control Pad. 265 pieces. Batteries included. Ages 6+. Includes 110 Volt A/C adapter and four AA batteries.

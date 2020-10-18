@@ -62,7 +62,7 @@ parts:
     name: Half Beam
     color: light gray
   - qty: 1
-    name: Slide (??)
+    name: Slide
     color: yellow
 
   - qty: 4

@@ -92,7 +92,7 @@ parts:
     color: red
 
   - qty: 34
-    name: Full beam
+    name: Full Beam
     color: gray
   - qty: 114
     name: Full Beam

@@ -153,10 +153,10 @@ parts:
     color: blue
 
   - qty: 1
-    name: RC Police Tank (??)
+    name: RC Police Tank
     color: gray
   - qty: 1
-    name: RC Police Tank (??)
+    name: RC Police Tank
     color: black
 
   - qty: 8

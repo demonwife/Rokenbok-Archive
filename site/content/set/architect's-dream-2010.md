@@ -132,7 +132,7 @@ parts:
     name: Signal Light
     color: light gray
   - qty: 4
-    name: Wheel Tread (??)
+    name: Wheel Tread
     color: black
   - qty: 1
     name: Flag
@@ -149,7 +149,7 @@ parts:
     name: Catwalk
     color: blue
   - qty: 1
-    name: Slide (??)
+    name: Slide
     color: yellow
   - qty: 4
     name: Roadway Entry
@@ -179,7 +179,7 @@ parts:
     color: yellow
 
   - qty: 1
-    name: Platform (??)
+    name: Platform
     color: light gray
   - qty: 4
     name: Roadway Incline
@@ -200,20 +200,20 @@ parts:
     name: Large Desk
     color: white
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: gray
   - qty: 1
-    name: Workbench (??)
+    name: Workbench
     color: light gray
 
   - qty: 4
-    name: Roof (??)
+    name: Roof
     color: yellow
   - qty: 2
     name: Door
     color: blue
   - qty: 8
-    name: Swinging Door (??)
+    name: Swinging Door
     color: green
   - qty: 1
     name: 4 Way Roadway

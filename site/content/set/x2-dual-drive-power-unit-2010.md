@@ -101,7 +101,7 @@ parts:
     name: Roadway Entry
     color: black
   - qty: 1
-    name: Crane Bucket (??)
+    name: Crane Bucket
     color: red
   - qty: 1
     name: String Block

@@ -33,7 +33,7 @@ parts:
     name: Worker/Figure
     color: yellow
   - qty: 1
-    name: Person Lift (??)
+    name: Person Lift
     color: red
   - qty: 1
     name: Rokenbok Tool

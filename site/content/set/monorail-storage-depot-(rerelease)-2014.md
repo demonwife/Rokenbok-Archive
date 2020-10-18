@@ -31,7 +31,7 @@ cmseditable: true
 
 parts:
   - qty: 1
-    name: Tall Sign (??)
+    name: Tall Sign
     color: light gray
     desc: Rail Road Crossing
   - qty: 2

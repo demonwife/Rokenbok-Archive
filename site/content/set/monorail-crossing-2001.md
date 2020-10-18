@@ -30,11 +30,11 @@ parts:
     name: Monorail Crossing
     color: gray
   - qty: 1
-    name: Crossing Base (??)
+    name: Crossing Base
     color: gray
     nocount: true
   - qty: 2
-    name: Crossing Swing Arm (??)
+    name: Crossing Swing Arm
     color: gray
     nocount: true
 

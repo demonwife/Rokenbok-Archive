@@ -34,7 +34,7 @@ images:
 cmseditable: true
 parts:
   - qty: 1
-    name: Workbench (??)
+    name: Workbench
     color: light gray
   - qty: 1
     name: Printer/Fax
@@ -67,7 +67,7 @@ parts:
     name: Laptop
     color: light gray
   - qty: 4
-    name: Wheel Tread (??)
+    name: Wheel Tread
     color: black
   - qty: 2
     name: Corbel
@@ -100,7 +100,7 @@ parts:
     name: Fire Extinguisher
     color: red
   - qty: 4
-    name: Swinging Door (??)
+    name: Swinging Door
     color: yellow
   - qty: 28
     name: Full Beam
@@ -148,10 +148,10 @@ parts:
     color: light gray
     desc: wavy
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: dark gray
   - qty: 1
-    name: Platform (??)
+    name: Platform
     color: light gray
   - qty: 6
     name: 2 Way Brace
@@ -172,7 +172,7 @@ parts:
     name: Step
     color: gray
   - qty: 1
-    name: Vehicle Lift (??)
+    name: Vehicle Lift
     color: gray, red, yellow
 ---
 Drive your vehicle through the garage doors and into the work area

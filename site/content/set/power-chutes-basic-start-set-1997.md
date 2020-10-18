@@ -71,18 +71,18 @@ parts:
     name: Rokenbok Tool
     color: metal
   - qty: 1
-    name: Ramp (??)
+    name: Ramp
     color: light gray
 
   - qty: 2
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: light gray
   - qty: 2
     name: Full Beam
     color: blue
 
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: white
   - qty: 2
     name: Straight Chute
@@ -105,7 +105,7 @@ parts:
     color: blue
 
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: gray
   - qty: 1
     name: Power Supply - North America

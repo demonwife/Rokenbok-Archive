@@ -50,7 +50,7 @@ parts:
     color: yellow
   
   - qty: 1
-    name: Flag Sign (??)
+    name: Flag Sign
     color: red
     desc: Quarry
   - qty: 2
@@ -65,11 +65,11 @@ parts:
     desc: Rokenbok v2
     color: red
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: white
   
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: gray
   - qty: 1
     name: Motorized Conveyor

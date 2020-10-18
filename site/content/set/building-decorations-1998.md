@@ -32,7 +32,7 @@ parts:
     name: Handrail/Railing
     color: green
   - qty: 6
-    name: Flag Sign (??)
+    name: Flag Sign
     color: white
   - qty: 2
     name: Flag

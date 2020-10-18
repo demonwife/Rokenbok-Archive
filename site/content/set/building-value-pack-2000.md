@@ -80,11 +80,11 @@ parts:
 
 
   - qty: 3
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: light gray
 
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: light gray
 
 ---

@@ -113,7 +113,7 @@ parts:
     name: Roadway Entry
     color: black
   - qty: 1
-    name: String (??)
+    name: String
     color: white?
   - qty: 1
     name: Ladder

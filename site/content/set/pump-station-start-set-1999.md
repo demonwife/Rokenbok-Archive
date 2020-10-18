@@ -41,7 +41,7 @@ parts:
     name: Lamp
     color: green
   - qty: 1
-    name: Pump Plant Control Station (??)
+    name: Pump Plant Control Station
     color: white
   - qty: 1
     name: Worker/Figure
@@ -55,7 +55,7 @@ parts:
     color: yellow
 
   - qty: 1
-    name: Piston Plant Quarry (??)
+    name: Piston Plant Quarry
     color: yellow
   - qty: 4
     name: Handrail/Railing
@@ -72,7 +72,7 @@ parts:
     color: gray
 
   - qty: 1
-    name: Piston Plant Guide (??)
+    name: Piston Plant Guide
     color: yellow
   - qty: 2
     name: Half Beam
@@ -85,14 +85,14 @@ parts:
     color: light gray
 
   - qty: 1
-    name: Ramp (??)
+    name: Ramp
     color: gray
   - qty: 1
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: gray
 
   - qty: 1
-    name: Piston Plant (??)
+    name: Piston Plant
     color: white
   - qty: 1
     name: Power Supply - North America

@@ -64,7 +64,7 @@ parts:
     name: Lamp
     color: yellow
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: blue
 
   - qty: 13
@@ -83,10 +83,10 @@ parts:
     name: Straight Chute
     color: yellow
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: red
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
   - qty: 1
     name: Motorized Conveyor
@@ -109,7 +109,7 @@ parts:
     name: Fire Extinguisher
     color: red
   - qty: 2
-    name: Wheel Tread (??)
+    name: Wheel Tread
     color: black
   - qty: 1
     name: Rokenbok Tool
@@ -173,10 +173,10 @@ parts:
     name: Handtruck
     color: yellow
   - qty: 1
-    name: Person Lift (??)
+    name: Person Lift
     color: red
   - qty: 1
-    name: Tall Sign (??)
+    name: Tall Sign
     color: light gray
     desc: Keep Right
   - qty: 2
@@ -192,7 +192,7 @@ parts:
     name: Worker/Figure
     color: yellow
   - qty: 2
-    name: Loading Platform (??)
+    name: Loading Platform
     color: dark blue
 
 

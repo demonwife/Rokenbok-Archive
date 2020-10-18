@@ -27,11 +27,11 @@ parts:
     name: Snap-on Wheel
     color: red
   - qty: 24
-    name: Snap-on Wheel Center (??)
+    name: Snap-on Wheel Center
     color: red
     nocount: true
   - qty: 24
-    name: Wheel Tread (??)
+    name: Wheel Tread
     color: black
     nocount: true
 

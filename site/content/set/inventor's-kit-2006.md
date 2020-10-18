@@ -29,7 +29,7 @@ cmseditable: true
 partCount: 161
 parts:
   - qty: 1
-    name: String (??)
+    name: String
     color: white?
   - qty: 8
     name: Snap-on Wheel

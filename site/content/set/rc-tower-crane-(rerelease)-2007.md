@@ -69,16 +69,16 @@ parts:
     color: white
 
   - qty: 1
-    name: Crane Claw (??)
+    name: Crane Claw
     color: blue
   - qty: 2
-    name: Crane Hook (??)
+    name: Crane Hook
     color: red
   - qty: 1
-    name: Crane Bucket (??)
+    name: Crane Bucket
     color: red
   - qty: 1
-    name: Crane Platform (??)
+    name: Crane Platform
     color: white
   - qty: 1
     name: Tower Crane

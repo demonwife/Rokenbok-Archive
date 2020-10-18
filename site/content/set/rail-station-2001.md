@@ -54,7 +54,7 @@ parts:
     name: Arched Window
     color: teal
   - qty: 4
-    name: Swinging Door (??)
+    name: Swinging Door
     color: teal
   - qty: 1
     name: Step
@@ -94,7 +94,7 @@ parts:
     name: Chair
     color: blue
   - qty: 1
-    name: Workbench (??)
+    name: Workbench
     color: light gray
 ---
 Build a busy transportation hub with a ticketing office, waiting area and loading platform! The Rail Station is the perfect stopping point for all freight travelling aboard the RC Monorail Freighter (sold separately). Automatic doors even swing open and close as the Monorail passes into the Station where a waiting mechanic and his tool bench are ready for service. No batteries required. Includes 120 snap-fit building pieces.

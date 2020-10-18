@@ -104,10 +104,10 @@ parts:
     desc: Rokenbok v3
     color: red
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: dark blue
   - qty: 2
-    name: Loading Platform (??)
+    name: Loading Platform
     color: dark blue
   - qty: 1
     name: Corner Chute (Right)
@@ -141,7 +141,7 @@ parts:
     color: black
 
   - qty: 2
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
   - qty: 1
     name: Billboard Frame Back

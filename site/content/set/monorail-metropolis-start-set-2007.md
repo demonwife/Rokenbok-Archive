@@ -69,7 +69,7 @@ parts:
     name: I-Beam
     color: green
   - qty: 2
-    name: Crossing Swing Arm (??)
+    name: Crossing Swing Arm
     color: gray
 
   - qty: 3
@@ -97,7 +97,7 @@ parts:
     name: Bin
     color: red
   - qty: 1
-    name: Crossing Swing Base (??)
+    name: Crossing Swing Base
     color: gray
 
   - qty: 4
@@ -152,16 +152,16 @@ parts:
     name: Ladder
     color: green
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: red
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
   - qty: 1
-    name: Bin Dumper (??)
+    name: Bin Dumper
     color: yellow
   - qty: 1
-    name: Bin Dumper Top (??)
+    name: Bin Dumper Top
     color: yellow
   - qty: 1
     name: ROK Lift

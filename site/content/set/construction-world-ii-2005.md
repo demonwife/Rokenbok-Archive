@@ -107,7 +107,7 @@ parts:
     color: yellow
 
   - qty: 2
-    name: Slide (??)
+    name: Slide
     color: yellow
   - qty: 6
     name: S-Beam

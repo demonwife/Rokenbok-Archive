@@ -60,7 +60,7 @@ parts:
     name: Lamp
     color: green
   - qty: 5
-    name: Flag Sign (??)
+    name: Flag Sign
     color: white
   - qty: 5
     name: Handrail/Railing
@@ -126,21 +126,21 @@ parts:
     name: Straight Chute
     color: yellow
   - qty: 4
-    name: Roof (??)
+    name: Roof
     color: yellow
   - qty: 1
-    name: Dump Bin (??)
+    name: Dump Bin
     color: white
   - qty: 2
-    name: Platform (??)
+    name: Platform
     color: gray
   - qty: 2
-    name: Ramp (??)
+    name: Ramp
     color: light gray
   - qty: 4
-    name: Long Ramp, Studs (??)
+    name: Long Ramp, Studs
     color: light gray
   - qty: 1
-    name: Quarry (??)
+    name: Quarry
     color: gray
 ---

@@ -51,7 +51,7 @@ parts:
     color: yellow
 
   - qty: 2
-    name: Dump Bin (??)
+    name: Dump Bin
     color: blue
 
   - qty: 3
