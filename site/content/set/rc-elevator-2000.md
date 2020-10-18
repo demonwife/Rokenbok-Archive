@@ -6,9 +6,14 @@ description: >-
 archiveLinks:
   - name: 02/12/2004
     link: https://web.archive.org/web/20040212045032/http://www.rokenbok.com/catalog/pd_aa_elevator.html
+  - name: ebay
+    link: https://web.archive.org/web/20201018122737/https://www.ebay.com/itm/Pre-Owned-Used-Rokenbok-System-RC-Elevator-004740-Stem-Building-Tested-Working/203142642141
 priceHistory:
   - date: 02/12/2004
-    price: 79.99
+    price: "79.99"
+  - date: 10/18/2020
+    price: "84.50"
+    source: https://web.archive.org/web/20201018122737/https://www.ebay.com/itm/Pre-Owned-Used-Rokenbok-System-RC-Elevator-004740-Stem-Building-Tested-Working/203142642141
 skus:
   - "04740"
 categories:
@@ -23,6 +28,8 @@ plans:
   link: /plans/04740_rc_elevator_b.pdf
 thumb: /img/sets/thumb_rc_elevator.jpg
 images:
+  - /img/sets/04740_rc_elevator_1.jpg
+  - /img/sets/04740_rc_elevator_2.jpg
 cmseditable: true
 
 parts:
