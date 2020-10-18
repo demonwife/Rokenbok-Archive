@@ -81,7 +81,7 @@ parts:
     name: Worker/Figure
     color: blue/teal
   - qty: 2
-    name: Arched Roof
+    name: Arched Window
     color: blue
   - qty: 1
     name: Bin Rack

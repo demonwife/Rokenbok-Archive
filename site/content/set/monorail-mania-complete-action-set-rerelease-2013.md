@@ -44,7 +44,7 @@ parts:
     color: yellow
 
   - qty: 8
-    name: 16mm Blue ROK
+    name: 19mm Blue ROK
     color: blue
   - qty: 8
     name: 16mm Red ROK

@@ -72,7 +72,7 @@ parts:
     name: Full Beam
     color: gray
   - qty: 1
-    name: Arched Roof
+    name: Arched Window
     color: blue
   - qty: 2
     name: Snap-on Trailer Hitch
