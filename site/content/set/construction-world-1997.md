@@ -22,7 +22,7 @@ plans:
 - name: Construction World B
   link: /plans/34317_construction_world_b.pdf
 - name: Construction World C
-  link: /plans/34317_construction_world_b.pdf
+  link: /plans/34317_construction_world_c.pdf
 
 thumb: /img/sets/thumb_construction_world.gif
 images:
