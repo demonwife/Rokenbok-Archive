@@ -14,8 +14,9 @@ cadfiles:
     link: https://www.thingiverse.com/thing:325237
 
 thumb: /img/parts/worker-figure.jpg
-image:
+images:
   - /img/parts/worker-teal.png
   - /img/parts/worker-white.png
   - /img/parts/worker-yellow.png
+  - /img/parts/worker-figures.png
 ---
