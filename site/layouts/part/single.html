@@ -19,10 +19,12 @@
       <div class="col">
         <h4>3D Models</h4>
         <ul>
-          {{if .Params.cadfiles}}
-          <li>
-            <a href="{{.link}}" target="__BLANK">{{.name}}</a> by {{.creator}}
-          </li>
+          {{ if .Params.cadfiles }}
+            {{range .Params.cadfiles}}
+              <li>
+                <a href="{{.link}}" target="__BLANK">{{.name}}</a> by {{.creator}}
+              </li>
+            {{end}}
           {{end}}
         </ul>
       </div>
