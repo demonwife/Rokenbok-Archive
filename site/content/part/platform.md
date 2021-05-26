@@ -1,5 +1,5 @@
 ---
-title: platform
+title: Platform
 
 description: ""
 
