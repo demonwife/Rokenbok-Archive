@@ -19,7 +19,7 @@
       <div class="col">
         <h4>3D Models</h4>
         <ul>
-          {{range .Params.cadfiles}}
+          {{if .Params.cadfiles}}
           <li>
             <a href="{{.link}}" target="__BLANK">{{.name}}</a> by {{.creator}}
           </li>
