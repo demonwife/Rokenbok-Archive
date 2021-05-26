@@ -17,16 +17,16 @@
       </div>
 
       <div class="col">
-        <h4>3D Models</h4>
-        <ul>
-          {{ if .Params.cadfiles }}
+        {{ if .Params.cadfiles }}
+          <h4>3D Models</h4>
+          <ul>
             {{range .Params.cadfiles}}
               <li>
                 <a href="{{.link}}" target="__BLANK">{{.name}}</a> by {{.creator}}
               </li>
             {{end}}
-          {{end}}
-        </ul>
+          </ul>
+        {{end}}
       </div>
     </div>
 
