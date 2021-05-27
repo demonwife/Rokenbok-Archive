@@ -23,7 +23,7 @@ Fill the pot with just enough water to cover the part, and remove it.
 
 Wait for the water to come to a very low boil. Using a utensil, and your hand (preferably with a mitt on so you don't burn yourself), or another utensil, press the part down so it is flat against the bottom of the pot. Hold it for a minute or so, being careful not to snap it. Repeat as needed.
 
-![Boiling the warped component](fixing_Warp_During.jpg "Boiling the warped component")
+![Boiling the warped component](/cms/fixing_Warp_During.jpg "Boiling the warped component")
 
 Afterwards, remove the part and let it cool off for a minute. Dry with a towel. 
 
