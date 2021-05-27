@@ -13,7 +13,9 @@ Upon closer inspection, it seemed the drive rollers under the monorail engine we
 
 Out came the screw driver, 1, 2, 3, ...8, 9, 10 screws hold the outer casing together then another couple to get at the gearbox. Once the gearbox was open the issue was plain as day:
 
-<img src="/cms/img_20200907_111724.jpg" style="max-width: 200px">
+<div>
+  <img src="/cms/img_20200907_111724.jpg" style="max-width: 200px">
+</div>
 
 <!--![Loose drive gear in the Rokenbok RC Monorail](/cms/img_20200907_111724.jpg "Loose drive gear!")-->
 
