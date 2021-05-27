@@ -6,11 +6,11 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
-    <div class="cms mw6">
+    <div class="col">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-      <p>-- {{.Params.authors}}</p>
+      <p>Written by: {{.Params.authors}}</p>
     </div>
   </div>
 {{ end }}
