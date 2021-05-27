@@ -3,7 +3,7 @@ cmseditable: true
 draft: false
 title: Un-warping components
 date: 2021-05-26T14:04:10.000Z
-description: Unsticking and, general fixing of a not-working Rokenbok Down-a-vator.
+description: Straighting out a warped Piston Plant Guide
 thumb: /cms/fixing_Warp_Before.jpg
 authors: MrWonka (Jarret)
 ---
