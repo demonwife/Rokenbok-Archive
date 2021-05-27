@@ -9,22 +9,24 @@ authors: MrWonka (Jarret)
 ---
 If you (or someone else) has stored plastic components in a hot enviorment, then you may discover they have warped. This is more likely to happen to the [Piston Plant Guide](https://roklink.net/part/piston-plant-guide), due to how thin it is. 
 
-Thankfully fixing this is fairly simple and dosen't require any special tools or knowledge. 
+Thankfully fixing this is fairly simple and dosen't require any special tools or knowledge.
 
-![Warped Piston Plant Guide](/cms/fixing_Warp_Before.jpg "Warped Piston Plant Guide")
+Obviously, don't do this with any electronic parts, and hot water is hot.
 
-First, get a pot large enough that you can fit the part inside of flat. 
+![A warped Piston Plant Guide](/cms/fixing_Warp_Before.jpg "A warped Piston Plant Guide")
 
-![First view of the opened piston](/cms/img_20200908_203029.jpg "First view of the opened piston")
+Essentially, your going to do the same thing that created the warp in the first place. 
 
-After a bit of playing I learned that the direction of the rubber seal matters. Somehow the seal had gotten flipped around by the previous owner, possibly by moving the down-a-vator platform around with too much force.
+First, get a pot large enough that you can fit the part inside of flat.
 
-The following image shows the proper seal orientation. The image makes it look tighter than it actually was.
+Fill the pot with just enough water to cover the part, and remove it. 
 
-![Showing the proper orientation of the piston seal](/cms/img_20200908_215943.jpg "Showing the proper orientation of the piston seal")
+Wait for the water to come to a very low boil. Using a utensil, and your hand (preferably with a mitt on so you don't burn yourself), or another utensil, press the part down so it is flat against the bottom of the pot. Hold it for a minute or so, being careful not to snap it. Repeat as needed.
 
-Once the seal had been flipped around and re-installed in the piston casing the down-a-vator works like new! A [quick video clip ](https://photos.app.goo.gl/gRfB3QQhjh13j6AWA)showing the repaired down-a-vator.
+![Boiling the warped component](fixing_Warp_During.jpg "Boiling the warped component")
 
-Hopefully that helps other fix their vintage Rokenbok Down-A-Vators.
+Afterwards, remove the part and let it cool off for a minute. Dry with a towel. 
 
-[Additional photos](https://photos.app.goo.gl/Ni2XCizcGKMvZ7hQ6)
+It is unlikely that you will get a perfect result, especially if the plastic is cracked like mine, but you should be able to get it fairly close to it's original form. 
+
+![A straightened Piston Plant Guide](/cms/fixing_Warp_After.jpg "A straightened Piston Plant Guide")
