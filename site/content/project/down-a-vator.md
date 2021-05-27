@@ -13,7 +13,7 @@ First guess was the rubber seal had broken down over time. I added a few drops o
 
 I took the piston out of the down-a-vator and, using a razor knife I slowly worked around the top seam of the piston. Be sure to push the piston shaft all the way in to prevent any possible damage to the seal on the inside.
 
-<img src="/cms/img_20200908_203029.jpg" width=50% height=50%>
+<img src="https://roklink.net/cms/img_20200908_203029.jpg" width=50% height=50%>
 
 ![First view of the opened piston](/cms/img_20200908_203029.jpg "First view of the opened piston")
 
