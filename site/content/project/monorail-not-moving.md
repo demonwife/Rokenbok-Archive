@@ -13,6 +13,8 @@ Upon closer inspection, it seemed the drive rollers under the monorail engine we
 
 Out came the screw driver, 1, 2, 3, ...8, 9, 10 screws hold the outer casing together then another couple to get at the gearbox. Once the gearbox was open the issue was plain as day:
 
-![Loose drive gear in the Rokenbok RC Monorail](/cms/img_20200907_111724.jpg "Loose drive gear!")
+<img src="/cms/img_20200907_111724.jpg" style="max-width: 200px">
+
+<!--![Loose drive gear in the Rokenbok RC Monorail](/cms/img_20200907_111724.jpg "Loose drive gear!")-->
 
 A tiny dab of J-B Weld PlasticWeld epoxy, 10 minutes and she's good as new. Back to climbing the trak and delivering the Roks.
