@@ -18,6 +18,7 @@
 
       <div class="col">
         {{ if .Params.cadfiles }}
+        <!-- Don't display if no cad file is present -->
           <h4>3D Models</h4>
           <ul>
             {{range .Params.cadfiles}}
