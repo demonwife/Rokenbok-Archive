@@ -6,6 +6,8 @@ otherNames:
   - Figure
   - Person
   - Mr. Rokenbok
+  - Minifig
+  - Minifigure
 
 description: ""
 cadfiles:

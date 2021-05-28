@@ -7,6 +7,7 @@ description: I can hear the motor running, but the Monorail just won't move!
 thumb: /cms/rokenbok_rc_monorail.jpg
 authors: Techplex (Blake)
 ---
+
 After a long time in storage, I pulled out the vintage Rokenbok set only to find the RC Monorail was having trouble moving.
 
 Upon closer inspection, it seemed the drive rollers under the monorail engine were very easy to stall. It just didn't have any torque.
