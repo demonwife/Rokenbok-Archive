@@ -13,13 +13,13 @@ First guess was the rubber seal had broken down over time. I added a few drops o
 
 I took the piston out of the down-a-vator and, using a razor knife I slowly worked around the top seam of the piston. Be sure to push the piston shaft all the way in to prevent any possible damage to the seal on the inside.
 
-![First view of the opened piston](/cms/img_20200908_203029.jpg "First view of the opened piston")
+{{< figure src="/cms/img_20200908_203029.jpg" alt="First view of the opened piston" title="First view of the opened piston" width="500px">}}
 
 After a bit of playing I learned that the direction of the rubber seal matters. Somehow the seal had gotten flipped around by the previous owner, possibly by moving the down-a-vator platform around with too much force.
 
 The following image shows the proper seal orientation. The image makes it look tighter than it actually was.
 
-![Showing the proper orientation of the piston seal](/cms/img_20200908_215943.jpg "Showing the proper orientation of the piston seal")
+{{< figure src="/cms/img_20200908_215943.jpg" alt="Showing the proper orientation of the piston seal" title="Showing the proper orientation of the piston seal" width="500px">}}
 
 Once the seal had been flipped around and re-installed in the piston casing the down-a-vator works like new! A [quick video clip ](https://photos.app.goo.gl/gRfB3QQhjh13j6AWA)showing the repaired down-a-vator.
 
