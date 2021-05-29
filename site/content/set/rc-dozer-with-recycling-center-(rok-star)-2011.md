@@ -14,6 +14,8 @@ skus:
 categories:
   - Vehicle (Rok Star)
 video: ""
+videoEmbeds:
+  - "WxSayL4lhEY"
 plans:
 - name: RS Dozer Recycling Center
   link: /plans/08230_rs_dozer_recycling_center.pdf
