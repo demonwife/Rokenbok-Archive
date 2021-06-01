@@ -32,15 +32,19 @@ parts:
   - qty: 2
     name: Lamp
     color: yellow
+    
   - qty: 15
     name: 16mm Red ROK
     color: red
+    
   - qty: 15
     name: 19mm Blue ROK
     color: blue
+    
   - qty: 1
     name: Rokenbok Tool
     color: metal
+    
   - qty: 1
     name: Ladder
     color: yellow
@@ -48,24 +52,29 @@ parts:
   - qty: 4
     name: Full Beam
     color: white
+    
   - qty: 10
     name: Single Block/Cube
     color: blue
+    
   - qty: 1
     name: Pump Plant Sign
     color: yellow
     desc: Pump Station
+    
   - qty: 1
-    name: Piston Plant Control Station
+    name: Control Module
     color: white
+    
   - qty: 1
     name: Piston Plant Quarry
     color: yellow
+    
   - qty: 1
     name: Piston Plant Guide
     color: yellow
+    
   - qty: 1
     name: Piston Plant
     color: white
-
 ---
