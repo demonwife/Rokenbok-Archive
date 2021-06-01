@@ -4,7 +4,7 @@ tiles:
   - heading: Curator
       text: TechplexEngineer
   - heading: Thanks to
-      items:
+      text:
         - CR12 (List of Rokenbok sets)
         - MrWonka (Various entries and basic coding)
   - heading: More Rokenbok sites
