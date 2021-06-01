@@ -3,12 +3,12 @@ title: "About"
 tiles:
   - heading: Curator
       text: TechplexEngineer
-  - heading: Thanks to
+  - heading: Thanks to:
+    list:
       - CR12 (List of Rokenbok sets)
-      - MrWonka (Various entries and basic coding)
   - heading: More Rokenbok sites
-      links:
-        - {name: "Rokenbok.info", url: "https://rokenbok.info/"}
+    links:
+      - {name: "Rokenbok.info", url: "https://rokenbok.info/"}
 ---
 ## About Rokenbok
 
