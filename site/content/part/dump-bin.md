@@ -7,4 +7,5 @@ thumb: /img/parts/dump-bin-red.jpg
 
 images:
   - /img/parts/dump-bin-blue.jpg
+  - /img/parts/dump-bin-green.jpg
 ---
