@@ -17,7 +17,7 @@ Obviously, don't do this with any electronic parts, and hot water is hot.
 
 Essentially, your going to do the same thing that created the warp in the first place. 
 
-First, get a pot large enough that you can fit the part inside of flat.
+First, get a pot large enough that you can fit the part inside of it flat.
 
 Fill the pot with just enough water to cover the part, and remove it. 
 

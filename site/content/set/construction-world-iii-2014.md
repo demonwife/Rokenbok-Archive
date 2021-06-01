@@ -14,6 +14,8 @@ skus:
 categories:
   - Building Set
 video: ""
+videoEmbeds:
+  - "asIg8M6JeZk"
 plans:
 - name: Construction World III Grand Central
   link: /plans/04335_construction_world_iii_grand_central.pdf

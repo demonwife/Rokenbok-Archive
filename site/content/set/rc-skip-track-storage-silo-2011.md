@@ -14,6 +14,8 @@ skus:
 categories:
   - Vehicle (Rok Star)
 video: ""
+videoEmbeds:
+  - "6dG2i_kT5Dg"
 plans:
 - name: Rs Skiptrack
   link: /plans/08240_rs_skiptrack.pdf

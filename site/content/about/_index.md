@@ -12,7 +12,7 @@ tiles:
 ---
 ## About Rokenbok
 
-Rokenbok is a construction building toy with Remote Controlled vehicles. Originally founded as BotBlockls Inc. in 1994, before releasing any toys, changed the company name was changed to Rokenbok Toy Company in 1996. Shortly thereafter Rokenbok Toy Co. and released its first toy sets in 1997.
+Rokenbok was a construction building toy with Remote Controlled vehicles. Originally founded as BotBlockls Inc. in 1994, before releasing any toys, changed the company name was changed to Rokenbok Toy Company in 1996. Shortly thereafter Rokenbok Toy Co. and released its first toy sets in 1997.
 
 Rokenbok Toy Co. produced legacy quality building toys that sparked the imaginations of children worldwide. Over 100 sets were released between 1997 and 2015 when Rokenbok Toy Co. was dissolved. Rokenbok Education, a social benefit corporation was formed in 2015 and, Kid Spark Education was also formed in 2015 as a 501(c)(3) not for profit charitable organization.
 
