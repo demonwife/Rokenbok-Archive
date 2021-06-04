@@ -1,10 +1,10 @@
 ---
 cmseditable: true
 draft: false
-title: Un-warping components
+title: Greasing the Piston Plant
 date: 2021-05-26T14:04:10.000Z
-description: Straighting out a warped Piston Plant Guide
-thumb: /cms/fixing_Warp_Before.jpg
+description: Make the Piston Plant not get stuck or squeak!
+thumb: /cms/pp_exploded1.jpg
 authors: MrWonka (Jarret)
 ---
 As the [Piston Plant](https://roklink.net/set/piston-plant-1999/) gets older, you may find that it gets stuck and/or becomes squeaky over time. Fear not! This is an easy fix. All you need is [White Lithium Grease](https://www.lowes.com/pd/Blaster-White-Lithium-Grease/50337278).
