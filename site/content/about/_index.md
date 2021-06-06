@@ -5,7 +5,7 @@ tiles:
     text: TechplexEngineer
   - heading: Thanks to
     links:
-      - {name: "CR12 (list of Rokenbok sets)", url: "https://mrwonka.com/"}
+      - {name: "CR12 (list of Rokenbok sets)"}
       - {name: "MrWonka (Projects, archiving, and minor coding)", url: "https://mrwonka.com/"}
   - heading: More Rokenbok sites
     links:
