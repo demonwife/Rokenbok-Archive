@@ -2,7 +2,6 @@
 title: Crane Claw
 
 description: ""
-cadfiles:
 
 thumb: /img/parts/crane-claw-1.jpg
 images:
