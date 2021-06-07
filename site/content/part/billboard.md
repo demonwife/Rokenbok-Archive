@@ -1,5 +1,5 @@
 ---
-title: Billboard Prints
+title: Billboard
 
 description: ""
     
