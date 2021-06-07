@@ -8,5 +8,5 @@ images:
   - /img/parts/crane-claw-1.jpg
   - /img/parts/crane-claw-2.jpg
   - /img/parts/crane-claw-3.jpg
-  - /img/parts/crane-claw-closed.jpg
+  - /img/parts/crane-claw-open.jpg
 ---
