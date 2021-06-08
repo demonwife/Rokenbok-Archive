@@ -19,7 +19,14 @@
 				{{ if (isset . "items") }}
 				<ul>
 					{{ range .items }}
-						<li>{{ . }}</li>
+						<li>
+							{{ if isset . "url"}}
+								<a href="{{.url}}" target="_BLANK">{{.name}}</a>
+							{{ else }}
+								{{ . }}
+							{{ end }}
+							
+						</li>
 					{{ end }}
 				</ul>
 				{{ end }}
@@ -36,7 +43,7 @@
 
 			</div>
 		{{ end }}
-		<div class="col"></div>
+		<!-- <div class="col"></div> -->
 	</div>
 </div>
 
