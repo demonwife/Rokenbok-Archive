@@ -6,7 +6,7 @@ tiles:
   - heading: Thanks to
     items:
       - CR12 (list of Rokenbok sets)
-      - {name: "MrWonka (Projects, archiving, and minor coding)", url: "https://mrwonka.com/"}
+      - {name: "MrWonka (projects & archiving)", url: "https://mrwonka.com/"}
   - heading: More Rokenbok sites
     links:
       - {name: "Rokenbok.info", url: "https://rokenbok.info/"}
