@@ -1,6 +1,6 @@
 ---
 cmseditable: true
-draft: true
+draft: false
 title: Barricade
 year: 1998
 images: []
