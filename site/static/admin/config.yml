@@ -42,6 +42,7 @@ x-commonFields:
       field: {
         widget: "select",
         required: false,
+        name: "category",
         options: [
           "Action Accessory",
           "Book",
