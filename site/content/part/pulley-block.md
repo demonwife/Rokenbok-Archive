@@ -1,5 +1,5 @@
 ---
-title: Pulley
+title: Pulley Block
 
 description: ""
 cadfiles:

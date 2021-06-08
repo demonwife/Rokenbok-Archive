@@ -2,7 +2,7 @@
 cmseditable: true
 draft: false
 title: Greasing the Piston Plant
-date: 2021-05-26T14:04:10.000Z
+date: 2021-06-02T14:04:10.000Z
 description: Make the Piston Plant not get stuck or squeak!
 thumb: /cms/pp_exploded1.jpg
 authors: MrWonka (Jarret)
