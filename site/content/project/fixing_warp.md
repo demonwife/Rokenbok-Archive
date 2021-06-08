@@ -3,13 +3,13 @@ cmseditable: true
 draft: false
 title: Un-warping components
 date: 2021-05-26T14:04:10.000Z
-description: Straighting out a warped Piston Plant Guide
+description: Straightening out a warped Piston Plant Guide
 thumb: /cms/fixing_Warp_Before.jpg
 authors: MrWonka (Jarret)
 ---
-If you (or someone else) has stored plastic components in a hot enviorment, then you may discover they have warped. This is more likely to happen to the [Piston Plant Guide](https://roklink.net/part/piston-plant-guide), due to how thin it is. 
+If you (or someone else) has stored plastic components in a hot environment, then you may discover they have warped. This is more likely to happen to the [Piston Plant Guide](https://roklink.net/part/piston-plant-guide), due to how thin it is. 
 
-Thankfully fixing this is fairly simple and dosen't require any special tools or knowledge.
+Thankfully fixing this is fairly simple and doesn't require any special tools or knowledge.
 
 Obviously, don't do this with any electronic parts, and hot water is hot.
 
