@@ -2,5 +2,13 @@
 
 import "./css/main.css";
 
+import 'bootstrap';
+
 var $ = require("jquery");
-require("datatables.net-bs4")($);
+// require("datatables.net-bs4")($);
+
+
+// $(document).ready( function () {
+//     $('.datatable').DataTable();
+// } );
+
