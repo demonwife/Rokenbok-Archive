@@ -4,8 +4,6 @@ tiles:
   - heading: Curator
     text: TechplexEngineer
   - heading: Thanks to
-    links:
-      - {name: "CR12 (list of Rokenbok sets)", url: "https://www.youtube.com/channel/UC5h15cv-wu2yqpdr8byvYEw"}
     items:
       - CR12 (list of Rokenbok sets)
       - {name: "MrWonka (projects & archiving)", url: "https://mrwonka.com/"}
