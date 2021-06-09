@@ -35,7 +35,7 @@ parts:
     color: gray
     
   - qty: 1
-    name: Recycling Center Slant
+    name: Spillway
     color: light gray
     
   - qty: 1
