@@ -37,18 +37,23 @@ parts:
   - qty: 20
     name: Full Beam
     color: black
+    
   - qty: 10
     name: Full Beam
     color: gray
+    
   - qty: 4
     name: Half Beam 
     color: black
+    
   - qty: 2
     name: Half Beam
     color: gray
+    
   - qty: 1
     name: Single Block/Cube
     color: gray
+    
   - qty: 2
     name: Single Snap Block
     color: bray
@@ -56,18 +61,23 @@ parts:
   - qty: 20
     name: Riser
     color: light gray
+    
   - qty: 6
     name: Arch
     color: green
+    
   - qty: 12
     name: Corbel
     color: red
+    
   - qty: 2
     name: Hinge Block
     color: red
+    
   - qty: 1
     name: Crane Hook
     color: red
+    
   - qty: 22
     name: Single Block/Cube
     color: red
@@ -75,18 +85,23 @@ parts:
   - qty: 4
     name: 3 Way Brace
     color: red
+    
   - qty: 4
     name: Girder
     color: red
+    
   - qty: 1
     name: Rokenbok Tool
     color: metal
+    
   - qty: 5
     name: Pulley Block
     color: red
+    
   - qty: 4
     name: 60 Degree Block
     color: gray
+    
   - qty: 4
     name: 30 Degree Block
     color: gray
@@ -94,21 +109,27 @@ parts:
   - qty: 4
     name: Roadway Incline
     color: black
+    
   - qty: 6
     name: Roadway Straight Segment
     color: black
+    
   - qty: 2
     name: Roadway Entry
     color: black
+    
   - qty: 1
     name: Crane Bucket
     color: red
+    
   - qty: 1
     name: String Block
     color: red
+    
   - qty: 6
     name: Lamp
     color: red
+    
   - qty: 1
     name: X2 Dual Drive Power Unit
     color: orange
