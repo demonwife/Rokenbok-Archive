@@ -29,21 +29,27 @@ parts:
   - qty: 10
     name: Half Beam
     color: gray
+    
   - qty: 10
     name: Full Beam
     color: gray
+    
   - qty: 1
     name: Recycling Center Slant
     color: light gray
+    
   - qty: 1
     name: Recycling Center Ramp
     color: gray
+    
   - qty: 1
     name: Recycling Center Large Scoop
     color: green
+    
   - qty: 1
     name: Billboard Frame Back
     color: orange
+    
   - qty: 1
     name: Billboard Frame Front
     color: orange
@@ -51,24 +57,31 @@ parts:
   - qty: 2
     name: 2 Way Brace
     color: blue
+    
   - qty: 2
     name: Large Curved Beam
     color: gray
+    
   - qty: 21
     name: Single Block/Cube
     color: orange
+    
   - qty: 1
-    name: Recycling Center Grate
+    name: Barrel Sorter
     color: green
+    
   - qty: 1
     name: Pump Plant Sign
     color: yellow
+    
   - qty: 1
     name: Rokenbok Tool
     color: metal
+    
   - qty: 1
     name: Recycling Center Small Scoop
     color: green
+    
   - qty: 1
     name: Tall Sign
     color: light gray
@@ -78,10 +91,12 @@ parts:
     name: Billboard
     color: printed
     desc: Rokenbok Recycling Center
+    
   - qty: 1
     name: Billboard
     color: printed
     desc: Rokenbok Recycling Center
+    
   - qty: 1
     name: Billboard
     color: printed
@@ -90,10 +105,12 @@ parts:
   - qty: 2
     name: Lamp
     color: yellow
+    
   - qty: 2
     name: Wall 1x7
     color: light gray
     desc: squares
+    
   - qty: 2
     name: Girder
     color: blue
@@ -101,18 +118,23 @@ parts:
   - qty: 10
     name: 16mm Red ROK
     color: red
+    
   - qty: 10
     name: 19mm Blue ROK
     color: blue
+    
   - qty: 1
     name: Bin
     color: green
+    
   - qty: 20
     name: Barrel
     color: orange
+    
   - qty: 1
     name: Worker/Figure
     color: blue
+    
   - qty: 1
     name: RC Dozer
     color: orange
