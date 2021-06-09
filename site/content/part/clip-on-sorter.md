@@ -1,7 +1,7 @@
 ---
 cmseditable: true
 draft: false
-title: Clip on Sorter
+title: Clip On Sorter
 cadfiles:
 images: []
 thumb: img/parts/clip-on-sorter.jpg
