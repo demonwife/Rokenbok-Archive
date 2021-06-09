@@ -225,7 +225,7 @@ parts:
     color: yellow
     
   - qty: 1
-    name: X2 Dual Drive Power Unit
+    name: X2 Duel Drive Power Unit
     color: orange
 ---
 A Dynamic Design and Engineering Set for Your Young Engineer!
