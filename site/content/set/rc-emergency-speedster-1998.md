@@ -33,15 +33,16 @@ parts:
   - qty: 1
     name: RC Emergency Speedster
     color: white
+    
   - qty: 2
     name: Worker/Figure
     color: blue
+    
   - qty: 4
     name: Cone
     color: orange
+    
   - qty: 2
-    name: Barrier
+    name: Barricade
     color: orange
-
-
 ---
