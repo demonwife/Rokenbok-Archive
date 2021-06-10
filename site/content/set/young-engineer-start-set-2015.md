@@ -1,32 +1,4 @@
 ---
-title: Young Engineer Start Set
-year: 2015
-description: >-
-  Inspire your young engineer with this flexible, powerful collection of Rokenbok building elements and remote control robotics. This large collection will provide an endless stream of inventions - powered, remote controlled machines that will amaze.
-archiveLinks:
-  - name: 06/02/2015
-    link: https://web.archive.org/web/20150602005714/http://www.rokenbok.com/shop/start-sets/maker-series-young-engineer-start-set-0
-priceHistory:
-  - date: 06/02/2015
-    price: $259.99
-skus:
-  - "04129"
-categories: 
-  - Start Set (Rok Star)
-video: ""
-plans:
-- name: Young Engineer Ss
-  link: /plans/04129_young_engineer_ss.pdf
-
-thumb: /img/sets/04129_young_engineer_ss_1.jpg
-images:
-  - /img/sets/04129_young_engineer_ss_2.jpg
-  - /img/sets/04129_young_engineer_ss_3.jpg
-  - /img/sets/04129_young_engineer_ss_4.jpg
-  - /img/sets/04129_young_engineer_ss_5.jpg
-  - /img/sets/04129_young_engineer_ss_parts.jpg
-cmseditable: true
-
 parts:
   - qty: 77
     name: Cube
@@ -40,7 +12,6 @@ parts:
   - qty: 32
     name: Single Snap Block
     color: gray
-
   - qty: 19
     name: 60 Degree Block
     color: gray
@@ -65,7 +36,6 @@ parts:
   - qty: 6
     name: Lamp
     color: yellow
-
   - qty: 85
     name: Riser
     color: light gray
@@ -90,7 +60,6 @@ parts:
   - qty: 1
     name: Crane Hook
     color: red
-
   - qty: 34
     name: Full Beam
     color: gray
@@ -115,7 +84,6 @@ parts:
   - qty: 2
     name: Rokenbok Tool
     color: metal
-
   - qty: 13
     name: Large Curved Beam
     color: gray
@@ -182,8 +150,35 @@ parts:
   - qty: 1
     name: X2 Power Unit
     color: orange
-
-
+cmseditable: true
+title: Young Engineer Start Set
+archiveLinks:
+  - name: 06/02/2015
+    link: https://web.archive.org/web/20150602005714/http://www.rokenbok.com/shop/start-sets/maker-series-young-engineer-start-set-0
+priceHistory:
+  - date: 06/02/2015
+    price: "259.99"
+skus:
+  - "04129"
+video: ""
+plans:
+  - name: Young Engineer Ss
+    link: /plans/04129_young_engineer_ss.pdf
+images:
+  - /img/sets/04129_young_engineer_ss_2.jpg
+  - /img/sets/04129_young_engineer_ss_3.jpg
+  - /img/sets/04129_young_engineer_ss_4.jpg
+  - /img/sets/04129_young_engineer_ss_5.jpg
+  - /img/sets/04129_young_engineer_ss_parts.jpg
+thumb: /img/sets/04129_young_engineer_ss_1.jpg
+categories:
+  - Start Set (Rok Star)
+year: 2015
+description: Inspire your young engineer with this flexible, powerful collection
+  of Rokenbok building elements and remote control robotics. This large
+  collection will provide an endless stream of inventions - powered, remote
+  controlled machines that will amaze.
+category: []
 ---
 A Dynamic Design and Engineering Set for Your Young Engineer!
 
