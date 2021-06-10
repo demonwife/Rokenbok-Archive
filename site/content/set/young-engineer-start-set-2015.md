@@ -27,6 +27,8 @@ images:
   - /img/sets/04129_young_engineer_ss_parts.jpg
 cmseditable: true
 
+=======
+
 parts:
   - qty: 77
     name: Cube
@@ -43,7 +45,6 @@ parts:
   - qty: 32
     name: Single Snap Block
     color: gray
-
   - qty: 19
     name: 60 Degree Block
     color: gray
@@ -75,7 +76,6 @@ parts:
   - qty: 6
     name: Lamp
     color: yellow
-
   - qty: 85
     name: Riser
     color: light gray
@@ -107,7 +107,6 @@ parts:
   - qty: 1
     name: Crane Hook
     color: red
-
   - qty: 34
     name: Full Beam
     color: gray
@@ -139,7 +138,6 @@ parts:
   - qty: 2
     name: Rokenbok Tool
     color: metal
-
   - qty: 13
     name: Large Curved Beam
     color: gray
@@ -227,7 +225,6 @@ parts:
   - qty: 1
     name: X2 Dual Drive Power Unit
     color: orange
-    desc: ROK Star
 ---
 A Dynamic Design and Engineering Set for Your Young Engineer!
 
