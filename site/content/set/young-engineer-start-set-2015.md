@@ -8,7 +8,7 @@ archiveLinks:
     link: https://web.archive.org/web/20150602005714/http://www.rokenbok.com/shop/start-sets/maker-series-young-engineer-start-set-0
 priceHistory:
   - date: 06/02/2015
-    price: $259.99
+    price: 259.99
 skus:
   - "04129"
 categories: 
@@ -227,6 +227,7 @@ parts:
   - qty: 1
     name: X2 Dual Drive Power Unit
     color: orange
+    desc: ROK Star
 ---
 A Dynamic Design and Engineering Set for Your Young Engineer!
 
