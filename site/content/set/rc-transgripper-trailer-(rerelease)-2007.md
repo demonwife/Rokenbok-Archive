@@ -30,37 +30,32 @@ cmseditable: true
 parts:
   - qty: 5
     name: 16mm Red ROK
-	color: red
-
+    color: red
   - qty: 5
-	name: 19mm Blue ROK
-	color: blue
-
+    name: 19mm Blue ROK
+    color: blue
   - qty: 4
-	name: Barrel
-	color: orange
+    name: Barrel
+    color: orange
 
   - qty: 1
-	name: Bin
-	color: red
-
+    name: Bin
+    color: red
   - qty: 1
-	name: Bin
-	color: blue
-
+    name: Bin
+    color: blue
   - qty: 1
-	name: Barrel Holder
-	color: green
+    name: Barrel Holder
+    color: green
 
   - qty: 2
-	name: Handrail/Railing
-	color: yellow
-
+    name: Handrail/Railing
+    color: yellow
   - qty: 1
-	name: Cargo Trailer
-	color: blue
-
+    name: Cargo Trailer
+    color: blue
   - qty: 1
-	name: RC Transgripper
-	color: blue
+    name: RC Transgripper
+    color: blue
+
 ---
