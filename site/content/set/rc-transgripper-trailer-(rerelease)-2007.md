@@ -22,7 +22,7 @@ parts:
     name: Handrail/Railing
     color: yellow
   - qty: 1
-    name: Cargo Trailer
+    name: Trailer
     color: blue
   - qty: 1
     name: RC Transgripper
