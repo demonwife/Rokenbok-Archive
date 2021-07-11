@@ -37,7 +37,7 @@ parts:
     color: green
 	
   - qty: 1
-    name: Trailer
+    name: Cargo Trailer
     color: green
 	
   - qty: 2
