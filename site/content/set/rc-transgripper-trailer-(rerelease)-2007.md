@@ -34,6 +34,8 @@ archiveLinks:
     link: https://web.archive.org/web/20080311093631/http://www.rokenbok.com/RO_Products/RC/RC_04245.asp
   - name: 11/23/2009
     link: https://web.archive.org/web/20091123182038/http://www.rokenbok.com/RO_Products/RC/RC_04245.asp
+  - name: worthpoint
+    link: https://www.worthpoint.com/worthopedia/rokenbok-rc-transgripper-trailer-add-20676119
 priceHistory:
   - date: 03/11/2008
     price: 64.99
