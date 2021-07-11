@@ -31,87 +31,66 @@ parts:
   - qty: 10
     name: 16mm Red ROK
     color: red
-	
   - qty: 10
     name: 19mm Blue ROK
     color: blue
-
   - qty: 2
     name: Jr Top
     color: red
-	
   - qty: 2
     name: Water Tower Tab
     color: gray
-	
   - qty: 2
     name: Signal Light
     color: light gray
-
   - qty: 1
     name: Clip On Sorter
     color: dark green
-	
   - qty: 2
     name: Sorted Ball Chute
     color: dark green
-	
   - qty: 4
     name: Support Column
     color: yellow
-	
   - qty: 2
     name: Jr Base
     color: black
-	
   - qty: 2
     name: Jr Roadway Turn
     color: black
-	
   - qty: 2
     name: Jr Roadway Incline
     color: black
-	
   - qty: 1
     name: Jr Dump Truck
     color: green/yellow
-	
   - qty: 1
     name: Jr Truck Controller
     color: yellow
-	
   - qty: 1
     name: Motorized Conveyor
     color: orange/green
-	
   - qty: 1
     name: Jr Roadway Turnaround
     color: black
-	
   - qty: 1
     name: Jr Roadway Straight Segment
     color: black
-	
   - qty: 1
     name: Jr Roadway Incline Start
     color: black
-	
   - qty: 18
     name: 2x2 ROK Block
     color: blue
-	
   - qty: 1
     name: Worker/Figure
     color: white/yellow
-	
   - qty: 1
     name: Worker/Figure
     color: green/orange
-	
   - qty: 1
     name: Jr Barricade
     color: white
-
 ---
 Where Animation and Imagination Collide!
 
