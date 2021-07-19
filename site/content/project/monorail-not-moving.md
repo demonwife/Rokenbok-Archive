@@ -20,7 +20,7 @@ Then another couple to get at the gearbox. Once the gearbox was open the issue w
 
 {{< figure src="/cms/mono_broken_gear.jpg" alt="Loose drive gear in the Rokenbok RC Monorail" title="Loose drive gear!" width="500px">}}
 
-A tiny dab of J-B Weld PlasticWeld epoxy, 10 minutes and she's good as new. Alternatively, you can buy a new gear by [clicking here.](https://www.ebay.com/itm/283473725664)
+A tiny dab of J-B Weld PlasticWeld epoxy, 10 minutes and she's good as new. Alternatively, you can buy a new gear (#82a plastic gear 0.5 modulus) by [on eBay here.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2060353.m570.l1313&_nkw=%2382A+plastic+gear+0.5+modulus&_sacat=0)
 
 If you have one, you may also wish to add a small washer to keep the gear from slipping out of place.
 
