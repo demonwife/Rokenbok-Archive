@@ -2,7 +2,7 @@
 cmseditable: true
 draft: false
 title: Vehicle drives poorly / can't go up hill
-date: 2021-07-19T22:36:26.167Z
+date: 2021-07-16T22:36:26.167Z
 description: This guide applies to all vehicles, regardless of type or generation
 thumb: /cms/vehicle_gear_repair_gears.jpg
 authors: MrWonka (Jarret)
