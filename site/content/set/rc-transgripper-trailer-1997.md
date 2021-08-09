@@ -30,13 +30,12 @@ images:
   - /img/sets/04241_rc_transgripper_trailer_3.jpg
   - /img/sets/04241_rc_transgripper_trailer_4.jpg
 cmseditable: true
-
 parts:
   - qty: 1
     name: RC Transgripper
     color: green
   - qty: 1
-    name: Trailer
+    name: Cargo Trailer
     color: green
   - qty: 2
     name: Handrail/Railing
@@ -53,6 +52,4 @@ parts:
   - qty: 5
     name: 19mm Blue ROK
     color: blue
-
-
 ---

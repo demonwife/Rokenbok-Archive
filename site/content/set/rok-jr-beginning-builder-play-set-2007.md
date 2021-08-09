@@ -34,7 +34,6 @@ parts:
   - qty: 10
     name: 19mm Blue ROK
     color: blue
-
   - qty: 2
     name: Jr Top
     color: red
@@ -44,7 +43,6 @@ parts:
   - qty: 2
     name: Signal Light
     color: light gray
-
   - qty: 1
     name: Clip On Sorter
     color: dark green
@@ -91,13 +89,8 @@ parts:
     name: Worker/Figure
     color: green/orange
   - qty: 1
-    name: Jr Road Construction Sign
+    name: Jr Barricade
     color: white
-
-
-
-
-
 ---
 Where Animation and Imagination Collide!
 
