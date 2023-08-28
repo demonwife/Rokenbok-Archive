@@ -15,6 +15,7 @@ priceHistory:
     price: 79.99
 skus:
   - "33325"
+  - "43325"
 plans:
 - name: Auto Center A
   link: /plans/33325_auto_center_a.pdf
