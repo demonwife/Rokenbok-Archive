@@ -1,5 +1,5 @@
 ---
-title: Decks & Ramps
+title: Ramps & Decks
 year: 1998
 description: >-
   Extend your Roadways and increase your driving space. Includes new half deck plates for more flexible creative building. Includes 24 pieces.
@@ -13,6 +13,7 @@ priceHistory:
     price: 29.99
 skus:
   - "34830"
+  - "44830"
 categories: 
   - Building Basics
 video: ""
