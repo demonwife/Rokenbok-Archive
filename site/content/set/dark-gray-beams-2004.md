@@ -1,6 +1,6 @@
 ---
 title: Dark Gray Beams
-year: 2004
+year: 2003
 description: >-
   Need a few extra beams for your build?
   Bag contains 24 half dark gray beams and 24 full dark gray beams. For use with any Rokenbok build. 48 piece total.
