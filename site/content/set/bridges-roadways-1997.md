@@ -77,7 +77,7 @@ parts:
   - qty: 4
     name: Lamp
     color: green
-  - qty 1
+  - qty: 1
     name: Flag
     desc: Rokenbok
     color: red
