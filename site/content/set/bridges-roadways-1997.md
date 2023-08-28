@@ -79,6 +79,5 @@ parts:
     color: green
   - qty: 1
     name: Flag
-    desc: Rokenbok
     color: red
 ---
