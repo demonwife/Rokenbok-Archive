@@ -29,66 +29,56 @@ images:
 cmseditable: true
 
 parts:
+  - qty: 2
+    name: 16mm Red ROK
+    color: red
   - qty: 1
     name: Rokenbok Tool
     color: metal
-  - qty: 35
+  - qty: 36
     name: "Single Block/Cube"
     color: red
-  - qty: 35
-    name: "Single Block/Cube"
+  - qty: 2
+    name: Half Beam
     color: blue
   - qty: 10
-    name: Riser
-    color: light gray
-  - qty: 6
-    name: Half Beam
-    color: black
-  - qty: 4
-    name: Half Beam
-    color: white
-  - qty: 6
-    name: Half Beam
-    color: blue
-
-  - qty: 14
-    name: Full Beam
-    color: black
-  - qty: 4
-    name: Full Beam
-    color: white
-  - qty: 14
     name: Full Beam
     color: blue
-
+  - qty: 19
+    name: Half C-Beam
+    color: blue
+  - qty: 14
+    name: Full C-Beam
+    color: blue
   - qty: 8
-    name: Large Curved Beam
-    color: black
-
-
-  - qty: 3
     name: Deck Plate, Studs
     color: purple
-  - qty: 3
-    name: Half Deck Plate, Studs
-    color: purple
-
-  - qty: 3
-    name: Deck Plate, Studs
-    color: light gray
-  - qty: 3
-    name: Half Deck Plate, Studs
-    color: light gray
-
   - qty: 4
-    name: Curved Deck Plate, Studs
-    color: light gray
-
-  - qty: 2
     name: Ramp
     color: light gray
-
-  - qty: 3
+  - qty: 4
     name: Long Ramp, Studs
     color: light gray
+  - qty: 6
+    name: 3 Way Brace
+    color: red
+  - qty: 4
+    name: 2 Way Brace
+    color: red
+  - qty: 40
+    name: Corbel
+    color: purple
+  - qty: 14
+    name: Girder
+    color: red
+  - qty: 4
+    name: Handrail/Railing
+    color: green
+  - qty: 4
+    name: Lamp
+    color: green
+  - qty 1
+    name: Flag
+    desc: Rokenbok
+    color: red
 ---
