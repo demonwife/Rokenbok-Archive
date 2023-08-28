@@ -13,6 +13,7 @@ priceHistory:
     price: 99.99
 skus:
   - "34317"
+  - "44317"
 categories: 
   - Building Set
 video: ""
