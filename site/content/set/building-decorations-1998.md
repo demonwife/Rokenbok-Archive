@@ -31,7 +31,7 @@ parts:
   - qty: 4
     name: Handrail/Railing
     color: green
-  - qty: 6
+  - qty: 10
     name: Flag Sign
     color: white
   - qty: 2
