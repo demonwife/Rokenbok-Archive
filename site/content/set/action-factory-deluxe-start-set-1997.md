@@ -16,6 +16,10 @@ priceHistory:
 skus:
   - "34120"
   - "44120"
+  - "54120"
+  - "64120"
+  - "74120"
+  - "84120"
 categories:
   - Start Set (RC)
 video: ""
