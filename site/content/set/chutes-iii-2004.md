@@ -38,10 +38,10 @@ parts:
   - qty: 8
     name: Straight Chute
     color: yellow
-  - qty: 4
+  - qty: 3
     name: Inside Curved Chute
     color: yellow
-  - qty: 4
+  - qty: 3
     name: Outside Curved Chute
     color: yellow
   - qty: 1
