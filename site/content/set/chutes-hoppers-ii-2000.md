@@ -54,10 +54,10 @@ parts:
     name: Dump Bin
     color: blue
 
-  - qty: 4
+  - qty: 3
     name: Inside Curved Chute
     color: yellow
-  - qty: 4
+  - qty: 3
     name: Outside Curved Chute
     color: yellow
 
