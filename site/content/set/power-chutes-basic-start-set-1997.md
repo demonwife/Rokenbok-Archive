@@ -18,6 +18,8 @@ priceHistory:
 skus:
   - "34110"
   - "44110"
+  - "64110"
+  - "74110"
 
 categories:
   - Action Accessory
